@@ -9,6 +9,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { scoreJobs } = require('./score-jobs');
 
 const SCRAPER_URL = process.env.SCRAPER_URL;
 const BASE_QUERY = process.env.QUERY || process.env.JOB_QUERY || 'data analyst power bi sql excel tableau';
@@ -80,7 +81,10 @@ async function main() {
 
   // Keep newest 500
   merged.sort((a, b) => new Date(b.postedAt) - new Date(a.postedAt));
-  const trimmed = merged.slice(0, 500);
+  let trimmed = merged.slice(0, 500);
+
+  // Score every job against your profile, sort best matches first
+  trimmed = scoreJobs(trimmed);
 
   fs.writeFileSync(
     JOBS_FILE,

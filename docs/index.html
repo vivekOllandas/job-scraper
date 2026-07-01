@@ -14,6 +14,9 @@
     --accent: #6ea8fe;
     --indeed: #2557a7;
     --naukri: #4a90d9;
+    --score-high: #2e9e5b;
+    --score-mid: #d0a13a;
+    --score-low: #6b6f76;
   }
   * { box-sizing: border-box; }
   body {
@@ -27,12 +30,13 @@
   h1 { font-size: 1.5rem; margin-bottom: 4px; }
   #meta { color: var(--muted); font-size: 0.9rem; }
   #controls {
-    max-width: 900px; margin: 0 auto 20px; display: flex; gap: 8px; flex-wrap: wrap;
+    max-width: 900px; margin: 0 auto 20px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
   }
   input, select {
     background: var(--card); border: 1px solid var(--border); color: var(--text);
     padding: 8px 12px; border-radius: 8px; font-size: 0.9rem;
   }
+  label { color: var(--muted); font-size: 0.85rem; display: flex; align-items: center; gap: 6px; }
   #jobs { max-width: 900px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px; }
   .job {
     background: var(--card); border: 1px solid var(--border); border-radius: 10px;
@@ -42,14 +46,22 @@
   .job-title { font-size: 1.05rem; font-weight: 600; }
   .job-title a { color: var(--text); text-decoration: none; }
   .job-title a:hover { color: var(--accent); }
+  .badges { display: flex; gap: 6px; align-items: center; flex-shrink: 0; }
   .badge {
     font-size: 0.7rem; padding: 3px 8px; border-radius: 999px; white-space: nowrap;
     text-transform: uppercase; letter-spacing: 0.02em;
   }
   .badge.indeed { background: var(--indeed); color: white; }
   .badge.naukri { background: var(--naukri); color: white; }
+  .score {
+    font-size: 0.75rem; font-weight: 700; padding: 3px 9px; border-radius: 999px; color: white;
+  }
+  .score.high { background: var(--score-high); }
+  .score.mid { background: var(--score-mid); }
+  .score.low { background: var(--score-low); }
   .job-company { color: var(--muted); font-size: 0.9rem; margin-top: 4px; }
   .job-summary { color: var(--muted); font-size: 0.85rem; margin-top: 8px; line-height: 1.4; }
+  .matched-skills { margin-top: 8px; font-size: 0.78rem; color: var(--accent); }
   #empty { color: var(--muted); text-align: center; margin-top: 60px; }
 </style>
 </head>
@@ -66,6 +78,10 @@
       <option value="indeed">Indeed</option>
       <option value="naukri">Naukri</option>
     </select>
+    <label>
+      <input type="checkbox" id="onlyTopMatches" checked />
+      Only show 8+ matches
+    </label>
   </div>
 
   <div id="jobs"></div>
@@ -91,16 +107,24 @@
       }
     }
 
+    function scoreClass(score) {
+      if (score >= 8) return 'high';
+      if (score >= 5) return 'mid';
+      return 'low';
+    }
+
     function render() {
       const query = document.getElementById('search').value.toLowerCase();
       const source = document.getElementById('sourceFilter').value;
+      const onlyTop = document.getElementById('onlyTopMatches').checked;
 
       const filtered = allJobs.filter(j => {
         const matchesQuery = !query ||
           j.title.toLowerCase().includes(query) ||
           j.company.toLowerCase().includes(query);
         const matchesSource = !source || j.source === source;
-        return matchesQuery && matchesSource;
+        const matchesScore = !onlyTop || (j.matchScore || 0) >= 8;
+        return matchesQuery && matchesSource && matchesScore;
       });
 
       const container = document.getElementById('jobs');
@@ -111,13 +135,18 @@
       for (const job of filtered) {
         const div = document.createElement('div');
         div.className = 'job';
+        const score = job.matchScore != null ? job.matchScore : '?';
         div.innerHTML = `
           <div class="job-top">
             <div class="job-title"><a href="${job.link}" target="_blank" rel="noopener">${job.title}</a></div>
-            <span class="badge ${job.source}">${job.source}</span>
+            <div class="badges">
+              <span class="score ${scoreClass(job.matchScore || 0)}">${score}/10</span>
+              <span class="badge ${job.source}">${job.source}</span>
+            </div>
           </div>
           <div class="job-company">${job.company} · ${job.location}</div>
           ${job.summary ? `<div class="job-summary">${job.summary}</div>` : ''}
+          ${job.matchedSkills && job.matchedSkills.length ? `<div class="matched-skills">Matched: ${job.matchedSkills.join(', ')}</div>` : ''}
         `;
         container.appendChild(div);
       }
@@ -125,6 +154,7 @@
 
     document.getElementById('search').addEventListener('input', render);
     document.getElementById('sourceFilter').addEventListener('change', render);
+    document.getElementById('onlyTopMatches').addEventListener('change', render);
 
     loadJobs();
     setInterval(loadJobs, 5 * 60 * 1000);
