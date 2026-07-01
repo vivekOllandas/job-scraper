@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: job-scraper
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: JOB_QUERY
+        value: software engineer
+      - key: INDEED_LOCATION
+        value: Remote
+      - key: NAUKRI_LOCATION
+        value: India
+    autoDeploy: true

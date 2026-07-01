@@ -1,0 +1,18 @@
+name: Keep Render Service Alive
+
+on:
+  schedule:
+    # Ping every 14 minutes so Render free tier never sleeps (sleeps after 15 min idle)
+    - cron: '*/14 * * * *'
+  workflow_dispatch: {}
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Render health endpoint
+        env:
+          SCRAPER_URL: ${{ secrets.SCRAPER_URL }}
+        run: |
+          echo "Pinging $SCRAPER_URL/health"
+          curl -sf "$SCRAPER_URL/health" && echo "✅ Service is awake" || echo "⚠️ Service did not respond"

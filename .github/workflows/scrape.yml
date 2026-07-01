@@ -1,0 +1,38 @@
+name: Update Job Listings
+
+on:
+  schedule:
+    # Every 6 hours. Edit this cron to change frequency.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest jobs from Render service
+        env:
+          SCRAPER_URL: ${{ secrets.SCRAPER_URL }}
+          QUERY: ${{ vars.JOB_QUERY }}
+          INDEED_LOCATION: ${{ vars.INDEED_LOCATION }}
+          NAUKRI_LOCATION: ${{ vars.NAUKRI_LOCATION }}
+        run: node scripts/update-jobs.js
+
+      - name: Commit updated jobs.json
+        run: |
+          git config user.name "job-scraper-bot"
+          git config user.email "actions@github.com"
+          git add public/jobs.json
+          git diff --staged --quiet || git commit -m "Update job listings [automated]"
+          git push
