@@ -1,81 +1,43 @@
-const { chromium } = require('playwright');
+const axios = require('axios');
+const cheerio = require('cheerio');
 
-/**
- * Scrapes Indeed job listings.
- * @param {string} query - job title / keywords, e.g. "software engineer"
- * @param {string} location - e.g. "Remote", "New York"
- * @returns {Promise<Array<{title, company, location, summary, link, postedAt, source}>>}
- */
 async function scrapeIndeed(query = 'software engineer', location = 'Remote') {
-  const browser = await chromium.launch({
-    headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
-  });
-
+  const url = `https://www.indeed.com/jobs?q=${encodeURIComponent(query)}&l=${encodeURIComponent(location)}`;
   const jobs = [];
 
   try {
-    const context = await browser.newContext({
-      userAgent:
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36'
+    const { data } = await axios.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+      },
+      timeout: 20000
     });
-    const page = await context.newPage();
 
-    const url = `https://www.indeed.com/jobs?q=${encodeURIComponent(
-      query
-    )}&l=${encodeURIComponent(location)}`;
+    const $ = cheerio.load(data);
 
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+    $('div.job_seen_beacon, td.resultContent').each((_, el) => {
+      const title = $(el).find('h2.jobTitle span').text().trim();
+      const company = $(el).find('[data-testid="company-name"]').text().trim();
+      const loc = $(el).find('[data-testid="text-location"]').text().trim();
+      const summary = $(el).find('div.job-snippet').text().trim().replace(/\s+/g, ' ');
+      const href = $(el).find('h2.jobTitle a').attr('href');
 
-    // Indeed sometimes shows a captcha/interstitial - give it a moment
-    await page.waitForTimeout(2000);
-
-    // Job cards live inside elements with data-jk (job key) attribute
-    const cards = await page.$$('div.job_seen_beacon, td.resultContent');
-
-    for (const card of cards) {
-      try {
-        const title = await card.$eval(
-          'h2.jobTitle span, h2.jobTitle a span',
-          (el) => el.textContent.trim()
-        ).catch(() => null);
-
-        const company = await card
-          .$eval('span[data-testid="company-name"]', (el) => el.textContent.trim())
-          .catch(() => null);
-
-        const jobLocation = await card
-          .$eval('div[data-testid="text-location"]', (el) => el.textContent.trim())
-          .catch(() => null);
-
-        const summary = await card
-          .$eval('div.job-snippet, div[data-testid="jobsnippet_footer"]', (el) =>
-            el.textContent.trim().replace(/\s+/g, ' ')
-          )
-          .catch(() => null);
-
-        const relativeLink = await card
-          .$eval('h2.jobTitle a', (el) => el.getAttribute('href'))
-          .catch(() => null);
-
-        if (title) {
-          jobs.push({
-            title,
-            company: company || 'Unknown',
-            location: jobLocation || location,
-            summary: summary || '',
-            link: relativeLink ? `https://www.indeed.com${relativeLink}` : url,
-            postedAt: new Date().toISOString(),
-            source: 'indeed'
-          });
-        }
-      } catch (innerErr) {
-        // Skip malformed card, keep going
-        continue;
+      if (title) {
+        jobs.push({
+          title,
+          company: company || 'Unknown',
+          location: loc || location,
+          summary,
+          link: href ? `https://www.indeed.com${href}` : url,
+          postedAt: new Date().toISOString(),
+          source: 'indeed'
+        });
       }
-    }
-  } finally {
-    await browser.close();
+    });
+  } catch (err) {
+    console.error('[Indeed] Error:', err.message);
   }
 
   return jobs;
