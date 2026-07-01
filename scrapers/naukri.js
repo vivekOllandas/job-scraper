@@ -1,60 +1,84 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
+const https = require('https');
 
+/**
+ * Uses Naukri's internal search API (same one their website uses).
+ * No key required but may need occasional selector updates.
+ */
 async function scrapeNaukri(query = 'software engineer', location = '') {
-  const slug = query.trim().toLowerCase().replace(/\s+/g, '-');
-  const locationSlug = location ? location.trim().toLowerCase().replace(/\s+/g, '-') : '';
-  const url = locationSlug
-    ? `https://www.naukri.com/${slug}-jobs-in-${locationSlug}`
-    : `https://www.naukri.com/${slug}-jobs`;
-
   const jobs = [];
-  const debug = { url, cardCount: 0, error: null };
+  const debug = { url: '', cardCount: 0, error: null };
 
-  try {
-    const { data } = await axios.get(url, {
+  return new Promise((resolve) => {
+    const params = new URLSearchParams({
+      noOfResults: '20',
+      urlType: 'search_by_keyword',
+      searchType: 'adv',
+      keyword: query,
+      location: location || '',
+      pageNo: '1',
+      k: query,
+      l: location || '',
+      seoKey: query.toLowerCase().replace(/\s+/g, '-') + '-jobs',
+      src: 'jobsearchDesk',
+      latLong: ''
+    });
+
+    const url = `https://www.naukri.com/jobapi/v3/search?${params.toString()}`;
+    debug.url = url;
+
+    const options = {
+      method: 'GET',
+      hostname: 'www.naukri.com',
+      path: `/jobapi/v3/search?${params.toString()}`,
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Accept-Language': 'en-IN,en;q=0.9',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Referer': 'https://www.naukri.com/'
-      },
-      timeout: 20000
-    });
-
-    const $ = cheerio.load(data);
-
-    $('article.jobTuple, div.cust-job-tuple, div[class*="srp-jobtuple"]').each((_, el) => {
-      const title = $(el).find('a.title, a[class*="title"]').first().text().trim();
-      const link = $(el).find('a.title, a[class*="title"]').first().attr('href');
-      const company = $(el).find('a.subTitle, a[class*="comp-name"]').first().text().trim();
-      const loc = $(el).find('span.locWdth, span[class*="loc"]').first().text().trim();
-      const exp = $(el).find('span.expwdth, span[class*="exp"]').first().text().trim();
-      const salary = $(el).find('span.salary, span[class*="sal"]').first().text().trim();
-      const summary = $(el).find('div.job-description, span.job-desc').first().text().trim().replace(/\s+/g, ' ').slice(0, 300);
-
-      if (title) {
-        jobs.push({
-          title,
-          company: company || 'Unknown',
-          location: loc || location || 'India',
-          experience: exp || null,
-          salary: salary || null,
-          summary,
-          link: link || url,
-          postedAt: new Date().toISOString(),
-          source: 'naukri'
-        });
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': 'application/json',
+        'Referer': 'https://www.naukri.com/',
+        'appid': '109',
+        'systemid': '109',
+        'x-requested-with': 'XMLHttpRequest'
       }
+    };
+
+    const req = https.request(options, (res) => {
+      let body = '';
+      res.on('data', chunk => body += chunk);
+      res.on('end', () => {
+        try {
+          const data = JSON.parse(body);
+          const listings = data.jobDetails || [];
+          debug.cardCount = listings.length;
+
+          for (const j of listings) {
+            jobs.push({
+              title: j.title || 'Unknown',
+              company: j.companyName || 'Unknown',
+              location: (j.placeholders?.find(p => p.type === 'location')?.label) || location || 'India',
+              experience: j.placeholders?.find(p => p.type === 'experience')?.label || null,
+              salary: j.placeholders?.find(p => p.type === 'salary')?.label || null,
+              summary: j.jobDescription ? j.jobDescription.replace(/<[^>]*>/g, '').slice(0, 300) : '',
+              link: j.jdURL || `https://www.naukri.com${j.jobId}`,
+              postedAt: j.createdDate ? new Date(j.createdDate).toISOString() : new Date().toISOString(),
+              source: 'naukri'
+            });
+          }
+          resolve({ jobs, debug });
+        } catch (e) {
+          debug.error = e.message;
+          console.error('[Naukri] Parse error:', e.message, body.slice(0, 200));
+          resolve({ jobs: [], debug });
+        }
+      });
     });
 
-    debug.cardCount = jobs.length;
-  } catch (err) {
-    debug.error = err.message;
-    console.error('[Naukri] Error:', err.message);
-  }
+    req.on('error', (e) => {
+      debug.error = e.message;
+      console.error('[Naukri] Request error:', e.message);
+      resolve({ jobs: [], debug });
+    });
 
-  return { jobs, debug };
+    req.end();
+  });
 }
 
 module.exports = { scrapeNaukri };

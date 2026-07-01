@@ -1,46 +1,65 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
+const https = require('https');
 
+/**
+ * Uses JSearch API on RapidAPI to get Indeed + other job boards.
+ * Free tier: 200 requests/month
+ * Requires RAPIDAPI_KEY env var
+ */
 async function scrapeIndeed(query = 'software engineer', location = 'Remote') {
-  const url = `https://www.indeed.com/jobs?q=${encodeURIComponent(query)}&l=${encodeURIComponent(location)}`;
-  const jobs = [];
-
-  try {
-    const { data } = await axios.get(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
-      },
-      timeout: 20000
-    });
-
-    const $ = cheerio.load(data);
-
-    $('div.job_seen_beacon, td.resultContent').each((_, el) => {
-      const title = $(el).find('h2.jobTitle span').text().trim();
-      const company = $(el).find('[data-testid="company-name"]').text().trim();
-      const loc = $(el).find('[data-testid="text-location"]').text().trim();
-      const summary = $(el).find('div.job-snippet').text().trim().replace(/\s+/g, ' ');
-      const href = $(el).find('h2.jobTitle a').attr('href');
-
-      if (title) {
-        jobs.push({
-          title,
-          company: company || 'Unknown',
-          location: loc || location,
-          summary,
-          link: href ? `https://www.indeed.com${href}` : url,
-          postedAt: new Date().toISOString(),
-          source: 'indeed'
-        });
-      }
-    });
-  } catch (err) {
-    console.error('[Indeed] Error:', err.message);
+  const apiKey = process.env.RAPIDAPI_KEY;
+  if (!apiKey) {
+    console.warn('[Indeed] RAPIDAPI_KEY not set, skipping');
+    return [];
   }
 
-  return jobs;
+  return new Promise((resolve) => {
+    const params = new URLSearchParams({
+      query: `${query} ${location}`,
+      page: '1',
+      num_pages: '1',
+      date_posted: 'week'
+    });
+
+    const options = {
+      method: 'GET',
+      hostname: 'jsearch.p.rapidapi.com',
+      path: `/search?${params.toString()}`,
+      headers: {
+        'x-rapidapi-key': apiKey,
+        'x-rapidapi-host': 'jsearch.p.rapidapi.com'
+      }
+    };
+
+    const req = https.request(options, (res) => {
+      let body = '';
+      res.on('data', chunk => body += chunk);
+      res.on('end', () => {
+        try {
+          const data = JSON.parse(body);
+          const jobs = (data.data || []).map(j => ({
+            title: j.job_title,
+            company: j.employer_name || 'Unknown',
+            location: j.job_city ? `${j.job_city}, ${j.job_country}` : (j.job_country || location),
+            summary: j.job_description ? j.job_description.slice(0, 300) : '',
+            link: j.job_apply_link || j.job_google_link || '',
+            postedAt: j.job_posted_at_datetime_utc || new Date().toISOString(),
+            source: 'indeed'
+          }));
+          resolve(jobs);
+        } catch (e) {
+          console.error('[Indeed] Parse error:', e.message);
+          resolve([]);
+        }
+      });
+    });
+
+    req.on('error', (e) => {
+      console.error('[Indeed] Request error:', e.message);
+      resolve([]);
+    });
+
+    req.end();
+  });
 }
 
 module.exports = { scrapeIndeed };
