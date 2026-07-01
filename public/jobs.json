@@ -1,6 +1,187 @@
 {
-  "lastUpdated": null,
+  "lastUpdated": "2026-07-01T15:02:00.556Z",
   "query": "software engineer",
-  "count": 0,
-  "jobs": []
+  "count": 20,
+  "jobs": [
+    {
+      "title": "Hiring for a Software Technologist - (DICOM , C++)",
+      "company": "AvenuesHR Consulting",
+      "location": "India",
+      "summary": "We are hiring for a Software Technologist / Software Engineer role with a leading medical technology company in Bangalore\n\nExperience: 3 to 7 years\n\nLocation: Bangalore\n\nWork Model: 5 days work from office\n\n🔹Key Responsibilities:\n\n- Design, develop, and test software modules for medical technology ",
+      "link": "https://in.linkedin.com/jobs/view/hiring-for-a-software-technologist-dicom-c%2B%2B-at-avenueshr-consulting-4432333307",
+      "postedAt": "2026-07-01T06:00:00.000Z",
+      "source": "naukri"
+    },
+    {
+      "title": "SR Software Engineer (Data) - Remote, US",
+      "company": "ITX Corp",
+      "location": "Remote",
+      "summary": "Join Our Team as a Senior Software Engineer with Data Skills for Agentic AI Systems!\n\nWe are looking for a Senior Software Engineer with a strong focus on Data and experience building infrastructure for LLM-powered applications and agent-based systems. In this role, you will work on RAG pipelines, a",
+      "link": "https://www.indeed.com/viewjob?jk=8185223d2d838a30",
+      "postedAt": "2026-07-01T03:00:00.000Z",
+      "source": "indeed"
+    },
+    {
+      "title": "Senior Staff Software Engineer, Host Pricing & Settings",
+      "company": "Airbnb",
+      "location": "Remote",
+      "summary": "Job Description:\n• Define the architecture and contracts governing how models move from development to production — feature store design, model schema management, online/offline inference consistency, and multi-version support.\n• Lead the buildout of a unified serving stack that eliminates per-model",
+      "link": "https://www.remoterocketship.com/us/company/airbnb/jobs/senior-staff-software-engineer-host-pricing-settings-united-states-remote/",
+      "postedAt": "2026-07-01T00:00:00.000Z",
+      "source": "indeed"
+    },
+    {
+      "title": "IND Staff Software /Associate Engineer Java Back End",
+      "company": "The Hartford India",
+      "location": "India",
+      "summary": "IND Staff Software Engineer - GCC011\n\nWe’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help s",
+      "link": "https://in.linkedin.com/jobs/view/ind-staff-software-associate-engineer-java-back-end-at-the-hartford-india-4431975539",
+      "postedAt": "2026-06-30T23:00:00.000Z",
+      "source": "naukri"
+    },
+    {
+      "title": "Staff Software Engineer - React >",
+      "company": "Redpin",
+      "location": "Hyderabad, IN",
+      "summary": "Role Overview\n\nApplication\n\nStaff Software Engineer – React\n\nEngineering Department\n\nLocation: Hyderabad, India (Hybrid)\n\nAbout The Company\n\nAt Redpin we simplify life's most important payments. Buying a new property overseas can be a stressful time, especially when it comes to moving your money. Th",
+      "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-react-at-redpin-4434338800",
+      "postedAt": "2026-06-30T19:00:00.000Z",
+      "source": "naukri"
+    },
+    {
+      "title": "Sr. Software Engineer (.NetCore) (Remote)",
+      "company": "OPENLANE",
+      "location": "Remote",
+      "summary": "Who We Are\n\nAt OPENLANE we make wholesale easy so our customers can be more successful.\n\nWe’re a technology company building the world’s most advanced—and uncomplicated—digital marketplace for used vehicles.\n\nWe’re a data company helping customers buy and sell smarter with clear, actionable insights",
+      "link": "https://www.linkedin.com/jobs/view/sr-software-engineer-netcore-remote-at-openlane-4431957796",
+      "postedAt": "2026-06-30T18:00:00.000Z",
+      "source": "indeed"
+    },
+    {
+      "title": "Principal Engineer / Technical Executive Type",
+      "company": "WOW Remote Teams",
+      "location": "Remote",
+      "summary": "This is a remote position.\nOur client is looking for a Principal Engineer / Technical Executive to take full ownership of their technical ecosystem — from architecture decisions to hands-on execution across the entire stack. They operate in a high-growth tech environment, having rapidly evolved thei",
+      "link": "https://dailyremote.com/remote-job/principal-engineer-technical-executive-type-5225908",
+      "postedAt": "2026-06-30T17:00:00.000Z",
+      "source": "indeed"
+    },
+    {
+      "title": "ML Systems Engineer - Fully Remote | Upto $110/hr",
+      "company": "Mercor",
+      "location": "Remote",
+      "summary": "About The Job\n\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\n\nPosition: PyTorch Expert\n\nType: Contract\n\nCompensation: $7",
+      "link": "https://www.linkedin.com/jobs/view/ml-systems-engineer-fully-remote-upto-%24110-hr-at-mercor-4431935178",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "indeed"
+    },
+    {
+      "title": "Software Engineer (C++ / Linux)",
+      "company": "Siemens",
+      "location": "India",
+      "summary": "Hello Visionary!\n\nWe empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future. Does that sound like you? Then it seems like you",
+      "link": "https://in.linkedin.com/jobs/view/software-engineer-c%2B%2B-linux-at-siemens-4431942537",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri"
+    },
+    {
+      "title": "GenAI – Software Engineer III",
+      "company": "Deloitte",
+      "location": "Hyderabad, IN",
+      "summary": "Summary\n\nPosition Summary\n\nGenAI – Senior Consultant, Software Engineer III\n\nEnterprise Performance\n\nOur Enterprise Performance team helps organizations transform core business operations through technology, data, and innovation across finance, supply chain, and IT. Within this practice, professiona",
+      "link": "https://in.linkedin.com/jobs/view/genai-%E2%80%93-software-engineer-iii-at-deloitte-4431912243",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri"
+    },
+    {
+      "title": "Software Engineer - Tieto Caretech (m/f/d)",
+      "company": "Tieto",
+      "location": "India",
+      "summary": "Job Description\n\nAt Tieto CareTech you’ll get a chance to provide patients and end users with product offerings that help them in their life, reinventing the world for good. If that sounds interesting, please keep on reading.\n\nAbout Us\n\nTieto CareTech is modernizing the Nordic health and social care",
+      "link": "https://in.linkedin.com/jobs/view/software-engineer-tieto-caretech-m-f-d-at-tieto-4435132143",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri"
+    },
+    {
+      "title": "Senior Software Engineer - ETL, AWS",
+      "company": "LPL Financial Global Capability Center",
+      "location": "India",
+      "summary": "At LPL’s Global Capability Center, you'll find a collaborative culture where your voice matters, integrity guides every decision, and technology fuels progress. Your skills, talents, and ideas will redefine what's possible. LPL's success reflects its exceptional employees, who together pursue one no",
+      "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-etl-aws-at-lpl-financial-global-capability-center-4435133218",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri"
+    },
+    {
+      "title": "Engineer, Software - C/C++ [T500-27200]",
+      "company": "TMUS Global Solutions",
+      "location": "Hyderabad, IN",
+      "summary": "Software Engineer – Telecom Billing\n\nAbout T-Mobile\n\nT-Mobile US, Inc. (NASDAQ: TMUS), headquartered in Bellevue, Washington, is America’s supercharged Un-carrier, connecting millions through its strong nationwide network and flagship brands, T-Mobile and Metro by T-Mobile. Customers benefit from an",
+      "link": "https://in.linkedin.com/jobs/view/engineer-software-c-c%2B%2B-t500-27200-at-tmus-global-solutions-4435112833",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri"
+    },
+    {
+      "title": "Senior Software Engineer (TCF) – Remote",
+      "company": "Intuites LLC",
+      "location": "Remote",
+      "summary": "Senior Software Engineer (TCF) – Remote\n\nLocation: 100% Remote\nEmployment Type: Contract (W2/C2C)\nEquipment: MacBook Provided\nInterview Process: Glider Technical Assessment + Client Interview\n\nJob Summary\n\nWe are seeking an experienced Senior Software Engineer with strong expertise in Node.js, JavaS",
+      "link": "https://www.indeed.com/viewjob?jk=a246cd28a1eade88",
+      "postedAt": "2026-06-29T00:00:00.000Z",
+      "source": "indeed"
+    },
+    {
+      "title": "Principal Software Engineer (Guest Communications Platform)",
+      "company": "Marriott",
+      "location": "Remote",
+      "summary": "The Principal Engineer, Guest Communications Platform serves as the technical authority and hands‑on architectural leader for Marriott’s next‑generation Guest Communications Platform. This role is responsible for defining, governing, and evolving a cloud‑native, event‑driven, provider‑agnostic commu",
+      "link": "https://careers.marriott.com/principal-software-engineer-guest-communications-platform/job/FFA2A286CCC8820A169ABE44A067BEBF",
+      "postedAt": "2026-06-29T00:00:00.000Z",
+      "source": "indeed"
+    },
+    {
+      "title": "Software Developer (Open Source) (Remote)",
+      "company": "Xora",
+      "location": "Remote",
+      "summary": "Job Role:\n\nAs a software developer at Xora, you’ll be the brain behind crafting, developing, testing, going live and maintaining the system. You are passionate in understanding collaborating in the open-source space.\n\nYou have an affinity for working on dynamically changing teams and coordinating re",
+      "link": "https://bebee.com/us/jobs/software-developer-open-source-remote-xora-state-college--ss-us-ptczk0",
+      "postedAt": "2026-06-29T00:00:00.000Z",
+      "source": "indeed"
+    },
+    {
+      "title": "Senior Golang + React Engineer | Remote India | WFH",
+      "company": "Remote_WFH_INDIA",
+      "location": "India",
+      "summary": "🔥 Senior Full Stack Engineer (Golang + React) | Remote India\n\n🚀 We're hiring for AgileEngine!\n\nAgileEngine is an award-winning software engineering and AI services company that partners with some of the world's leading technology companies and Fortune 500 enterprises to build high-impact digital p",
+      "link": "https://in.linkedin.com/jobs/view/senior-golang-%2B-react-engineer-remote-india-wfh-at-remote-wfh-india-4431569079",
+      "postedAt": "2026-06-29T00:00:00.000Z",
+      "source": "naukri"
+    },
+    {
+      "title": "Senior Java Engineer (Tech Lead)",
+      "company": "Sky Systems, Inc. (SkySys)",
+      "location": "Hyderabad, IN",
+      "summary": "Role: Senior Java Engineer\n\nPosition Type: Full-Time Contract (40hrs/week)\n\nContract Duration: Long term\n\nWork Schedule: 8 hours/day (Mon-Fri)\n\nLocation: Hybrid 1x day onsite - Hyderabad, India\n\nWe are seeking a Senior Java Engineer (Tech Lead) to design and develop enterprise applications while pro",
+      "link": "https://in.linkedin.com/jobs/view/senior-java-engineer-tech-lead-at-sky-systems-inc-skysys-4434792056",
+      "postedAt": "2026-06-29T00:00:00.000Z",
+      "source": "naukri"
+    },
+    {
+      "title": "Advisor Software Engineer (AI/ML)",
+      "company": "Fannie Mae",
+      "location": "Remote",
+      "summary": "Playing an essential role in the U.S. economy, Fannie Mae is foundational to housing finance. Here, your expertise can help fuel purpose-driven innovation that expands access to homeownership and affordable rental housing across the country. Join Fannie Mae to grow your career and help people find a",
+      "link": "https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Reston-VA/Advisor-Software-Engineer--AI-ML-_JR2645?utm_source=github-vansh-ouckah",
+      "postedAt": "2026-06-28T00:00:00.000Z",
+      "source": "indeed"
+    },
+    {
+      "title": "[PART_TIME Remote] Software Engineer Jobs Tesla $26/Hour",
+      "company": "2.halvolink",
+      "location": "Remote",
+      "summary": "Contribute to a meaningful mission at workwarp. We need a Software Engineer Tesla $26/hour! This position is based in Remote and we are looking to fill it quickly. This position requires a strong and diverse skillset in relevant areas to drive success. Your contribution will be valued, with a compen",
+      "link": "https://2.halvolink.liveblog365.com/job/835518",
+      "postedAt": "2026-06-27T00:00:00.000Z",
+      "source": "indeed"
+    }
+  ]
 }
