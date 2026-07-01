@@ -76,7 +76,9 @@
 
     async function loadJobs() {
       try {
-        const res = await fetch('jobs.json?_=' + Date.now());
+        const res = await fetch(
+          'https://raw.githubusercontent.com/vivekOllandas/job-scraper/main/docs/jobs.json?_=' + Date.now()
+        );
         if (!res.ok) throw new Error('jobs.json not found yet');
         const data = await res.json();
         allJobs = data.jobs || [];
@@ -125,7 +127,7 @@
     document.getElementById('sourceFilter').addEventListener('change', render);
 
     loadJobs();
-    setInterval(loadJobs, 5 * 60 * 1000); // refresh every 5 min while page is open
+    setInterval(loadJobs, 5 * 60 * 1000);
   </script>
 </body>
 </html>
