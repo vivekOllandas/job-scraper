@@ -14,7 +14,7 @@ const SCRAPER_URL = process.env.SCRAPER_URL;
 const BASE_QUERY = process.env.QUERY || process.env.JOB_QUERY || 'data analyst power bi sql excel tableau';
 const INDEED_LOCATION = process.env.INDEED_LOCATION || 'Remote';
 const NAUKRI_LOCATION = process.env.NAUKRI_LOCATION || 'India';
-const JOBS_FILE = path.join(__dirname, '..', 'public', 'jobs.json');
+const JOBS_FILE = path.join(__dirname, '..', 'docs', 'jobs.json');
 
 // Two searches: regular roles, and internships in the same skill set
 const SEARCHES = [
