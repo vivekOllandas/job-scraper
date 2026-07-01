@@ -1,42 +1,23 @@
 const https = require('https');
 
-/**
- * Uses Naukri's internal search API (same one their website uses).
- * No key required but may need occasional selector updates.
- */
+// Uses a working RapidAPI for India jobs since Naukri blocks direct access
 async function scrapeNaukri(query = 'software engineer', location = '') {
-  const jobs = [];
-  const debug = { url: '', cardCount: 0, error: null };
+  const apiKey = process.env.RAPIDAPI_KEY;
+  if (!apiKey) return { jobs: [], debug: { error: 'No API key' } };
 
+  // JSearch with India country filter gives Naukri + other India job boards
   return new Promise((resolve) => {
-    const params = new URLSearchParams({
-      noOfResults: '20',
-      urlType: 'search_by_keyword',
-      searchType: 'adv',
-      keyword: query,
-      location: location || '',
-      pageNo: '1',
-      k: query,
-      l: location || '',
-      seoKey: query.toLowerCase().replace(/\s+/g, '-') + '-jobs',
-      src: 'jobsearchDesk',
-      latLong: ''
-    });
-
-    const url = `https://www.naukri.com/jobapi/v3/search?${params.toString()}`;
-    debug.url = url;
+    const q = location ? `${query} ${location} India` : `${query} India`;
+    const path = `/search?query=${encodeURIComponent(q)}&page=1&num_pages=1&country=in&date_posted=month`;
 
     const options = {
       method: 'GET',
-      hostname: 'www.naukri.com',
-      path: `/jobapi/v3/search?${params.toString()}`,
+      hostname: 'jsearch.p.rapidapi.com',
+      path,
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-        'Accept': 'application/json',
-        'Referer': 'https://www.naukri.com/',
-        'appid': '109',
-        'systemid': '109',
-        'x-requested-with': 'XMLHttpRequest'
+        'x-rapidapi-key': apiKey,
+        'x-rapidapi-host': 'jsearch.p.rapidapi.com',
+        'Content-Type': 'application/json'
       }
     };
 
@@ -44,39 +25,25 @@ async function scrapeNaukri(query = 'software engineer', location = '') {
       let body = '';
       res.on('data', chunk => body += chunk);
       res.on('end', () => {
+        console.log(`[Naukri/JSearch] status=${res.statusCode} body=${body.slice(0,100)}`);
         try {
           const data = JSON.parse(body);
-          const listings = data.jobDetails || [];
-          debug.cardCount = listings.length;
-
-          for (const j of listings) {
-            jobs.push({
-              title: j.title || 'Unknown',
-              company: j.companyName || 'Unknown',
-              location: (j.placeholders?.find(p => p.type === 'location')?.label) || location || 'India',
-              experience: j.placeholders?.find(p => p.type === 'experience')?.label || null,
-              salary: j.placeholders?.find(p => p.type === 'salary')?.label || null,
-              summary: j.jobDescription ? j.jobDescription.replace(/<[^>]*>/g, '').slice(0, 300) : '',
-              link: j.jdURL || `https://www.naukri.com${j.jobId}`,
-              postedAt: j.createdDate ? new Date(j.createdDate).toISOString() : new Date().toISOString(),
-              source: 'naukri'
-            });
-          }
-          resolve({ jobs, debug });
+          const jobs = (data.data || []).map(j => ({
+            title: j.job_title,
+            company: j.employer_name || 'Unknown',
+            location: j.job_city ? `${j.job_city}, ${j.job_country}` : (location || 'India'),
+            summary: j.job_description ? j.job_description.slice(0, 300) : '',
+            link: j.job_apply_link || j.job_google_link || '',
+            postedAt: j.job_posted_at_datetime_utc || new Date().toISOString(),
+            source: 'naukri'
+          }));
+          resolve({ jobs, debug: { count: jobs.length, status: res.statusCode } });
         } catch (e) {
-          debug.error = e.message;
-          console.error('[Naukri] Parse error:', e.message, body.slice(0, 200));
-          resolve({ jobs: [], debug });
+          resolve({ jobs: [], debug: { error: e.message, body: body.slice(0,200) } });
         }
       });
     });
-
-    req.on('error', (e) => {
-      debug.error = e.message;
-      console.error('[Naukri] Request error:', e.message);
-      resolve({ jobs: [], debug });
-    });
-
+    req.on('error', e => resolve({ jobs: [], debug: { error: e.message } }));
     req.end();
   });
 }
