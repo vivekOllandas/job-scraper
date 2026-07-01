@@ -110,3 +110,48 @@ app.listen(PORT, () => {
   console.log(`Job scraper running on port ${PORT}`);
   console.log(`Defaults — query: "${DEFAULT_QUERY}", Indeed loc: "${DEFAULT_INDEED_LOCATION}", Naukri loc: "${DEFAULT_NAUKRI_LOCATION}"`);
 });
+
+// Raw debug - see exactly what Naukri returns
+app.get('/debug/naukri-raw', async (req, res) => {
+  const https = require('https');
+  const q = req.query.q || 'software engineer';
+  const l = req.query.l || '';
+
+  const params = new URLSearchParams({
+    noOfResults: '20',
+    urlType: 'search_by_keyword',
+    searchType: 'adv',
+    keyword: q,
+    location: l,
+    pageNo: '1',
+    k: q,
+    l: l,
+    seoKey: q.toLowerCase().replace(/\s+/g, '-') + '-jobs',
+    src: 'jobsearchDesk',
+    latLong: ''
+  });
+
+  const options = {
+    method: 'GET',
+    hostname: 'www.naukri.com',
+    path: `/jobapi/v3/search?${params.toString()}`,
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+      'Accept': 'application/json',
+      'Referer': 'https://www.naukri.com/',
+      'appid': '109',
+      'systemid': '109',
+      'x-requested-with': 'XMLHttpRequest'
+    }
+  };
+
+  const request = https.request(options, (response) => {
+    let body = '';
+    response.on('data', chunk => body += chunk);
+    response.on('end', () => {
+      res.json({ status: response.statusCode, headers: response.headers, body: body.slice(0, 2000) });
+    });
+  });
+  request.on('error', e => res.status(500).json({ error: e.message }));
+  request.end();
+});
