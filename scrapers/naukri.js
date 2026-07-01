@@ -8,7 +8,7 @@ async function scrapeNaukri(query = 'software engineer', location = '') {
   // JSearch with India country filter gives Naukri + other India job boards
   return new Promise((resolve) => {
     const q = location ? `${query} ${location} India` : `${query} India`;
-    const path = `/search?query=${encodeURIComponent(q)}&page=1&num_pages=1&country=in&date_posted=month`;
+    const path = `/search-v2?query=${encodeURIComponent(q)}&page=1&num_pages=1&country=in&date_posted=month`;
 
     const options = {
       method: 'GET',

@@ -9,8 +9,8 @@ async function scrapeIndeed(query = 'software engineer', location = 'Remote') {
 
   // Try multiple known JSearch endpoint paths
   const paths = [
-    `/search?query=${encodeURIComponent(query + ' ' + location)}&page=1&num_pages=1&country=in&date_posted=week`,
-    `/jobs/search?query=${encodeURIComponent(query + ' ' + location)}&page=1&num_pages=1`,
+    `/search-v2?query=${encodeURIComponent(query + ' ' + location)}&page=1&num_pages=1&country=in&date_posted=week`,
+    `/jobs/search-v2?query=${encodeURIComponent(query + ' ' + location)}&page=1&num_pages=1`,
   ];
 
   for (const path of paths) {
