@@ -12,8 +12,8 @@ async function scrapeIndeed(query = 'software engineer', location = 'Remote') {
       query: `${query} ${location}`,
       page: '1',
       num_pages: '1',
-      date_posted: 'week',
-      remote_jobs_only: location.toLowerCase() === 'remote' ? 'true' : 'false'
+      country: 'in',
+      date_posted: 'week'
     });
 
     const options = {
@@ -21,19 +21,19 @@ async function scrapeIndeed(query = 'software engineer', location = 'Remote') {
       hostname: 'jsearch.p.rapidapi.com',
       path: `/search?${params.toString()}`,
       headers: {
-        'X-RapidAPI-Key': apiKey,
-        'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
+        'x-rapidapi-key': apiKey,
+        'x-rapidapi-host': 'jsearch.p.rapidapi.com',
+        'Content-Type': 'application/json'
       }
     };
 
-    console.log('[Indeed] Calling JSearch API...');
+    console.log('[Indeed] Calling JSearch...', options.path.slice(0, 80));
 
     const req = https.request(options, (res) => {
       let body = '';
       res.on('data', chunk => body += chunk);
       res.on('end', () => {
-        console.log('[Indeed] Status:', res.statusCode);
-        console.log('[Indeed] Body preview:', body.slice(0, 300));
+        console.log('[Indeed] Status:', res.statusCode, body.slice(0, 200));
         try {
           const data = JSON.parse(body);
           const jobs = (data.data || []).map(j => ({
@@ -55,7 +55,7 @@ async function scrapeIndeed(query = 'software engineer', location = 'Remote') {
     });
 
     req.on('error', (e) => {
-      console.error('[Indeed] Request error:', e.message);
+      console.error('[Indeed] Error:', e.message);
       resolve([]);
     });
 
