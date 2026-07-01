@@ -155,3 +155,31 @@ app.get('/debug/naukri-raw', async (req, res) => {
   request.on('error', e => res.status(500).json({ error: e.message }));
   request.end();
 });
+
+// Direct JSearch API test
+app.get('/debug/jsearch', async (req, res) => {
+  const https = require('https');
+  const apiKey = process.env.RAPIDAPI_KEY;
+  if (!apiKey) return res.json({ error: 'RAPIDAPI_KEY not set' });
+
+  const params = new URLSearchParams({ query: 'software engineer remote', page: '1', num_pages: '1' });
+  const options = {
+    method: 'GET',
+    hostname: 'jsearch.p.rapidapi.com',
+    path: `/search?${params.toString()}`,
+    headers: {
+      'X-RapidAPI-Key': apiKey,
+      'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
+    }
+  };
+
+  const request = https.request(options, (response) => {
+    let body = '';
+    response.on('data', chunk => body += chunk);
+    response.on('end', () => {
+      res.json({ status: response.statusCode, body: body.slice(0, 2000) });
+    });
+  });
+  request.on('error', e => res.status(500).json({ error: e.message }));
+  request.end();
+});
