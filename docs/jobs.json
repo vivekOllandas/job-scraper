@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-01T20:04:59.338Z",
+  "lastUpdated": "2026-07-02T04:06:38.463Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 25,
+  "count": 31,
   "jobs": [
     {
       "title": "Data Analyst Intern at LatentView Analytics",
@@ -67,6 +67,21 @@
       ]
     },
     {
+      "title": "Data Analyst Intern at The Gateway Corp (Gateway Group)",
+      "company": "The Gateway Corp (Gateway Group)",
+      "location": "Ahmedabad, IN",
+      "summary": "The Gateway Corp (Gateway Group) has an open Data Analyst Intern role in Ahmedabad for freshers eager to learn by analysing data and building dashboards on live projects.\n\nYou'll work with SQL, Advanced Excel, Power BI and more, collaborating across the team. This is a verified internship apply on T",
+      "link": "https://www.shine.com/jobs/data-analyst-intern-at-the-gateway-corp-gateway-group/the-gateway-corp-gateway-group/19164879",
+      "postedAt": "2026-06-25T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 9,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel"
+      ]
+    },
+    {
       "title": "Remote Data Analyst (Tableau & Power BI)",
       "company": "JobHub",
       "location": "Remote",
@@ -116,6 +131,30 @@
       "location": "Bengaluru, IN",
       "summary": "Job Title: Data Analyst\n\nCompany: HBSPL\nLocation: Bangalore, India\nEmployment Type: Full-time\nExperience: Fresher (01 Year)\nCTC: 3 LPA 8 LPA\nMode: WFH / WFO (Hybrid)\n\nAbout the Company:\n\nHBSPL is a fast-growing organization dedicated to delivering data-driven insights and innovative business solutio",
       "link": "https://www.shine.com/jobs/data-analyst-fresher/hbspl/19176792",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst- MIS and Tableau specialist - C09 - BANGALORE",
+      "company": "Citi Bank",
+      "location": "Bengaluru, IN",
+      "summary": "ABOUT CITICiti's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We have 200 years of experience helping our clients meet the world's toughest challenges and embrace its greatest opportunities.ANALYTICS AND",
+      "link": "https://www.shine.com/jobs/data-analyst-mis-and-tableau-specialist-c-bangalore/citi-bank/19172994",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": [
+        "tableau"
+      ]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Genpact",
+      "location": "Lucknow, IN",
+      "summary": "Genpact has an open Data Analyst Intern position in Lucknow for freshers who are genuinely excited about data analytics. This is a 3-month In Office internship in the Technology sector where you will learn by doing — taking ownership of real tasks, getting structured feedback, and developing skills ",
+      "link": "https://myinternships.in/internships/genpact-is-hiring-data-analyst-intern-lucknow-dda212",
       "postedAt": "2026-06-30T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 6,
@@ -210,6 +249,17 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Analyst/Engineer",
+      "company": "SCG",
+      "location": "New Delhi, IN",
+      "summary": "Position: Data Analyst/Engineer SCG About SCG in India SCG, Southeast Asias leading industrial conglomerate, is expanding in India with a focus on sustainable building materials, modern construction solutions, and digital transformation . Beyond advanced products, SCG is building capabilities in dat",
+      "link": "https://www.shine.com/jobs/data-analyst-engineer/scg/19179977",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "Specialist Software Engineer - Data Analytics, Python, SQL and PowerBI",
       "company": "Societe Generale",
       "location": "Bengaluru, IN",
@@ -278,6 +328,19 @@
       ]
     },
     {
+      "title": "Associate Data Admin Analyst - Power BI Developer",
+      "company": "Capgemini",
+      "location": "India",
+      "summary": "We target a People Analytics Analyst with strong hands‑on experience sustaining and evolving Power BI dashboards in a HR/People Analytics context. This person needs to operate with autonomy, troubleshoot existing complex dashboards, ensure numerical accuracy through rigorous data‑quality checks, and",
+      "link": "https://www.jobleads.com/in/job/fbs-assoc-data-admin-analyst-power-bi-devloper--pune-district--e070fd451a2b1822e626bc0f20d19312e",
+      "postedAt": "2026-06-29T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 3,
+      "matchedSkills": [
+        "power bi"
+      ]
+    },
+    {
       "title": "Senior Tableau and Power BI Analyst (Remote)",
       "company": "JobHub",
       "location": "Remote",
@@ -290,6 +353,17 @@
         "power bi",
         "tableau"
       ]
+    },
+    {
+      "title": "Data Science and Analytics Intern",
+      "company": "Adventure Technology Solutions Pvt Ltd",
+      "location": "Coimbatore, IN",
+      "summary": "Job Summary\nWe are seeking a highly motivated Data Science & Analytics Intern to join our team. This opportunity is open to both freshers and candidates with up to 2 years of experience who are passionate about data analysis, machine learning, business intelligence, and data-driven decision-making.\n",
+      "link": "https://www.shine.com/jobs/data-science-and-analytics-intern/adventure-technology-solutions-pvt-ltd/19190753",
+      "postedAt": "2026-07-01T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": []
     },
     {
       "title": "Remote Data Analytics Intern - Insights & Dashboards",
