@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-02T04:06:38.463Z",
+  "lastUpdated": "2026-07-02T09:25:13.355Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 31,
+  "count": 34,
   "jobs": [
     {
       "title": "Data Analyst Intern at LatentView Analytics",
@@ -155,6 +155,33 @@
       "location": "Lucknow, IN",
       "summary": "Genpact has an open Data Analyst Intern position in Lucknow for freshers who are genuinely excited about data analytics. This is a 3-month In Office internship in the Technology sector where you will learn by doing — taking ownership of real tasks, getting structured feedback, and developing skills ",
       "link": "https://myinternships.in/internships/genpact-is-hiring-data-analyst-intern-lucknow-dda212",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "DATA ANALYTICS & BUSINESS INTELLIGENCE (EXCEL + SQL + POWER BI / TABLEAU) at",
+      "company": "MAINCRAFTS COM",
+      "location": "India",
+      "summary": "DATA ANALYTICS & BUSINESS INTELLIGENCE (EXCEL + SQL + POWER BI / TABLEAU) at MAINCRAFTS COM (Ahmedabad). This is a verified internship opportunity listed on a national internship programme. Based in Ahmedabad, with a duration of 6 weeks and a stipend of unpaid internship, starting immediately. As an",
+      "link": "https://www.shine.com/jobs/data-analytics-business-intelligence-excel-sql-power-bi-tableau-at/maincrafts-com/19188981",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
+      ]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Sankalp Technologies",
+      "location": "Jaipur, IN",
+      "summary": "Sankalp Technologies has an open Data Analyst Intern position in Jaipur for freshers who are genuinely excited about data analytics. This is a 3-month In Office internship in the Manufacturing / Engineering sector where you will learn by doing — taking ownership of real tasks, getting structured fee",
+      "link": "https://myinternships.in/internships/sankalp-technologies-is-hiring-data-analyst-intern-jaipur-e243e3",
       "postedAt": "2026-06-30T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 6,
@@ -364,6 +391,21 @@
       "source": "naukri",
       "matchScore": 2,
       "matchedSkills": []
+    },
+    {
+      "title": "Senior Executive, Data Analytics & Business Intelligence",
+      "company": "Amneal Pharmaceuticals Pvt. Ltd",
+      "location": "India",
+      "summary": "Job DescriptionPosition: Business Data Analyst (ETL tools, Power BI, Excel, SQL)Shift : IST 12:00 PM to 21:00 PM (Little Flexible basis needs)Position Purpose: Detail-oriented and analytically driven Business Data Analyst with strong proficiency in ETL tools, Power BI, Excel, and SQL.This position i",
+      "link": "https://www.shine.com/jobs/senior-executive-data-analytics-business-intelligence/amneal-pharmaceuticals-pvt-ltd/19193836",
+      "postedAt": "2026-07-01T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel"
+      ]
     },
     {
       "title": "Remote Data Analytics Intern - Insights & Dashboards",
