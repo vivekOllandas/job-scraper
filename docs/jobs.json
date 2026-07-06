@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-05T19:27:55.842Z",
+  "lastUpdated": "2026-07-06T04:10:38.734Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 44,
+  "count": 48,
   "jobs": [
     {
       "title": "Data Analyst Intern at LatentView Analytics",
@@ -183,6 +183,17 @@
       "matchedSkills": [
         "excel"
       ]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "DataPlay",
+      "location": "Jaipur, IN",
+      "summary": "About the Opportunity\nWe are looking for enthusiastic and detail-oriented Data Analyst Interns who are eager to work with real datasets, build analytical thinking, and gain practical industry exposure.\nThis internship is ideal for students or freshers who want hands-on experience in data analysis, r",
+      "link": "https://www.shine.com/jobs/data-analyst-intern/dataplay/19190777",
+      "postedAt": "2026-07-01T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
     },
     {
       "title": "Data Analyst  Fresher",
@@ -409,6 +420,51 @@
       "source": "naukri",
       "matchScore": 5,
       "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst (Tableau, Python and SQL Expert) - Contract to Hire",
+      "company": "Upwork",
+      "location": "Remote",
+      "summary": "About the Role:\n\nBoxplot is looking for a versatile, senior-level Data Professional to join our hands-on consulting team. This is a high-impact role where you will dive into diverse client ecosystems, solving complex problems across multiple industries.\n\nWe aren't looking for someone to just \"run qu",
+      "link": "https://www.upwork.com/freelance-jobs/apply/Data-Analyst-Tableau-Python-and-SQL-Expert_~022073102319560816680/",
+      "postedAt": "2026-07-04T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 4,
+      "matchedSkills": [
+        "sql",
+        "tableau",
+        "python"
+      ]
+    },
+    {
+      "title": "Lead Data Analyst (Power BI)",
+      "company": "pretium enterprise services, india",
+      "location": "Bengaluru, IN",
+      "summary": "Key Responsibilities\nDesign, develop, and maintain interactive dashboards and reports using Power BI.\nWrite optimized SQL queries for data extraction, transformation, and analysis across multiple databases.\nPerform advanced Excel modelling, including pivot tables, Power Query, and VBA (optional).\nCo",
+      "link": "https://www.shine.com/jobs/lead-data-analyst-power-bi/pretium-enterprise-services-india/19173003",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 4,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel"
+      ]
+    },
+    {
+      "title": "Power BI Reporting Analyst | Sales Analytics | Bangalore | 6-10 Years",
+      "company": "Mascot e-services",
+      "location": "Bengaluru, IN",
+      "summary": "Power BI professional with experience in dashboard development, sales reporting, data visualization, and business intelligence. Robust skills in Power BI, SQL, DAX, Power Query, and Advanced Excel. Experience in sales analytics preferred.\n\nRequired Candidate profile\n\nHiring for TOP Brand\n\nLevel 9 (6",
+      "link": "https://www.shine.com/jobs/power-bi-reporting-analyst-sales-analytics-bangalore-6-years/mascot-e-services/19172868",
+      "postedAt": "2026-06-30T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 4,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel"
+      ]
     },
     {
       "title": "Business Intelligence Developer - Power BI, SQL, Tableau",
