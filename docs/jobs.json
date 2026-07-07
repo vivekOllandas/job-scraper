@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-07T09:54:30.777Z",
+  "lastUpdated": "2026-07-07T14:52:23.181Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 53,
+  "count": 55,
   "jobs": [
     {
       "title": "Data Analyst Intern at LatentView Analytics",
@@ -113,6 +113,20 @@
       ]
     },
     {
+      "title": "Data Analyst Intern (South Delhi)",
+      "company": "FINMINOS PRIVATE",
+      "location": "New Delhi, IN",
+      "summary": "We are looking for a motivated and detail-oriented Data Analysis Intern to join our IT team. The ideal candidate should have a basic understanding of data analysis, Excel, SQL, and reporting. This internship offers an excellent prospect to gain hands-on experience in data collection, analysis, visua",
+      "link": "https://www.shine.com/jobs/data-analyst-intern-south-delhi/finminos-private/19203528",
+      "postedAt": "2026-07-06T22:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 8,
+      "matchedSkills": [
+        "sql",
+        "excel"
+      ]
+    },
+    {
       "title": "Data Analyst - Python/ Power BI/ SQL",
       "company": "pri india it services private limited",
       "location": "Kochi, IN",
@@ -170,6 +184,17 @@
         "sql",
         "power bi"
       ]
+    },
+    {
+      "title": "Junior Data Analyst – Remote (India)",
+      "company": "Confidential",
+      "location": "India",
+      "summary": "We are looking for a detail-oriented and analytical Junior Data Analyst to join our growing team. The ideal candidate should be passionate about working with data, identifying meaningful insights, and supporting business decisions through accurate reporting and analysis. This role is ideal for fresh",
+      "link": "https://giglancer.bizoforce.com/jobs/junior-data-analyst-remote-india-4",
+      "postedAt": "2026-07-06T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
     },
     {
       "title": "Data Analyst |  $40 - $55/hr | Remote",
