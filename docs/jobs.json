@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-08T08:39:17.299Z",
+  "lastUpdated": "2026-07-08T14:30:06.396Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 62,
+  "count": 63,
   "jobs": [
     {
       "title": "Data Analyst Intern at LatentView Analytics",
@@ -565,6 +565,17 @@
         "tableau",
         "python"
       ]
+    },
+    {
+      "title": "Sigmoid Data Analytics Trainee Internship",
+      "company": "Sigmoid",
+      "location": "Bengaluru, IN",
+      "summary": "Are you looking to break into the field of Data Analytics with handson, realworld experience The Data Analytics Trainee (Data Analyst Intern) opportunity at Sigmoid Analytics in Bengaluru offers a structured pathway to launch your analytics career. This referralonly internship program is designed fo",
+      "link": "https://www.shine.com/jobs/sigmoid-data-analytics-trainee-internship/sigmoid/19201463",
+      "postedAt": "2026-07-04T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 4,
+      "matchedSkills": []
     },
     {
       "title": "Lead Data Analyst (Power BI)",
