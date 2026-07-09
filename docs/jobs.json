@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-09T03:55:09.437Z",
+  "lastUpdated": "2026-07-09T09:51:39.395Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 65,
+  "count": 67,
   "jobs": [
     {
       "title": "Data Analyst Intern at LatentView Analytics",
@@ -274,6 +274,17 @@
       "location": "Canacona, IN",
       "summary": "Delhivery has an exciting Data Analyst internship opening in Canacona, Goa, ideal for freshers and final-year students eager to learn by doing. Over this internship you will focus on analysing data and building dashboards and reports, collaborate with the team, and develop skills that employers acti",
       "link": "https://myinternships.in/internships/delhivery-data-analyst-canacona-goa-internship-c68667",
+      "postedAt": "2026-07-06T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Kotak Mahindra Bank",
+      "location": "Verna, IN",
+      "summary": "Kickstart your career at Kotak Mahindra Bank in Verna, Goa as a Data Analyst intern. This structured, guided internship lets you spend your time analysing data and building dashboards and reports, learning directly from industry practitioners and seeing how work is done inside a real organisation in",
+      "link": "https://myinternships.in/internships/kotak-mahindra-bank-data-analyst-verna-goa-internship-e089f4",
       "postedAt": "2026-07-06T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 6,
@@ -686,6 +697,19 @@
       "matchedSkills": [
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Lead Data Analyst",
+      "company": "Serosoft Solutions",
+      "location": "Indore, IN",
+      "summary": "Lead Data Analyst\n\nJob Category: Technical\n\nJob Location: Indore\n\nExperience: 8+ years\n\nAbout the Role\n\nWe are looking for a seasoned Lead Data Analyst to drive analytics excellence, translate data into strategic insights, and lead high-impact analytics initiatives across the organization.\n\nResponsi",
+      "link": "https://www.jobleads.com/in/job/lead-data-analyst--indore--ebc27b583fb8b0718bfbcf3eb7cc33bbf",
+      "postedAt": "2026-07-07T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": [
+        "excel"
       ]
     },
     {
