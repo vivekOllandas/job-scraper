@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-09T15:25:04.421Z",
+  "lastUpdated": "2026-07-09T19:56:03.932Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 68,
+  "count": 72,
   "jobs": [
     {
       "title": "Data Analyst Intern at LatentView Analytics",
@@ -26,6 +26,23 @@
       "location": "India",
       "summary": "Data Analyst at NKP Pharma Pvt Ltd Changodar.\n\nKey technologies: Python, SQL, Tableau, Power BI, Excel.\n\nKey Responsibilities\n• Design and implement technical solutions to meet business requirements\n• Collaborate with cross-functional teams throughout the software development lifecycle\n• Contribute ",
       "link": "https://www.opentalent.in/jobs/data-analyst-nkp-pharma-pvt-ltd-changodar",
+      "postedAt": "2026-07-06T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 9,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau",
+        "python"
+      ]
+    },
+    {
+      "title": "Data Analyst - BizNest",
+      "company": "OpenTalent",
+      "location": "India",
+      "summary": "Data Analyst at BizNest.\n\nKey technologies: Python, SQL, Tableau, Power BI, Excel.\n\nKey Responsibilities\n• Design and implement technical solutions to meet business requirements\n• Collaborate with cross-functional teams throughout the software development lifecycle\n• Contribute to code quality throu",
+      "link": "https://www.opentalent.in/jobs/data-analyst-biznest",
       "postedAt": "2026-07-06T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 9,
@@ -285,6 +302,28 @@
       "location": "Verna, IN",
       "summary": "Kickstart your career at Kotak Mahindra Bank in Verna, Goa as a Data Analyst intern. This structured, guided internship lets you spend your time analysing data and building dashboards and reports, learning directly from industry practitioners and seeing how work is done inside a real organisation in",
       "link": "https://myinternships.in/internships/kotak-mahindra-bank-data-analyst-verna-goa-internship-e089f4",
+      "postedAt": "2026-07-06T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Cognizant",
+      "location": "Verna, IN",
+      "summary": "Cognizant is inviting applications for a Data Analyst internship in Verna, Goa. This is a hands-on, mentor-led internship for students and freshers who want real, practical experience analysing data and building dashboards and reports. As an intern you will work alongside an experienced team, contri",
+      "link": "https://myinternships.in/internships/cognizant-data-analyst-verna-goa-internship-8c2a36",
+      "postedAt": "2026-07-06T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Yatra Online",
+      "location": "Vodlemol Cacora, IN",
+      "summary": "Kickstart your career at Yatra Online in Curchorem, Goa as a Data Analyst intern. This structured, guided internship lets you spend your time analysing data and building dashboards and reports, learning directly from industry practitioners and seeing how work is done inside a real organisation in Go",
+      "link": "https://myinternships.in/internships/yatra-online-data-analyst-curchorem-goa-internship-93e2b0",
       "postedAt": "2026-07-06T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 6,
@@ -807,6 +846,21 @@
       "source": "indeed",
       "matchScore": 2,
       "matchedSkills": []
+    },
+    {
+      "title": "Data Science Analyst",
+      "company": "Aakash Educational Services (AESL)",
+      "location": "New Delhi, IN",
+      "summary": "Requirement:\n\n• Bachelors degree in Data Science, Statistics, Computer Science, Mathematics, or related field.\n• 4-5 years of experience in data analysis or business intelligence, preferably in a call center or service operations environment.\n• Strong knowledge of MS Excel, SQL, and Python (or R) fo",
+      "link": "https://bebee.com/in/jobs/data-science-analyst-aakash-educational-services-aesl-delhi-ncr-delhi--adsolave-114476385",
+      "postedAt": "2026-07-08T23:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": [
+        "sql",
+        "excel",
+        "python"
+      ]
     },
     {
       "title": "Spinny - Product Analytics Lead/Manager",
