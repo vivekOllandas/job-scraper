@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-09T09:51:39.395Z",
+  "lastUpdated": "2026-07-09T15:25:04.421Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 67,
+  "count": 68,
   "jobs": [
     {
       "title": "Data Analyst Intern at LatentView Analytics",
@@ -710,6 +710,19 @@
       "matchScore": 2,
       "matchedSkills": [
         "excel"
+      ]
+    },
+    {
+      "title": "BI/Tableau Developer (Software Engineer III)",
+      "company": "vmysmartpros",
+      "location": "Remote",
+      "summary": "The Tri-Com Consulting Group\n\nis a Full-Service IT Employment Consulting Firm who is seeking qualified candidates for the following opening: BI/Tableau Developer (Software Engineer III)\n\nScope of Services\n\nThe scope of services required for the Business Intelligence developer includes:\n• Design, cre",
+      "link": "https://www.mysmartpros.com/tuition/job/bi-tableau-developer-software-engineer-iii/",
+      "postedAt": "2026-07-07T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": [
+        "tableau"
       ]
     },
     {
