@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-10T19:47:31.317Z",
+  "lastUpdated": "2026-07-11T03:22:05.978Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 78,
+  "count": 81,
   "jobs": [
     {
       "title": "Junior Data Analyst - Prithvi Inner Wears",
@@ -34,6 +34,22 @@
         "excel",
         "tableau",
         "python"
+      ]
+    },
+    {
+      "title": "Data Analyst- 2yrs exp - CIPHERSQUARE PAYMENT SOLUTIONS PRIVATE LIMITED",
+      "company": "OpenTalent",
+      "location": "India",
+      "summary": "Data Analyst- 2yrs exp at CIPHERSQUARE PAYMENT SOLUTIONS PRIVATE LIMITED.\n\nKey technologies: SQL, Tableau, Power BI, Excel.\n\nKey Responsibilities\n• Design and implement technical solutions to meet business requirements\n• Collaborate with cross-functional teams throughout the software development lif",
+      "link": "https://www.opentalent.in/jobs/data-analyst-2yrs-exp-ciphersquare-payment-solutions-private-limited",
+      "postedAt": "2026-07-10T13:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 9,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
       ]
     },
     {
@@ -294,6 +310,17 @@
       ]
     },
     {
+      "title": "Data Analyst – Sales Operations",
+      "company": "Jobtailor",
+      "location": "India",
+      "summary": "Responsibilities\n• Automate manual data entry and build data-driven processes for sales tracking\n• Manage and maintain Zoho CRM — workflows, hygiene, custom reports, and views\n• Build and maintain a live sales performance dashboard\n• Track revenue in vs out, deal velocity, and win/loss rates\n• Ident",
+      "link": "https://www.jobleads.com/in/job/data-analyst-sales-operations--gurugram-district--e9de735e359d12b83789d04ce910723db",
+      "postedAt": "2026-07-09T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
       "title": "Junior Data Analyst – Remote (India)",
       "company": "Confidential",
       "location": "India",
@@ -378,6 +405,17 @@
       "location": "Canacona, IN",
       "summary": "Wipro is inviting applications for a Data Analyst internship in Canacona, Goa. This is a hands-on, mentor-led internship for students and freshers who want real, practical experience analysing data and building dashboards and reports. As an intern you will work alongside an experienced team, contrib",
       "link": "https://myinternships.in/internships/wipro-data-analyst-canacona-goa-internship-6e885c",
+      "postedAt": "2026-07-06T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "MakeMyTrip",
+      "location": "Candolim, IN",
+      "summary": "MakeMyTrip has an exciting Data Analyst internship opening in Candolim, Goa, ideal for freshers and final-year students eager to learn by doing. Over this internship you will focus on analysing data and building dashboards and reports, collaborate with the team, and develop skills that employers act",
+      "link": "https://myinternships.in/internships/makemytrip-data-analyst-candolim-goa-internship-80df49",
       "postedAt": "2026-07-06T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 6,
