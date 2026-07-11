@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-07-11T03:22:05.978Z",
+  "lastUpdated": "2026-07-11T08:06:00.854Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 81,
+  "count": 82,
   "jobs": [
+    {
+      "title": "Data Analyst - Fresher - SATHYA Web Services Private Limited",
+      "company": "OpenTalent",
+      "location": "India",
+      "summary": "Data Analyst - Fresher at SATHYA Web Services Private Limited.\n\nKey technologies: SQL, Tableau, Power BI, Excel.\n\nKey Responsibilities\n• Design and implement technical solutions to meet business requirements\n• Collaborate with cross-functional teams throughout the software development lifecycle\n• Co",
+      "link": "https://www.opentalent.in/jobs/data-analyst-fresher-sathya-web-services-private-limited",
+      "postedAt": "2026-07-09T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 10,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
+      ]
+    },
     {
       "title": "Junior Data Analyst - Prithvi Inner Wears",
       "company": "OpenTalent",
