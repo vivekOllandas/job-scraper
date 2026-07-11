@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-11T13:41:26.748Z",
+  "lastUpdated": "2026-07-11T19:14:01.863Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 83,
+  "count": 84,
   "jobs": [
     {
       "title": "Data Analyst - Fresher - SATHYA Web Services Private Limited",
@@ -632,6 +632,22 @@
       "source": "naukri",
       "matchScore": 6,
       "matchedSkills": []
+    },
+    {
+      "title": "Senior Data Analyst(SAS and Credit Risk) (Telangana)",
+      "company": "EY",
+      "location": "Hyderabad, IN",
+      "summary": "JOB DESCRIPTION\n\nTotal Years of experience: 5-10\n\nTools and Technology:\nSAS Base\nSAS Advanced\nSAS Viya\nSAS Enterprise Guide (EG)\nSAS Macro Programming\nSQL (Oracle, Teradata, SQL Server)\nAdvanced Excel\nPower BI / Tableau\nData Warehousing Concepts\nData Validation & Reporting\n\nMinimum Years of experien",
+      "link": "https://www.shine.com/jobs/senior-data-analystsas-and-credit-risk-telangana/ey/19211155",
+      "postedAt": "2026-07-09T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
+      ]
     },
     {
       "title": "Data Analyst",
