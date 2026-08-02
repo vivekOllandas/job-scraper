@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-01T19:18:42.130Z",
+  "lastUpdated": "2026-08-02T03:33:13.378Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 94,
+  "count": 101,
   "jobs": [
     {
       "title": "Data Analyst Internship",
@@ -227,6 +227,21 @@
       ]
     },
     {
+      "title": "Data Analyst (Microsoft Project Exp Must) (Karnataka)",
+      "company": "Tecnoprism",
+      "location": "India",
+      "summary": "Data Analyst\n\nLocation : Bangalore\n\nOnly candidates from Microsoft project\n\nKey Responsibilities\n\n- Collect, clean, validate, and analyze structured/unstructured data\n- Develop dashboards, reports, and KPIs using tools like Power BI, Excel, SQL, and Azure\n- Perform exploratory data analysis and iden",
+      "link": "https://www.shine.com/jobs/data-analyst-microsoft-project-exp-must-karnataka/tecnoprism/19352251",
+      "postedAt": "2026-07-31T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 8,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel"
+      ]
+    },
+    {
       "title": "Data Analyst Intern (South Delhi)",
       "company": "FINMINOS PRIVATE",
       "location": "New Delhi, IN",
@@ -267,6 +282,19 @@
       "matchedSkills": [
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Data Analyst (Trainee Remote) (Jaipur)",
+      "company": "Enerzio",
+      "location": "Jaipur, IN",
+      "summary": "Job Title: Data Analyst Trainee (Remote)\n\nLocation: Remote\n\nJob Type: Full time / Internship (Trainee)\n\nAbout the Role:\n\nWe are seeking a highly motivated and detail-oriented Data Analyst Trainee to join our dynamic team. This is an excellent opportunity for individuals looking to start or advance t",
+      "link": "https://www.shine.com/jobs/data-analyst-trainee-remote-jaipur/enerzio/19332223",
+      "postedAt": "2026-07-28T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 7,
+      "matchedSkills": [
+        "excel"
       ]
     },
     {
@@ -339,6 +367,19 @@
       "matchedSkills": [
         "sql",
         "power bi"
+      ]
+    },
+    {
+      "title": "Data & Reporting Analyst (Tableau and Alteryx) - REMOTE from any US based location",
+      "company": "CNO Financial Group",
+      "location": "Remote",
+      "summary": "Job Details\n\nCNO Financial Group, Inc. (NYSE: CNO) is a leading insurance and financial services company focused on securing the future of middle-income America. Through brands such as Bankers Life, Colonial Penn, Optavise, and Washington National, CNO delivers life and health insurance, annuities, ",
+      "link": "https://www.dice.com/job-detail/1ff10e4b-811a-4fae-917e-0523f2a6b6db",
+      "postedAt": "2026-07-30T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 6,
+      "matchedSkills": [
+        "tableau"
       ]
     },
     {
@@ -736,6 +777,17 @@
       "matchedSkills": []
     },
     {
+      "title": "HR - Data Analyst with Varahe Analytics Private Limited (Noida, PQE 4+ Years)",
+      "company": "Skill Arbitrage Opportunities",
+      "location": "Gurugram, IN",
+      "summary": "About the Organisation Varahe Analytics is a leading integrated political consulting firm in India, specializing in data-driven election management, strategic advisory, and campaign execution through insights and ground intelligence. About the Job: Varahe Analytics Private Limited is hiring a Data A",
+      "link": "https://www.shine.com/jobs/hr-data-analyst-with-varahe-analytics-private-limited-noida-pqe-4-years/skill-arbitrage-opportunities/19327227",
+      "postedAt": "2026-07-28T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "Senior Data Analyst(SAS and Credit Risk) (Telangana)",
       "company": "EY",
       "location": "Hyderabad, IN",
@@ -968,6 +1020,17 @@
       ]
     },
     {
+      "title": "MIS Executive and Analyst",
+      "company": "Gurukrupa Exports",
+      "location": "Surat, IN",
+      "summary": "Job Title: MIS Analyst\nCompany\nLocation: Surat\nJob Summary\nWe're looking for a MIS Analyst to support our jewellery business with data-driven insights.\nYou'll analyze sales, inventory, customer trends, and more to help us make smart decisions.\n\nKey Responsibilities:Create MIS reports on sales, stock",
+      "link": "https://www.shine.com/jobs/mis-executive-and-analyst/gurukrupa-exports/19317229",
+      "postedAt": "2026-07-27T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 3,
+      "matchedSkills": []
+    },
+    {
       "title": "Tableau and Power BI Specialist (Remote)",
       "company": "vmysmartpros",
       "location": "Remote",
@@ -1021,6 +1084,17 @@
         "power bi",
         "tableau"
       ]
+    },
+    {
+      "title": "Business Analytics Intern",
+      "company": "hireshire",
+      "location": "Hyderabad, IN",
+      "summary": "About Hireshire\n\nHireshire is an innovative talent solutions platform committed to connecting businesses with exceptional candidates. As part of our expansion into Data Analytics, we're offering a structured internship program for motivated individuals eager to build a career in data-driven decision",
+      "link": "https://www.shine.com/jobs/business-analytics-intern/hireshire/19352479",
+      "postedAt": "2026-07-31T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": []
     },
     {
       "title": "Lead Data Analyst",
@@ -1130,6 +1204,22 @@
       "source": "indeed",
       "matchScore": 2,
       "matchedSkills": []
+    },
+    {
+      "title": "Deputy Manager - Mis (finance & Accounting) - (python, Sql, Tableau, Power Bi)",
+      "company": "WNS Global Services",
+      "location": "Pune, IN",
+      "summary": "Company Description WNS Holdings Limited NYSE WNS is a leading Business Process Management BPM company We combine our deep industry knowledge with technology and analytics expertise to co-create innovative digital-led transformational solutions with clients across 10 industries We enable businesses ",
+      "link": "https://bebee.com/in/jobs/deputy-manager-mis-finance-accounting-python-sql-tableau-power-bi-wns-global-services-pune-maharasht--jobted-6d1ce7750fbf0a3809c9b99913a940f7",
+      "postedAt": "2026-07-29T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "tableau",
+        "python"
+      ]
     },
     {
       "title": "Data Science Analyst",
