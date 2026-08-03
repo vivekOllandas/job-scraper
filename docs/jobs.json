@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-02T19:19:51.370Z",
+  "lastUpdated": "2026-08-03T03:35:32.042Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 103,
+  "count": 117,
   "jobs": [
     {
       "title": "Data Analyst Internship",
@@ -76,6 +76,23 @@
       "postedAt": "2026-06-30T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 10,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau",
+        "python"
+      ]
+    },
+    {
+      "title": "Data Analyst - Fintech Only (Noida)",
+      "company": "Growcap Creditwise",
+      "location": "Noida, IN",
+      "summary": "Job Summary\n\nWe are looking for a highly analytical Data Analyst with 4+ years of experience to transform complex data into actionable business insights. The ideal candidate should be proficient in SQL, Excel, Power BI/Tableau, and Python, with experience in analyzing large datasets, creating dashbo",
+      "link": "https://www.kitjob.in/job/307340925/data-analyst-fintech-only-noida",
+      "postedAt": "2026-08-02T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 9,
       "matchedSkills": [
         "sql",
         "power bi",
@@ -383,6 +400,19 @@
       "matchedSkills": [
         "sql",
         "power bi"
+      ]
+    },
+    {
+      "title": "AI Data Analyst US Citizens only, active TS/SCI clearance required",
+      "company": "LTC Solutions LLC",
+      "location": "Washington, US",
+      "summary": "LTC Solutions, LLC is a small business with a huge commitment to supporting our employees and providing quality services to our government clients. Our employees have an entrepreneurial spirit, a passion for excellence, and a proactive approach to providing the best possible solutions to our clients",
+      "link": "https://www.ziprecruiter.com/c/LTC-Solutions/Job/AI-Data-Analyst-US-Citizens-only,-active-TS-SCI-clearance-required/-in-Washington,DC?jid=173b0a66fdb2255d",
+      "postedAt": "2026-07-31T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 6,
+      "matchedSkills": [
+        "excel"
       ]
     },
     {
@@ -793,6 +823,17 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Analyst Supporting the FBI",
+      "company": "FSA",
+      "location": "Washington, US",
+      "summary": "Be a part of the nationwide law enforcement initiative that removes the tools of crime from criminal organizations, depriving wrongdoers of proceeds from their crime and impacting the infrastructure of criminal enterprises.\n\nEnProVera, owned and operated by government veterans with extensive backgro",
+      "link": "https://www.linkedin.com/jobs/view/data-analyst-supporting-the-fbi-at-fsa-4445540794",
+      "postedAt": "2026-08-01T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "HR - Data Analyst with Varahe Analytics Private Limited (Noida, PQE 4+ Years)",
       "company": "Skill Arbitrage Opportunities",
       "location": "Gurugram, IN",
@@ -1022,6 +1063,30 @@
       ]
     },
     {
+      "title": "Data Analytics Trainer",
+      "company": "SkilloVilla",
+      "location": "Jaipur, IN",
+      "summary": "We're Hiring | Data Analytics Trainer | Jaipur, Rajasthan\n\nPassionate about Data Analytics and mentoring aspiring professionals Join SkilloVilla as a Data Analytics Trainer and help shape the next generation of data analysts through hands-on learning and real-world projects.\n\nLocation: Jaipur, Rajas",
+      "link": "https://www.shine.com/jobs/data-analytics-trainer/skillovilla/19358056",
+      "postedAt": "2026-08-01T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 3,
+      "matchedSkills": []
+    },
+    {
+      "title": "Remote data entry specialist",
+      "company": "Burjline Builders",
+      "location": "Arlington, US",
+      "summary": "US Energy Windows & Door LLC is seeking a detail-oriented and organized Remote Data Entry Specialist to accurately enter, update, and maintain company, customer, sales, and project information. The ideal candidate will have strong attention to detail, excellent computer skills, and the ability to wo",
+      "link": "https://www.linkedin.com/jobs/view/remote-data-entry-specialist-at-burjline-builders-4446774033",
+      "postedAt": "2026-07-30T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 3,
+      "matchedSkills": [
+        "excel"
+      ]
+    },
+    {
       "title": "Senior Business Analyst – Japan arenaflex Store Customer Service, Data Analytics & Insight Generation (SQL, Tableau, Bilingual)",
       "company": "vmysmartpros",
       "location": "Remote",
@@ -1034,6 +1099,17 @@
         "sql",
         "tableau"
       ]
+    },
+    {
+      "title": "MIS Executive and Analyst (Surat)",
+      "company": "Gurukrupa Exports",
+      "location": "Surat, IN",
+      "summary": "Job Title: MIS Analyst\n\nCompany\n\nLocation: Surat\n\nJob Summary\n\nWe're looking for a MIS Analyst to support our jewellery business with data-driven insights.\n\nYou'll analyze sales, inventory, customer trends, and more to help us make smart decisions.\n\nKey Responsibilities:Create MIS reports on sales, ",
+      "link": "https://www.shine.com/jobs/mis-executive-and-analyst-surat/gurukrupa-exports/19321238",
+      "postedAt": "2026-07-28T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 3,
+      "matchedSkills": []
     },
     {
       "title": "MIS Executive and Analyst",
@@ -1120,6 +1196,17 @@
       "link": "https://www.shine.com/jobs/business-analytics-intern/hireshire/19352479",
       "postedAt": "2026-07-31T00:00:00.000Z",
       "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Officer - req37913",
+      "company": "The World Bank Group",
+      "location": "Washington, US",
+      "summary": "Data Officer\n\nJob #: req37913\n\nOrganization: World Bank\n\nSector: Finance & Accounting\n\nGrade: GF\n\nTerm Duration: 3 years 0 months\n\nRecruitment Type: International Recruitment\n\nLocation: Washington, DC,United States\n\nRequired Language(s): English\n\nPreferred Language(s)\n\nClosing Date: 8/13/2026 (MM/DD",
+      "link": "https://www.linkedin.com/jobs/view/data-officer-req37913-at-the-world-bank-group-4447220351",
+      "postedAt": "2026-07-31T00:00:00.000Z",
+      "source": "indeed",
       "matchScore": 2,
       "matchedSkills": []
     },
@@ -1233,6 +1320,39 @@
       "matchedSkills": []
     },
     {
+      "title": "Cleared Chief Data Architect",
+      "company": "Noblis",
+      "location": "Bethesda, US",
+      "summary": "Responsibilities\n\nNoblis is seeking a cleared Data Architect supporting our customer in Bethesda, MD on a SETA contract.\n\nThe Chief Data Architect will serve as the senior technical authority responsible for defining and implementing the Enterprise Data Architecture in support of the program. This e",
+      "link": "https://careers.noblis.org/jobs/27263?lang=en-us",
+      "postedAt": "2026-08-03T03:35:18.947Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Remote Sr. Data Analyst  Finance",
+      "company": "vmysmartpros",
+      "location": "India",
+      "summary": "Note: The job is a remote job and is open to candidates in USA. Consensus Cloud Solutions is a leading digital cloud fax and interoperability solutions organization focused on connecting healthcare providers and technology innovators. They are seeking a Senior Data Analyst to support the finance tea",
+      "link": "https://www.shine.com/jobs/remote-sr-data-analyst-finance/vmysmartpros/19362664",
+      "postedAt": "2026-08-01T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Engineer II",
+      "company": "Deloitte",
+      "location": "McLean, US",
+      "summary": "Deloitte is seeking a Data Engineer II to support the design, development, and delivery of data solutions that enable analytics, reporting, and business decision-making. This role will focus on building scalable data pipelines, improving data quality, and supporting modern data platform capabilities",
+      "link": "https://www.indeed.com/viewjob?jk=0e5c22da5a84813b",
+      "postedAt": "2026-07-31T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
       "title": "Deputy Manager - Mis (finance & Accounting) - (python, Sql, Tableau, Power Bi)",
       "company": "WNS Global Services",
       "location": "Pune, IN",
@@ -1247,6 +1367,50 @@
         "tableau",
         "python"
       ]
+    },
+    {
+      "title": "Data Center Network Engineer",
+      "company": "Leidos",
+      "location": "Camp Springs, US",
+      "summary": "Description\nThe Leidos Digital Modernization Sector is seeking a Data Center Network Engineer in support of the Air Force National Capital (AFNCR) IT Services program.\n\nAt Leidos, we deliver innovative solutions through the efforts of our diverse and talented people who are dedicated to our customer",
+      "link": "https://careers.leidos.com/jobs/18047752-data-center-network-engineer",
+      "postedAt": "2026-07-29T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analytics Analyst",
+      "company": "AARP",
+      "location": "Washington, US",
+      "summary": "Overview\n\nAARP is the nation's largest nonprofit, nonpartisan organization dedicated to empowering people 50 and older to choose how they live as they age. With a nationwide presence, AARP strengthens communities and advocates for what matters most to the more than 100 million Americans 50-plus and ",
+      "link": "https://careers.aarp.org/about-us/jobs/7682?lang=en-us",
+      "postedAt": "2026-07-23T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Principal Data Scientist (Operations) - 90339320 - Washington",
+      "company": "Amtrak",
+      "location": "Washington, US",
+      "summary": "Your success is a train ride away!\n\nAs we move America’s workforce toward the future, Amtrak connects businesses and communities across the country. We employ more than 20,000 diverse, energetic professionals in a variety of career fields throughout the United States. The safety of our passengers, o",
+      "link": "https://careers.amtrak.com/job/Washington-Principal-Data-Scientist-%28Operations%29-90339320-Washington-DC-20002/1402052400/",
+      "postedAt": "2026-07-21T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Senior Director, Data Science (Remote-Eligible)",
+      "company": "Capital One",
+      "location": "McLean, US",
+      "summary": "Senior Director, Data Science (Remote-Eligible)\n\nData is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward ",
+      "link": "https://www.capitalonecareers.com/job/mclean/senior-director-data-science-remote-eligible/1732/98096051184",
+      "postedAt": "2026-07-21T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
     },
     {
       "title": "Data Science Analyst",
