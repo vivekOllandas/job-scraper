@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-08-03T03:35:32.042Z",
+  "lastUpdated": "2026-08-03T09:58:15.659Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 117,
+  "count": 119,
   "jobs": [
+    {
+      "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
+      "company": "vmysmartpros",
+      "location": "Remote",
+      "summary": "The Data Insight Analyst is responsible for acquiring, managing and analyzing data that will be presented to internal teams, clients and partners.\n\nDUTIES AND RESPONSIBILITIES:\n• Developing reports and analytics using data from data warehouse and Salesforce using Excel, SQL, Tableau, and other repor",
+      "link": "https://www.mysmartpros.com/tuition/job/data-analyst-sql-excel-tableau-power-bi-with-salesforce-97106e61/",
+      "postedAt": "2026-08-02T23:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 10,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
+      ]
+    },
     {
       "title": "Data Analyst Internship",
       "company": "The SmartBridge",
@@ -315,6 +331,19 @@
       "matchedSkills": [
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Data Analyst (Trainee Remote)",
+      "company": "Enerzio",
+      "location": "Jaipur, IN",
+      "summary": "Job Title: Data Analyst Trainee (Remote)\n\nLocation: Remote\n\nJob Type: Full-Time / Internship (Trainee)\n\nAbout the Role:\n\nWe are seeking a highly motivated and detail-oriented Data Analyst Trainee to join our dynamic team. This is an excellent opportunity for individuals looking to start or advance t",
+      "link": "https://bebee.com/in/jobs/data-analyst-trainee-remote-enerzio-jaipur--ss-in-h89x5y",
+      "postedAt": "2026-07-31T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 7,
+      "matchedSkills": [
+        "excel"
       ]
     },
     {
