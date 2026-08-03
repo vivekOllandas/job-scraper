@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-03T14:54:36.983Z",
+  "lastUpdated": "2026-08-03T19:46:56.210Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 119,
+  "count": 120,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -428,6 +428,19 @@
       "matchScore": 7,
       "matchedSkills": [
         "sql",
+        "power bi"
+      ]
+    },
+    {
+      "title": "Power BI Analyst (Jalalabad)",
+      "company": "Leading",
+      "location": "Chandigarh, IN",
+      "summary": "MinutestoSeconds is a dynamic organization specializing in outsourcing services, digital marketing, IT recruitment, and custom IT projects. We partner with SMEs, mid-sized companies, and niche professionals to deliver tailored solutions.\n\nRequirements\n\nROLE: BI, Analyst\n\nDESIGNATION: Skilled, BI Ana",
+      "link": "https://www.shine.com/jobs/power-bi-analyst-jalalabad/leading/19380803",
+      "postedAt": "2026-08-02T22:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": [
         "power bi"
       ]
     },
