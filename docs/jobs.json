@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-04T03:19:45.531Z",
+  "lastUpdated": "2026-08-04T08:49:38.958Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 120,
+  "count": 123,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -107,6 +107,23 @@
       "summary": "Job Summary\n\nWe are looking for a highly analytical Data Analyst with 4+ years of experience to transform complex data into actionable business insights. The ideal candidate should be proficient in SQL, Excel, Power BI/Tableau, and Python, with experience in analyzing large datasets, creating dashbo",
       "link": "https://www.kitjob.in/job/307340925/data-analyst-fintech-only-noida",
       "postedAt": "2026-08-02T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 9,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau",
+        "python"
+      ]
+    },
+    {
+      "title": "Data Analyst - Fintech Only",
+      "company": "Growcap Creditwise",
+      "location": "Noida, IN",
+      "summary": "Job Summary\n\nWe are looking for a highly analytical Data Analyst with 4+ years of experience to transform complex data into actionable business insights. The ideal candidate should be proficient in SQL, Excel, Power BI/Tableau, and Python, with experience in analyzing large datasets, creating dashbo",
+      "link": "https://bebee.com/in/jobs/data-analyst-fintech-only-growcap-creditwise-noida--t7xk-783402893",
+      "postedAt": "2026-07-31T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 9,
       "matchedSkills": [
@@ -331,6 +348,20 @@
       "matchedSkills": [
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Data Analyst & Data Science Trainer (India)",
+      "company": "NetTech India",
+      "location": "India",
+      "summary": "Data Science & Data Analytics Trainer Location: Dadar & Andheri, Mumbai Job Type: Full-Time | Working Days: 6 Days/Week We are hiring a Data Science & Data Analytics Trainer with strong technical expertise and a passion for teaching.\n\nResponsibilities - Deliver training in Python, SQL, Machine Learn",
+      "link": "https://bebee.com/in/jobs/data-analyst-data-science-trainer-india-nettech-india-all-india--techmap_in_19380746",
+      "postedAt": "2026-08-03T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 7,
+      "matchedSkills": [
+        "sql",
+        "python"
       ]
     },
     {
@@ -1228,6 +1259,19 @@
       "matchedSkills": [
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Assistant Manager- Reporting Analyst(Data Analytics, POWER BI) (India)",
+      "company": "ZF",
+      "location": "India",
+      "summary": ".buttontext3ff74ec8b95485fc a{ border: 1px solid transparent; } .buttontext3ff74ec8b95485fc a: focus{ border: 1px dashed #0b67cb !important; outline: none !important; }\nBecome our next FutureStarter\n\nAre you ready to make an impact ZF is looking for talented individuals to join our team. As a Future",
+      "link": "https://www.shine.com/jobs/assistant-manager-reporting-analystdata-analytics-power-bi-india/zf/19368769",
+      "postedAt": "2026-08-02T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": [
+        "power bi"
       ]
     },
     {
