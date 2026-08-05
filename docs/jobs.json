@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-05T03:14:17.908Z",
+  "lastUpdated": "2026-08-05T08:46:18.407Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 127,
+  "count": 129,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -374,6 +374,20 @@
       "source": "naukri",
       "matchScore": 7,
       "matchedSkills": [
+        "excel"
+      ]
+    },
+    {
+      "title": "Data Analyst for Financial Data",
+      "company": "Crescendo Global Leadership Hiring India",
+      "location": "India",
+      "summary": "Data Analyst - Financial Data- SQL-Excel - 3+ years - Pan India\n\nAre you passionate about transforming complex data into meaningful business insights? We are looking for a Data Analyst to support product management, commercial strategy, and marketing initiatives by leveraging data analytics, busines",
+      "link": "https://www.jobleads.com/in/job/data-analyst-financial-data-sql-excel-3-years-pan-india--gurugram-district--bengaluru--pune-district--e5800798b8ee5f7b3944a1592a5af2976",
+      "postedAt": "2026-07-30T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 7,
+      "matchedSkills": [
+        "sql",
         "excel"
       ]
     },
@@ -925,6 +939,17 @@
       "link": "https://www.linkedin.com/jobs/view/data-analyst-supporting-the-fbi-at-fsa-4445540794",
       "postedAt": "2026-08-01T00:00:00.000Z",
       "source": "indeed",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst Growth & Business Analytics",
+      "company": "Entri",
+      "location": "Bengaluru, IN",
+      "summary": "Company Description Entri is a vernacular language learning platform in India that helps individuals develop job-relevant skills and improve their career prospects. The platform focuses on delivering accessible, localized learning experiences tailored to diverse regional audiences. Entri is backed b",
+      "link": "https://www.shine.com/jobs/data-analyst-growth-business-analytics/entri/19350512",
+      "postedAt": "2026-07-30T00:00:00.000Z",
+      "source": "naukri",
       "matchScore": 5,
       "matchedSkills": []
     },
