@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-05T19:44:19.795Z",
+  "lastUpdated": "2026-08-06T03:17:33.525Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 130,
+  "count": 131,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -1475,6 +1475,17 @@
       "postedAt": "2026-06-24T00:00:00.000Z",
       "source": "indeed",
       "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst Trainer",
+      "company": "Arbor Academy",
+      "location": "Bhubaneswar, IN",
+      "summary": "🚀 We're Hiring: Data Analyst + Generative AI + Agentic AI Trainer 📍 Location: Bhubaneswar, Odisha (Online)\n\n🏢 Company: Arbor Academy\n\n💼 Role: Trainer / Faculty / Corporate Trainer\n\n🕒 Employment Type: Full-Time | Part-Time | Freelance\n\n🎯 Experience: 5+ Years Are you passionate about Data Analyt",
+      "link": "https://bebee.com/in/jobs/data-analyst-trainer-arbor-academy-bhubaneshwar--fj-2296323890",
+      "postedAt": "2026-08-05T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
       "matchedSkills": []
     },
     {
