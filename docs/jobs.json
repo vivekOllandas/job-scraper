@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-07T13:17:53.843Z",
+  "lastUpdated": "2026-08-07T19:05:26.150Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 136,
+  "count": 138,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -943,6 +943,17 @@
       "matchedSkills": []
     },
     {
+      "title": "Business Analyst (Data Analytics | Mobility | Payments)",
+      "company": "JobItUs",
+      "location": "Bengaluru, IN",
+      "summary": "Job Summary\n\nWe are seeking an experienced Business Analyst with expertise in Data Analytics, Mobility, and Payments domain. The role involves requirement gathering, functional documentation, stakeholder management, data analysis, and delivering mobility/payment solutions.\n\nKey Responsibilities\n\nGat",
+      "link": "https://www.shine.com/jobs/business-analyst-data-analytics-mobility-payments/jobitus/19399118",
+      "postedAt": "2026-08-05T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "Data Analyst & Data Science Trainer",
       "company": "Vihara Tech Las Pu",
       "location": "Hyderabad, IN",
@@ -1375,6 +1386,19 @@
       "matchedSkills": [
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Data Analytics trainer",
+      "company": "EXCELR EDTECH PRIVATE LIMITED",
+      "location": "Thane, IN",
+      "summary": "About ExcelR:\n\r\nExcelR is a leading edtech company founded by distinguished alumni of IIM and ISB, dedicated to transforming careers through world-class upskilling. Recognized twice with the Deloitte Fast 50 Award, ExcelR is one of Indias fastest-growing tech companies. With an employee size of 450+",
+      "link": "https://www.shine.com/jobs/data-analytics-trainer/excelr-edtech-private-limited/19409271",
+      "postedAt": "2026-08-07T14:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": [
+        "excel"
       ]
     },
     {
