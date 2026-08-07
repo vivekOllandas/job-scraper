@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-07T07:26:14.413Z",
+  "lastUpdated": "2026-08-07T13:17:53.843Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 135,
+  "count": 136,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -1531,6 +1531,20 @@
       "source": "naukri",
       "matchScore": 1,
       "matchedSkills": []
+    },
+    {
+      "title": "03 Tableau and SQL Dashboard Expert (Gurgaon, India) JobCode JC0015831",
+      "company": "WLEN WorldJobs LLP",
+      "location": "Gurugram, IN",
+      "summary": "Job Description\n\n5-8 years of experience in analytics, SQL, tableau\n\nGurgaon\n\nNP: Immediate-15 Days\n\n5+ years of strong experience in creating dashboards in Tableau (preferred)\n\nData Modelling & Preparation -\n\nCreate and manage Tableau data sources, joins, blends, and relationships.\n\nPerform data wr",
+      "link": "https://www.shine.com/jobs/tableau-and-sql-dashboard-expert-gurgaon-india-jobcode-jc/wlen-worldjobs-llp/19396009",
+      "postedAt": "2026-08-05T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": [
+        "sql",
+        "tableau"
+      ]
     },
     {
       "title": "Cleared Chief Data Architect",
