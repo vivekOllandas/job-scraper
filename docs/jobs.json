@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-08T18:47:06.881Z",
+  "lastUpdated": "2026-08-09T02:10:24.636Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 138,
+  "count": 147,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -92,6 +92,23 @@
       "postedAt": "2026-06-30T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 10,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau",
+        "python"
+      ]
+    },
+    {
+      "title": "Data Analyst II (SQL Developer)",
+      "company": "vmysmartpros",
+      "location": "Remote",
+      "summary": "Bachelor's degree,2+ years data analyst experience,advanced hands-on SQL,Microsoft Excel,data visualization (Tableau,Microsoft Power BI);R/Python and Zoho Analytics preferred;strong communication and problem-solving.Key Responsibilitiesgathering datacleaning datacreating reportsSkills & ToolsSQL, Mi",
+      "link": "https://www.mysmartpros.com/tuition/job/data-analyst-ii-sql-developer-a768be38/",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 9,
       "matchedSkills": [
         "sql",
         "power bi",
@@ -474,6 +491,22 @@
       "matchedSkills": [
         "sql",
         "power bi"
+      ]
+    },
+    {
+      "title": "Data Insight Analyst -SQL, Excel, Tableau/Power BI, Salesforce Hiring ASAP",
+      "company": "vmysmartpros",
+      "location": "Remote",
+      "summary": "AssistRx develops technology-enabled patient access and support solutions for the specialty pharmaceutical industry, helping improve access to therapies and patient care. In this role, you will help turn complex data into clear, actionable insights that support internal teams, clients, and partners.",
+      "link": "https://www.mysmartpros.com/tuition/job/data-insight-analyst-sql-excel-tableau-power-bi-salesforce-hiring-asap-aa0c273c/",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 6,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
       ]
     },
     {
@@ -932,6 +965,44 @@
       "matchedSkills": []
     },
     {
+      "title": "[Remote] Data Analyst/Business Intelligence",
+      "company": "vmysmartpros",
+      "location": "Remote",
+      "summary": "Note: The job is a remote job and is open to candidates in USA. AcceleratedPM is seeking a Data Analyst/Business Intelligence to support enterprise business intelligence, data analytics, and reporting initiatives. The role involves transforming raw data into actionable insights through the developme",
+      "link": "https://www.mysmartpros.com/tuition/job/remote-data-analyst-business-intelligence/",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst & Data Science Trainer (Hyderabad)",
+      "company": "Vihara Tech Las Pu",
+      "location": "Hyderabad, IN",
+      "summary": ":\n\nViharaTech is looking for an experienced and passionate Data Analytics & Data Science Trainer who can deliver high-quality, industry-oriented training programs for students and professionals. The trainer will be responsible for teaching Data Analytics, Data Science, Machine Learning, and AI conce",
+      "link": "https://www.shine.com/jobs/data-analyst-data-science-trainer-hyderabad/vihara-tech-las-pu/19416160",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst (3 To 8 Years) (Hyderabad)",
+      "company": "Erudio Technologies",
+      "location": "Hyderabad, IN",
+      "summary": "Role & responsibilities\n\n- Collect, clean, and analyze data from multiple sources to generate business insights.\n- Write SQL queries to extract, transform, and validate data.\n- Develop interactive dashboards and reports using Power BI/Tableau and Excel.\n- Perform data validation and ensure data accu",
+      "link": "https://www.shine.com/jobs/data-analyst-3-to-8-years-hyderabad/erudio-technologies/19411542",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
+      ]
+    },
+    {
       "title": "Data Analyst  Autonomous Driving",
       "company": "QCraft AI",
       "location": "India",
@@ -1249,6 +1320,19 @@
       ]
     },
     {
+      "title": "Remote Data Analytics Intern — ETL & Dashboards",
+      "company": "Eide Bailly",
+      "location": "Remote",
+      "summary": "Eide Bailly is seeking a Data Analytics Intern to join our team from September to December. This remote internship offers 20+ hours per week and exposure to real client projects under experienced professionals.\n\nYou'll build ETL processes, use Kimball Star Schema, create reports with Power BI/Tablea",
+      "link": "https://www.jobleads.com/us/job/remote-data-analytics-intern-etl-dashboards--lehi--e4fa4ea0490a0e1fe08e2d3ae2db6322f",
+      "postedAt": "2026-08-04T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 3,
+      "matchedSkills": [
+        "power bi"
+      ]
+    },
+    {
       "title": "Business Intelligence Developer(Power Bi/Tableau) (Chennai)",
       "company": "Compunet Connections",
       "location": "Chennai, IN",
@@ -1546,6 +1630,33 @@
       "matchedSkills": []
     },
     {
+      "title": "Senior Financial Data Analyst",
+      "company": "vmysmartpros",
+      "location": "Remote",
+      "summary": "As a Sr. Financial Data Analyst, you will leverage advanced analytics, automation, and financial modeling to support the Finance and Accounting departments. You will design and optimize processes to streamline monthly reporting, accelerate close and audit cycles, and ensure data accuracy. Collaborat",
+      "link": "https://www.mysmartpros.com/tuition/job/senior-financial-data-analyst-3/",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Senior Lead BI Engineer Tableau Python",
+      "company": "Brillio",
+      "location": "Mumbai, IN",
+      "summary": "Senior Lead BI EngineerPrimary SkillsAlteryx, Tableau, SQL, Tableau Prep, Advanced ExcelJob requirementsSkill- Python, SQL, Tableau and SCM domain, excellent communication skills\n\nDetailed JD\n\nInteractive Dashboard Engineering: Design, build, and maintain high-performance, user-friendly Tableau dash",
+      "link": "https://www.shine.com/jobs/senior-lead-bi-engineer-tableau-python/brillio/19412046",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": [
+        "sql",
+        "excel",
+        "tableau",
+        "python"
+      ]
+    },
+    {
       "title": "Data Analyst Trainer",
       "company": "Arbor Academy",
       "location": "Bhubaneswar, IN",
@@ -1569,6 +1680,17 @@
         "sql",
         "tableau"
       ]
+    },
+    {
+      "title": "Senior Data Analyst & Trainer",
+      "company": "Finprov Learning",
+      "location": "Kochi, IN",
+      "summary": "Senior Data Analyst & Trainer\n\nExperience:\n\n2- 3 Years\nLocation:\n\nKochi (Corporate Office)\n\nJob Summary\n\nWe are looking for a highly analytical and experienced\nSenior Data Analyst & Trainer to join our team. The primary focus of this role is to analyze business data, generate actionable insights, bu",
+      "link": "https://bebee.com/in/jobs/senior-data-analyst-trainer-finprov-learning-kochi-kerala--t7xk-789303990",
+      "postedAt": "2026-08-05T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
     },
     {
       "title": "Cleared Chief Data Architect",
