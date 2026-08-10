@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-10T02:18:01.606Z",
+  "lastUpdated": "2026-08-10T07:52:54.032Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 153,
+  "count": 156,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -540,6 +540,22 @@
       ]
     },
     {
+      "title": "[Remote] Data Insight Analyst -SQL, Excel, Tableau/Power BI, Salesforce Hiring ASAP",
+      "company": "vmysmartpros",
+      "location": "Remote",
+      "summary": "Note: The job is a remote job and is open to candidates in USA. AssistRx develops technology-enabled patient access and support solutions for the specialty pharmaceutical industry. In this role, you will help turn complex data into clear, actionable insights that support internal teams, clients, and",
+      "link": "https://www.mysmartpros.com/tuition/job/remote-data-insight-analyst-sql-excel-tableau-power-bi-salesforce-hiring-asap-a6252494/",
+      "postedAt": "2026-08-09T23:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 6,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
+      ]
+    },
+    {
       "title": "Data Insight Analyst -SQL, Excel, Tableau/Power BI, Salesforce Hiring ASAP",
       "company": "vmysmartpros",
       "location": "Remote",
@@ -1071,6 +1087,17 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Analyst Dashboard Specialist (Delhi)",
+      "company": "Align Technology",
+      "location": "New Delhi, IN",
+      "summary": "Description\n\nWe are seeking a Data Analyst Dashboard Specialist to join our team in India. The ideal candidate will have a solid background in data visualization and analysis, with a passion for transforming data into actionable insights through interactive dashboards.\n\nResponsibilities\n\n- Design an",
+      "link": "https://www.shine.com/jobs/data-analyst-dashboard-specialist-delhi/align-technology/19398782",
+      "postedAt": "2026-08-06T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "Data Analyst  Autonomous Driving",
       "company": "QCraft AI",
       "location": "India",
@@ -1102,6 +1129,22 @@
       "source": "naukri",
       "matchScore": 5,
       "matchedSkills": []
+    },
+    {
+      "title": "Corporate Trainer- Data Analytics",
+      "company": "Koenig Solutions Pvt. Ltd.",
+      "location": "India",
+      "summary": "We are looking for a\n\nCorporate Trainer Data Analytics with\n\n2+ years of experience in delivering technical training on\n\nPower BI, Tableau, SQL, Python, Qlik, Power Apps, and Microsoft Fabric\n\n. The role involves conducting live online training, creating learning content, mentoring global learners, ",
+      "link": "https://www.shine.com/jobs/corporate-trainer-data-analytics/koenig-solutions-pvt-ltd/19387095",
+      "postedAt": "2026-08-04T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "tableau",
+        "python"
+      ]
     },
     {
       "title": "Data Analyst Training Program",
