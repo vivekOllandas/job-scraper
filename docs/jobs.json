@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-11T19:11:03.968Z",
+  "lastUpdated": "2026-08-12T02:26:33.175Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 162,
+  "count": 165,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -602,6 +602,17 @@
         "excel",
         "python"
       ]
+    },
+    {
+      "title": "Data Analyst Intern  Indore.",
+      "company": "Hexcode Think Private Limited",
+      "location": "Indore, IN",
+      "summary": "Company: Hexcode Think Pvt. Ltd.\n\nProduct: Superblock Omnichannel Customer Communication Platform\n\nWebsite: https://www.superblock.chat\n\nLocation: Indore, Madhya Pradesh (Indore)\n\nInternship Duration:2 Months\n\nJob Description\n\nJoin Superblock, an AI-powered SaaS platform by Hexcode Think Pvt. Ltd., ",
+      "link": "https://www.shine.com/jobs/data-analyst-intern-indore/hexcode-think-private-limited/19408629",
+      "postedAt": "2026-08-07T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
     },
     {
       "title": "Data Analyst (power Bi, Web Scraping)- D2c Ecommerce",
@@ -1416,6 +1427,21 @@
       "matchedSkills": []
     },
     {
+      "title": "Remote Business Analyst jobs – Senior Business Systems Analyst (Full‑Time) – Idaho Falls, Idaho – $85k‑$110k – Agile, SQL, Tableau, Power BI, JIRA",
+      "company": "vmysmartpros",
+      "location": "Remote",
+      "summary": "TITLE: Remote Business Analyst jobs – Senior Business Systems Analyst (Full‑Time) – Idaho Falls, Idaho – $85k‑$110k – Agile, SQL, Tableau, Power BI, JIRA --- #### About the team We’re a 45‑person product studio headquartered in Austin, Texas, but we’ve been hiring across the United States for three ",
+      "link": "https://www.mysmartpros.com/tuition/job/remote-business-analyst-jobs-senior-business-systems-analyst-full-time-idaho-falls-idaho-85k-110k-agile-sql-tableau-power-bi-jira/",
+      "postedAt": "2026-08-11T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 4,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "tableau"
+      ]
+    },
+    {
       "title": "Data Analyst (Tableau, Python and SQL Expert) - Contract to Hire",
       "company": "Upwork",
       "location": "Remote",
@@ -1807,6 +1833,17 @@
       "postedAt": "2026-06-24T00:00:00.000Z",
       "source": "indeed",
       "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analytics Mentor",
+      "company": "makbig learn",
+      "location": "Kannur, IN",
+      "summary": "Responsibilities Deliver engaging and interactive training sessions covering essential data analysis topics including data collection data cleaning and data visualization Develop course materials including lesson plans hands-on exercises and real-world projects Mentor and provide feedback to student",
+      "link": "https://bebee.com/in/jobs/data-analytics-mentor-makbig-learn-cannanore-kl-in--jobted-d78e5918a9d096d1a5d31cc588cc1b3a",
+      "postedAt": "2026-08-09T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
       "matchedSkills": []
     },
     {
