@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-14T02:27:01.494Z",
+  "lastUpdated": "2026-08-14T07:41:00.601Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 177,
+  "count": 179,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -565,6 +565,17 @@
         "sql",
         "power bi"
       ]
+    },
+    {
+      "title": "Entry Level Data Analyst",
+      "company": "Tekcel8",
+      "location": "Remote",
+      "summary": "Job Title: Entry Level Data Analyst\nLocation: United States – Remote\nDuration: Long-Term Contract\nExperience: 2+ Years\n\nJob Summary\n\nWe are looking for an Entry-Level Data Analyst to support data analysis, reporting, and business intelligence initiatives. The ideal candidate should have strong analy",
+      "link": "https://www.dice.com/job-detail/cbb56f92-e0b4-4466-9f71-fb5d0c025221",
+      "postedAt": "2026-08-13T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 6,
+      "matchedSkills": []
     },
     {
       "title": "Data Analytics Intern | SQL | Tableau | Excel | Power BI",
@@ -1615,6 +1626,20 @@
       "location": "Remote",
       "summary": "About careerzynith\n\ncareerzynith is a global leader in e‑commerce and digital retail, dedicated to delivering an unparalleled customer experience across every market we serve. With a mission to be the world’s most customer‑centric organization, careerzynith invests heavily in technology, data‑driven",
       "link": "https://anchormust.lovestoblog.com/remote-jobs/senior-business-analyst-japan-careerzynith-store-customer-service-data-analytics-insight-generation",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 3,
+      "matchedSkills": [
+        "sql",
+        "tableau"
+      ]
+    },
+    {
+      "title": "Senior Business Analyst – SQL, Tableau & Cruise Operations (Remote)",
+      "company": "Park West Gallery",
+      "location": "Remote",
+      "summary": "Senior Business Analyst – SQL, Tableau & Cruise OperationsJoin the Global Leader in Cruise Ship Art Experiences\n\nFounded in 1969, Park West Gallery is the world's largest art dealer at sea, bringing fine art experiences to millions of guests aboard more than 100 luxury cruise ships worldwide. Throug",
+      "link": "https://www.monster.com/job-openings/senior-business-analyst-sql-tableau-cruise-operations-remote-miami-lakes-fl--32c01aa0-978b-4ef4-925d-2cc653ed8575",
       "postedAt": "2026-08-08T00:00:00.000Z",
       "source": "indeed",
       "matchScore": 3,
