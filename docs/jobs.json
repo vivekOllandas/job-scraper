@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-04T11:01:14.485Z",
+  "lastUpdated": "2026-09-04T16:08:49.571Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 190,
+  "count": 200,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -1226,6 +1226,17 @@
       "matchedSkills": []
     },
     {
+      "title": "Clinical Data Analyst II",
+      "company": "Parexel",
+      "location": "Hyderabad, IN",
+      "summary": "Job Summary\n\nWe are seeking an experienced Clinical Data Analyst with 4+ years of clinical data management experience to support data review, data cleaning, study build activities, vendor reconciliations, and database lock processes across global clinical trials. The role will be responsible for rev",
+      "link": "https://jobs.parexel.com/en/job/hyderabad/clinical-data-analyst-ii/877/99058997424",
+      "postedAt": "2026-08-10T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "Data Analyst (North Sikkim)",
       "company": "EMINENTURE",
       "location": "India",
@@ -2073,6 +2084,61 @@
       "matchedSkills": []
     },
     {
+      "title": "Analyst II, Business Intelligence / Data Analysis",
+      "company": "FIS Global",
+      "location": "Pune, IN",
+      "summary": "Position Type :\nFull time\n\nType Of Hire :\nExperienced (relevant combo of work and education)\n\nAre you curious, motivated, and forward-thinking? At FIS you’ll have the opportunity to work on some of the most challenging and relevant issues in financial services and technology. Our talented people emp",
+      "link": "https://careers.fisglobal.com/us/en/job/FIGLUSJR0307825EXTERNAL/Analyst-II-Business-Intelligence-Data-Analysis",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Engineer III",
+      "company": "Pearson",
+      "location": "Bengaluru, IN",
+      "summary": "Data Engineer – Global Data Team\nRole Overview\nWe are looking for an experienced Data Engineer with 6–10 years of hands-on experience to join our Global Data team and help build reliable, scalable, and self-service data platforms that power enterprise-wide analytics and data products.\nIn this role, ",
+      "link": "https://pearson.jobs/bangalore-ind/data-engineer-iii/2926DD8969C2412195921278BD1F775B/job/",
+      "postedAt": "2026-08-24T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Architect / Modeler",
+      "company": "Orange Business",
+      "location": "India",
+      "summary": "Publication date : Jun 18, 2026, 12:00AM\nOrange Business is here!\n\nAbout us\n\nJoin us at Orange Business!\n\nWe are a network and digital integrator that understands the entire value chain of the digital world, freeing our customers to focus on the strategic initiatives that shape their business.\n\nEver",
+      "link": "https://orange.jobs/gb/en/job/ICM-588484/Data-Architect-Modeler",
+      "postedAt": "2026-08-24T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst - Senior II",
+      "company": "Federal Express Corporation AMEA",
+      "location": "India",
+      "summary": "Responsible for conducting data analysis to extract actionable insights, exploring datasets to uncover patterns and anomalies, analyzing historical data for trend identification and forecasting, investigating data discrepancies, providing user training and support on data analysis tools, communicati",
+      "link": "https://careers.fedex.com/data-analyst-senior-ii/job/FB617B2B57A8C4ACDF4E93729B3EAF15",
+      "postedAt": "2026-08-24T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Scientist Analyst",
+      "company": "Early Career",
+      "location": "Pune, IN",
+      "summary": "he Spec Analytics Intmd Analyst is a developing professional role. Deals with most problems independently and has some latitude to solve complex problems. Integrates in-depth specialty area knowledge with a solid understanding of industry standards and practices. Good understanding of how the team a",
+      "link": "https://jobs.citi.com/job/pune/data-scientist-analyst/287/99709899520",
+      "postedAt": "2026-08-24T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
       "title": "Principal Data Architect",
       "company": "The MITRE Corporation",
       "location": "McLean, US",
@@ -2080,6 +2146,17 @@
       "link": "https://careers.mitre.org/us/en/job/R116768/Principal-Data-Architect",
       "postedAt": "2026-08-21T00:00:00.000Z",
       "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Staff Software Engineer - Data Platform Team, Hyderabad",
+      "company": "Warner Bros. Discovery",
+      "location": "Hyderabad, IN",
+      "summary": "Welcome to Warner Bros. Discovery… the stuff dreams are made of.\n\nWho We Are…\nWhen we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved bran",
+      "link": "https://careers.wbd.com/global/en/job/R000106140/Staff-Software-Engineer-Data-Platform-Team-Hyderabad",
+      "postedAt": "2026-08-21T00:00:00.000Z",
+      "source": "naukri",
       "matchScore": 1,
       "matchedSkills": []
     },
@@ -2095,12 +2172,47 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Architect - 13+ years exp, Snowflake, dbt, Python",
+      "company": "Cisco",
+      "location": "Hyderabad, IN",
+      "summary": "Meet the Team\nBe part of the Cisco IT Data team, where technology, innovation, and collaboration drive real business value. Our team is at the forefront of designing and delivering scalable, secure, and advanced solutions that enable data-driven decision-making for Cisco's global business. We believ",
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017847EXTERNALENGLOBAL/Data-Architect-13-years-exp-Snowflake-dbt-Python",
+      "postedAt": "2026-08-14T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": [
+        "python"
+      ]
+    },
+    {
       "title": "Data Analysis Trainer",
       "company": "HOWL FOX",
       "location": "Thiruvananthapuram, IN",
       "summary": "We're looking for a skilled Data Analysis Trainer to train and mentor students with practical, industry-focused knowledge and hands-on experience.\n\nPosition: Data Analysis Trainer\n\nJob Type: Temporary / Contract\n\nLocation: Trivandrum / On-site\n\nSalary: Based on experience\n\nResponsibilitiesConduct en",
       "link": "https://www.shine.com/jobs/data-analysis-trainer/howl-fox/19452785",
       "postedAt": "2026-08-13T03:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Senior Analyst, AI & Data Strategy",
+      "company": "Mastercard",
+      "location": "Gurugram, IN",
+      "summary": "Job Title:\n\nSenior Analyst, AI & Data Strategy\n\nOverview:\n\nSenior Analyst, AI & Data Strategy\n\nThe Enterprise Data Quality (EDQ) team, part of the AI & Data Office, is responsible for advancing Mastercard’s data quality program and ensuring data is trusted, accurate, and business-ready.\nAs a Senior ",
+      "link": "https://careers.mastercard.com/us/en/job/R-286279/Senior-Analyst-AI-Data-Strategy",
+      "postedAt": "2026-08-13T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Engineer II",
+      "company": "Bayer",
+      "location": "Bengaluru, IN",
+      "summary": "At Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where ,Health for all, Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those aro",
+      "link": "https://talent.bayer.com/careers/job/562949978309543-data-engineer-ii-bangalore-karnataka-india?domain=bayer.com",
+      "postedAt": "2026-08-13T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 1,
       "matchedSkills": []
