@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-06T20:16:27.581Z",
+  "lastUpdated": "2026-09-07T04:04:37.571Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 236,
+  "count": 241,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -425,6 +425,19 @@
       "matchedSkills": [
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company": "TSTC",
+      "location": "Arlington, US",
+      "summary": "Who Are We? TSTC is an award-winning, Woman Owned, HUBZone certified Small Business providing services to federal intelligence, law enforcement, civilian and defense agencies. Built upon our Total Service- Total Commitment® cornerstone, TSTC takes pride in our commitment to delivering excellence. To",
+      "link": "https://www.careerbuilder.com/job-details/junior-data-analyst-arlington-va--4bb2e6db-461e-4b83-beba-f4568c9305f3?trk=bingjobs",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 7,
+      "matchedSkills": [
+        "excel"
       ]
     },
     {
@@ -1174,6 +1187,17 @@
       "postedAt": "2026-06-24T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Data Ideology, LLC",
+      "location": "Pittsburgh, US",
+      "summary": "Data IdeologyAt DI, we provide Data & Analytics expertise to drive measurable business outcomes, often solving complex business problems for our clients. Our data analytics advisory services enable our customers to transform data into insights by driving a culture of empowerment and ownership of res",
+      "link": "https://www.careerbuilder.com/job-details/data-analyst-pittsburgh-pa--6da4a53f-3389-417a-b338-873d4ed3a8b3?trk=bingjobs",
+      "postedAt": "2026-09-05T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 5,
       "matchedSkills": []
     },
     {
@@ -2145,6 +2169,39 @@
       "link": "https://www.careerbuilder.com/job-details/deals-dtds-analytics-intern-summer-2027-san-francisco-ca--48198eeb-6fd1-43f8-9857-477768327380?trk=bingjobs",
       "postedAt": "2026-09-01T00:00:00.000Z",
       "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Market Information And Data Analytics (Mida) - Data Quality - Intern - Summer 2027",
+      "company": "PwC",
+      "location": "New York, US",
+      "summary": "Industry/Sector\n\r\nNot Applicable\n\r\nSpecialism\n\r\nData Quality Assurance\n\r\nManagement Level\n\r\nIntern/Trainee\n\r\nJob Description & Summary\n\r\nThe Opportunity\n\r\nAs an AIT MIDA Data Quality - Intern, you will engage in projects that enhance the accuracy, completeness, and reliability of data, enabling busi",
+      "link": "https://www.careerbuilder.com/job-details/market-information-and-data-analytics-mida-data-quality-intern-summer-2027-new-york-ny--9f5e3d67-cb2f-495e-9001-a623695edfa6?trk=bingjobs",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Financial Crimes Unit Data & Analytics Tech Consulting Intern - Summer 2027",
+      "company": "PwC",
+      "location": "New York, US",
+      "summary": "Industry/Sector\n\r\nNot Applicable\n\r\nSpecialism\n\r\nData, Analytics & AI\n\r\nManagement Level\n\r\nIntern/Trainee\n\r\nJob Description & Summary\n\r\nThe Opportunity\n\r\nAs a Financial Crimes Unit Data & Analytics Tech Consulting Intern, you will engage in projects that focus on data analysis and business intelligen",
+      "link": "https://www.careerbuilder.com/job-details/financial-crimes-unit-data-analytics-tech-consulting-intern-summer-2027-new-york-ny--47999d65-ec8a-4543-89af-d97aa5376e6c?trk=bingjobs",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Digital Assurance & Transparency (Dat) - Data - Intern - Summer 2027",
+      "company": "PwC",
+      "location": "New York, US",
+      "summary": "Industry/Sector\n\r\nNot Applicable\n\r\nSpecialism\n\r\nAssurance\n\r\nManagement Level\n\r\nIntern/Trainee\n\r\nJob Description & Summary\n\r\nThe Opportunity\n\r\nAs a Data Intern, you will engage in supporting teams and participating in projects within our Assurance practice. This role offers you the chance to gain exp",
+      "link": "https://www.careerbuilder.com/job-details/digital-assurance-transparency-dat-data-intern-summer-2027-new-york-ny--530ed5d6-3586-4c6c-b4b4-c0c2117c97e7?trk=bingjobs",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "source": "indeed",
       "matchScore": 2,
       "matchedSkills": []
     },
