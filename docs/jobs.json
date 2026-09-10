@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-10T04:10:24.522Z",
+  "lastUpdated": "2026-09-10T11:01:46.401Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 354,
+  "count": 360,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -750,6 +750,19 @@
       "source": "naukri",
       "matchScore": 6,
       "matchedSkills": []
+    },
+    {
+      "title": "BI Data Analyst (Bengaluru)",
+      "company": "Trigent Software - Professional Services",
+      "location": "Bengaluru, IN",
+      "summary": "Extensive knowledge in Micro soft products including configuration, development and testing.Power Platform application development and migration.Hands on experience in designing and developing cloud flows based on the Microsoft power platform using Power Apps, Power Automation, Power BIDeep understa",
+      "link": "https://in.jobrapido.com/jobpreview/3188909002046046208?trk=bingjobs",
+      "postedAt": "2026-09-06T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": [
+        "power bi"
+      ]
     },
     {
       "title": "Data Analyst Intern Chennai",
@@ -1573,6 +1586,17 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Analyst Navi Mumbai (India)",
+      "company": "EsyConnect",
+      "location": "Navi Mumbai, IN",
+      "summary": "Company Description EsyConnect is a prominent and cutting-edge job portal that has established itself as a leading platform for connecting job seekers with employers. With a user-friendly interface and a comprehensive range of features, EsyConnect offers a seamless and effective job search experienc",
+      "link": "https://in.jobrapido.com/jobpreview/5063402604566937600?trk=bingjobs",
+      "postedAt": "2026-09-05T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "Data Analyst",
       "company": "TechDigital",
       "location": "Charlotte, US",
@@ -2232,6 +2256,20 @@
       ]
     },
     {
+      "title": "Senior Data Analyst (Power BI & GCP)",
+      "company": "Staffing Spot, Inc.",
+      "location": "Charlotte, US",
+      "summary": "Job Overview\n\r\n\n\r\nWe are seeking a Senior hands-on Data Analytics Engineer with strong expertise across Power BI, GCP, BigQuery, SQL, and data engineering. This role combines end-to-end analytics ownership with enterprise reporting and executive-level business intelligence.\n\r\n\n\r\nThe ideal candidate ",
+      "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-power-bi-gcp-at-staffing-spot-inc-4463889511?trk=bingjobs",
+      "postedAt": "2026-09-09T09:15:45.000Z",
+      "source": "indeed",
+      "matchScore": 3,
+      "matchedSkills": [
+        "sql",
+        "power bi"
+      ]
+    },
+    {
       "title": "BI Analyst (Power BI & Tableau) ",
       "company": "Flexton Inc.",
       "location": "Bengaluru, IN",
@@ -2335,6 +2373,19 @@
       "matchedSkills": [
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Database Building/Management Internship In Thane, Dombivli, Kalyan, Mumbai",
+      "company": "CyberFrat",
+      "location": "Mumbai Metropolitan Region, IN",
+      "summary": "Job title: Data Management Intern\n\r\n\n\r\nStipend: 4k-5k per month\n\r\n\n\r\nSkills Required\n\r\n\n\r\n\r\n\r\n- MS Excel\n- Advanced Excel\n- Data cleaning & data extraction\n\r\n\n\r\n\n\r\nRoles And Responsibilities\n\r\n\n\r\n\r\n\r\n- Collaborate with the team to identify and gather database requirements.\n- Create and maintain accu",
+      "link": "https://in.linkedin.com/jobs/view/database-building-management-internship-in-thane-dombivli-kalyan-mumbai-at-cyberfrat-4462734048?trk=bingjobs",
+      "postedAt": "2026-09-02T17:06:44.000Z",
+      "source": "naukri",
+      "matchScore": 3,
+      "matchedSkills": [
+        "excel"
       ]
     },
     {
@@ -2608,6 +2659,17 @@
       "link": "https://uk.jobrapido.com/jobpreview/814485466878312448?trk=bingjobs",
       "postedAt": "2026-09-07T00:00:00.000Z",
       "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Science Internship In Pune",
+      "company": "MAXGEN TECHNOLOGIES PRIVATE LIMITED",
+      "location": "Jalgaon, IN",
+      "summary": "Maxgen Technologies Pvt ltd offering internships in Pune the interns will get live projectdata science internshipand machine learning program with job placement Why interns seeking us Career oriented Program professional work culture advance technology online or offline options supportive management",
+      "link": "https://in.jobrapido.com/jobpreview/919864447990759424?trk=bingjobs",
+      "postedAt": "2026-09-07T00:00:00.000Z",
+      "source": "naukri",
       "matchScore": 2,
       "matchedSkills": []
     },
@@ -3747,6 +3809,17 @@
         "sql",
         "power bi"
       ]
+    },
+    {
+      "title": "Bi Data Analyst Vapi (India)",
+      "company": "Sutherland",
+      "location": "Wapi, IN",
+      "summary": "Sr. BI & Data Analyst Job Summary As a Senior BI & Data Analyst, you’ll be a key driver of insight and innovation within our Enterprise Data and Analytics team. We’re looking for a curious, detail-oriented skilled who thrives on turning complex scientific and operational data into transparent, actio",
+      "link": "https://in.jobrapido.com/jobpreview/5976493685120958464?trk=bingjobs",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
     },
     {
       "title": "Strategy Analytics Intern — Hybrid Summer",
