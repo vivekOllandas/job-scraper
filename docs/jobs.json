@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-10T11:01:46.401Z",
+  "lastUpdated": "2026-09-10T16:12:34.367Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 360,
+  "count": 371,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -502,6 +502,19 @@
       ]
     },
     {
+      "title": "Data Analyst / Tableau Developer",
+      "company": "Kforce Inc",
+      "location": "Maryland Heights, US",
+      "summary": "Responsibilities\n\r\n\n\r\nKforce has a client that is seeking a Data Analyst/Tableau Developer in Maryland Heights, MO. Overview: Our client is seeking a Data Analyst/Tableau Developer with an investigative mentality. The group ranges from junior to mid-level talent, and we're now looking to bring in a ",
+      "link": "https://www.linkedin.com/jobs/view/data-analyst-tableau-developer-at-kforce-inc-4465087219?trk=bingjobs",
+      "postedAt": "2026-09-09T09:49:59.000Z",
+      "source": "indeed",
+      "matchScore": 7,
+      "matchedSkills": [
+        "tableau"
+      ]
+    },
+    {
       "title": "Data Analyst(Tableau + SQL) @ Hyderabad",
       "company": "IITjobs",
       "location": "Hyderabad, IN",
@@ -820,6 +833,19 @@
       "source": "naukri",
       "matchScore": 6,
       "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst SQL - Hybrid Working (Bengaluru)",
+      "company": "MS CLINICAL RESEARCH",
+      "location": "Bengaluru, IN",
+      "summary": "Remote: HybridJob Title : Data Analyst (Statistician)Location : Indiranagar, BangaloreJob Type : Full-timeExperience : 2-4 years Job OverviewWe are looking for a skilled Data Management Specialist to support data validation, analysis, and reporting for clinical and preclinical studies. The role invo",
+      "link": "https://in.jobrapido.com/jobpreview/2500981685064040448?trk=bingjobs",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": [
+        "sql"
+      ]
     },
     {
       "title": "Data Analyst Trainee (India)",
@@ -2170,6 +2196,17 @@
       ]
     },
     {
+      "title": "Analyst Intern (Bengaluru)",
+      "company": "Thyrocare",
+      "location": "Bengaluru, IN",
+      "summary": "Responsibilities :Data Analyst Intern would be responsible for working closely with the Business Teams and helping them in making data driven decisions. This would require cross-communication between the Business Team, Product Team & Data Engineering as well. Apart from solving the business problem ",
+      "link": "https://in.jobrapido.com/jobpreview/1091581501092397056?trk=bingjobs",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 4,
+      "matchedSkills": []
+    },
+    {
       "title": "Remote Business Analyst jobs – Senior Business Systems Analyst (Full‑Time) – Idaho Falls, Idaho – $85k‑$110k – Agile, SQL, Tableau, Power BI, JIRA",
       "company": "vmysmartpros",
       "location": "Remote",
@@ -2333,6 +2370,19 @@
       "matchScore": 3,
       "matchedSkills": [
         "power bi"
+      ]
+    },
+    {
+      "title": "Quality Assurance & Data Analytics Intern - Placement",
+      "company": "Hexcel",
+      "location": "Stapleford, GB",
+      "summary": "Hexcel invites a student to join our quality and data support team in Stapleford, UK. The role focuses on maintaining document management and quality management systems, supporting quality-related projects, and data-driven improvement initiatives.\n\r\nYou will assist with data collection, analysis, an",
+      "link": "https://uk.jobrapido.com/jobpreview/8876906265708593152?trk=bingjobs",
+      "postedAt": "2026-09-06T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 3,
+      "matchedSkills": [
+        "excel"
       ]
     },
     {
@@ -2603,6 +2653,61 @@
       "summary": "Work Flexibility: Remote\r\nWhat You Get Out of the Internship\n\r\nAt Stryker, we believe that developing the next generation of talent is just as important as developing life-changing medical technologies. As an intern, you won't just observe - you'll contribute to meaningful projects, gain exposure to",
       "link": "https://www.ziprecruiter.com/c/stryker/Job/Summer-2027-Internship-Data-Science-Remote/-in-Florida,NY?jid=4951f1b1038c3241&trk=bingjobs",
       "postedAt": "2026-09-08T06:54:00.000Z",
+      "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Research Internship (Winter 2027)",
+      "company": "Cohere",
+      "location": "London, GB",
+      "summary": "Who are we?\n\r\n\n\r\nCohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.\n\r\n\n\r\nWe’re training and deploying frontier models for enterprises who are building AI systems. We b",
+      "link": "https://uk.linkedin.com/jobs/view/research-internship-winter-2027-at-cohere-4407962781?trk=bingjobs",
+      "postedAt": "2026-09-08T06:11:04.000Z",
+      "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Campaign Operations Project Intern (User Product Operations) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "location": "London, GB",
+      "summary": "Responsibilities\n\r\n\n\r\nTeam Production\n\r\n\n\r\nThe LIVE Operations team is obsessed with everything to do with TikTok LIVE. Our focus is to continually champion and optimize TikTok LIVE through working with creators to ensure a creative, fun and safe space for all of our users.\n\r\n\n\r\nResponsibilities\n\r\n\n",
+      "link": "https://uk.linkedin.com/jobs/view/campaign-operations-project-intern-user-product-operations-2026-start-bs-ms-at-tiktok-4442694710?trk=bingjobs",
+      "postedAt": "2026-09-08T03:04:37.000Z",
+      "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Live Operations Project Intern (Tiktok LIVE) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "location": "London, GB",
+      "summary": "Responsibilities\n\r\n\n\r\nTeam Production\n\r\n\n\r\nThe LIVE Operations team is obsessed with everything to do with TikTok LIVE. Our focus is to continually champion and optimize TikTok LIVE through working with creators to ensure a creative, fun and safe space for all of our users.\n\r\n\n\r\nAs a project intern,",
+      "link": "https://uk.linkedin.com/jobs/view/live-operations-project-intern-tiktok-live-2026-start-bs-ms-at-tiktok-4442901356?trk=bingjobs",
+      "postedAt": "2026-09-08T02:49:49.000Z",
+      "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Software Engineer Internship (2027 Start)",
+      "company": "Optiver",
+      "location": "London, GB",
+      "summary": "As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver’s real-time trading environment. You will work on\r\n\n\r\n\n\r\nprojects\n\r\n\n\r\nthat further develop and optimize our systems, testing and shipping code with guidance from experienced eng",
+      "link": "https://uk.linkedin.com/jobs/view/software-engineer-internship-2027-start-at-optiver-4452248710?trk=bingjobs",
+      "postedAt": "2026-09-08T02:31:02.000Z",
+      "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "2027 Quantitative Research Markets Analyst Program - Off-Cycle Internship - London",
+      "company": "JPMorganChase",
+      "location": "Greater London, US",
+      "summary": "Job Description\n\r\n\n\r\nAs an off-cycle analyst in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization.\n\r\n\n\r\nJob Summ",
+      "link": "https://uk.linkedin.com/jobs/view/2027-quantitative-research-markets-analyst-program-off-cycle-internship-london-at-jpmorganchase-4464426436?trk=bingjobs",
+      "postedAt": "2026-09-07T20:35:14.000Z",
       "source": "indeed",
       "matchScore": 2,
       "matchedSkills": []
@@ -3118,6 +3223,28 @@
       "location": "Bengaluru, IN",
       "summary": "Intern - BI&A; Data Engineer At Lilly, we unite caring with discovery to make life better for people around the world. We are a global healthcare leader headquartered in Indianapolis, Indiana. Our employees around the world work to discover and bring life-changing medicines to those who need them, i",
       "link": "https://in.jobrapido.com/jobpreview/1774471405551747072?trk=bingjobs",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "2027 Quantitative Research Markets Analyst Program - Off-Cycle Internship - London",
+      "company": "Fairygodboss",
+      "location": "London, GB",
+      "summary": "Job Summary\r\nAs an off-cycle analyst in the Quantitative Trading & Research Markets team at JPMorganChase, you will join a leading quantitative modeling group focused on systematic trading, financial engineering, data analytics, statistical modeling, and portfolio optimization.\n\r\nYou will work close",
+      "link": "https://uk.jobrapido.com/jobpreview/7217898937728892928?trk=bingjobs",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Annotation Intern (Bengaluru)",
+      "company": "Important Company of the Sector",
+      "location": "Bengaluru, IN",
+      "summary": "We are looking for a Data Annotations intern with hands-on experience in annotating Earth Observation (EO) and Synthetic Aperture Radar (SAR) imagery for advanced computer vision and geospatial AI tasks. You will be a key contributor in building high-quality labeled datasets to be used to train and ",
+      "link": "https://in.jobrapido.com/jobpreview/1293552991021826048?trk=bingjobs",
       "postedAt": "2026-09-03T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 2,
