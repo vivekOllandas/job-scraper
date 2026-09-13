@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-13T11:32:14.345Z",
+  "lastUpdated": "2026-09-13T16:00:32.282Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 427,
+  "count": 428,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -3035,6 +3035,17 @@
       "link": "https://www.linkedin.com/jobs/view/data-analytics-intern-summer-2027-at-zipline-4465808852?trk=bingjobs",
       "postedAt": "2026-09-10T10:04:47.000Z",
       "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": []
+    },
+    {
+      "title": "AI/ML Intern (Rajahmundry)",
+      "company": "BharatTech",
+      "location": "Rajahmundry, IN",
+      "summary": "Company Description BharatTech Origin Pvt. Ltd. is a deep-technology company focused on building next-generation intelligence infrastructure using Artificial Intelligence, Generative Intelligence, and emerging digital technologies. The company’s vision is to make intelligence as accessible as inform",
+      "link": "https://in.jobrapido.com/jobpreview/1234335631212019712?trk=bingjobs",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "source": "naukri",
       "matchScore": 2,
       "matchedSkills": []
     },
