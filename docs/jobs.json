@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-01T12:54:08.393Z",
+  "lastUpdated": "2026-10-01T22:33:18.370Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 433,
+  "count": 436,
   "jobs": [
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
@@ -761,6 +761,17 @@
         "sql",
         "power bi"
       ]
+    },
+    {
+      "title": "Data Analyst Intern â€“ Paid Internship Opportunity in Chennai â€“ College Graduates Welcome",
+      "company": "SysTechCare Support",
+      "location": "Chennai, IN",
+      "summary": "Job Summary\n\nSysTechCare Support is offering a dynamic Data Analyst Internship for recent college graduates and final-year students who are passionate about data, analytics, and actionable business insights. This paid internship provides a hands-on learning experience in a professional environment w",
+      "link": "https://www.theelitejob.com/job/17426/data-analyst-intern-ae%E2%80%9C-paid-internship-opportunity-in-chennai-ae%E2%80%9C-college-graduates-welcome",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
     },
     {
       "title": "Data Analyst (SQL)",
@@ -1737,6 +1748,23 @@
       "matchedSkills": []
     },
     {
+      "title": "Senior Data Analyst - Customer Care Operations",
+      "company": "remote quest jobs",
+      "location": "Remote",
+      "summary": "5+ years data analysis experience, bachelor’s in a quantitative field, proficiency with Tableau/Power BI, SQL/Python/R, Excel, NLP/speech analytics experience preferred, strong communication and stakeholder collaboration skills.\nKey Responsibilities\n• analyzing data\n• building models\n• visualizing i",
+      "link": "https://us.remotejobs.dedyn.io/job/3324232",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 5,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau",
+        "python"
+      ]
+    },
+    {
       "title": "Data Analyst",
       "company": "EXL",
       "location": "GA, US",
@@ -2653,6 +2681,20 @@
       "matchedSkills": [
         "sql",
         "power bi",
+        "tableau"
+      ]
+    },
+    {
+      "title": "Sr Data Analyst(SQL,Tableau)",
+      "company": "Randstad",
+      "location": "Remote",
+      "summary": "Description:\nWhat is the specific title of the position?\n\nSr Data Analyst\n\n100% Telecommute\n\n8:00AM - 5:00PM (CST)\n• What are the top 5-10 responsibilities for this position (please be detailed as to what the candidate is expected to do or complete on a daily basis)?\n\nAnalyze healthcare-related data",
+      "link": "https://us.trabajo.org/job-4023-1ff8faa5e21b511fbd783e018aa9e9dc",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 3,
+      "matchedSkills": [
+        "sql",
         "tableau"
       ]
     },
