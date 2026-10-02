@@ -1,8 +1,57 @@
 {
-  "lastUpdated": "2026-10-01T22:33:18.370Z",
+  "lastUpdated": "2026-10-02T05:09:58.086Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 436,
+  "count": 446,
   "jobs": [
+    {
+      "title": "Data Analyst - Intern",
+      "company": "Electrolab",
+      "location": "Mumbai, IN",
+      "summary": "Key Responsibilities :\n• Collect, clean, and analyze data from various sources\n• Build and maintain dashboards and reports using tools like Excel, SQL, or Power BI/Tableau\n• Support in A/B testing, API automations, analysis, and performance tracking\n• Collaborate with service, product, marketing, an",
+      "link": "https://www.mployee.me/jobs/view/data-analyst-intern-in-mumbai-at-electrolab--jid--29092650424015351/s1",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 10,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
+      ]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "AegisCovenant",
+      "location": "India",
+      "summary": "Batch: 2025/2026/2027. Requirements:\n• Strong analytical and problem-solving skills\n• Good proficiency in Excel\n• Basic knowledge of SQL\n• Exposure to Power BI/Tableau/Python/R\n• Strong attention to detail\n• Good communication and stakeholder coordination skills\n• Ability to work with cross-function",
+      "link": "https://www.jobleads.com/in/job/data-analyst-intern--gurugram-district--e90de31f9dbbe7b41ebf958ac60e3f29b",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 10,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau",
+        "python"
+      ]
+    },
+    {
+      "title": "Data Analyst - Tableau, Power BI, SQL",
+      "company": "Drave Digitals Recruitment Services",
+      "location": "India",
+      "summary": "We are hiring Data Analyst Freshers on behalf of our client companies. The selected candidates will work with business and operations teams to collect, organize, analyze, and interpret data to support business decision-making. This is an excellent opportunity for freshers looking to start their care",
+      "link": "https://bebee.com/in/jobs/data-analyst-tableau-power-bi-sql-drave-digitals-recruitment-services-pune-division--talent-638649215591648480",
+      "postedAt": "2026-09-26T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 10,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
+      ]
+    },
     {
       "title": "Data Analyst – SQL, Excel, Tableau/Power BI, with Salesforce",
       "company": "vmysmartpros",
@@ -92,6 +141,23 @@
       "postedAt": "2026-06-30T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 10,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau",
+        "python"
+      ]
+    },
+    {
+      "title": "Data & Business Analyst",
+      "company": "Zentech Info Solutions",
+      "location": "Gurugram, IN",
+      "summary": "Role: Data & Business Analyst\nCompany: Zentech Info Solutions\nLocation: Gurgaon\nEligible Batches: 2023/2024/2025/2026\n\nKey SkillsAdvanced Excel, Pivot Tables, VLOOKUP, XLOOKUP, Power Query, SQL, Power BI, Tableau, Data Analysis, Reporting, Business Analysis, Python\n\nAdditional DetailsBachelor's degr",
+      "link": "https://www.shine.com/jobs/data-business-analyst/zentech-info-solutions/19635046",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 9,
       "matchedSkills": [
         "sql",
         "power bi",
@@ -341,6 +407,36 @@
       ]
     },
     {
+      "title": "Data Analyst - Financial Data -PowerBI/SQL -3 Years -Pune/Gurugram",
+      "company": "Crescendo Global",
+      "location": "Gurugram, IN",
+      "summary": "*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\">\r\n\r\n\r\n\r\n\r\n\r\n\r\nData Analyst – Product Analytics/Financial Data- SQL-Excel-BI Dashboards -3–6 ",
+      "link": "https://www.crescendo-global.com/job/data-analyst-financial-data-powerbi-slash-sql-3-years-pune-slash-gurugram-676913",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 8,
+      "matchedSkills": [
+        "sql",
+        "powerbi",
+        "excel"
+      ]
+    },
+    {
+      "title": "Data Analyst - Tableau, Power BI, SQL (India)",
+      "company": "Nians",
+      "location": "India",
+      "summary": "About the Role We are looking for a detail-oriented and analytical Data Analyst to join our remote team. The ideal candidate will collect, analyze, and interpret data to uncover actionable insights that support business decisions, improve marketing performance, and optimize operational efficiency. Y",
+      "link": "https://in.jobrapido.com/jobpreview/3160697835779784704",
+      "postedAt": "2026-09-27T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 8,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "tableau"
+      ]
+    },
+    {
       "title": "Data Analyst - Python/ Power BI/ SQL (Bengaluru)",
       "company": "MS CLINICAL RESEARCH",
       "location": "Bengaluru, IN",
@@ -498,6 +594,20 @@
       "matchScore": 8,
       "matchedSkills": [
         "power bi",
+        "tableau"
+      ]
+    },
+    {
+      "title": "Data Analyst (SQL Tableau )",
+      "company": "Overture Rede",
+      "location": "Chennai, IN",
+      "summary": "Location : Chennai\nExperience : Min. 3yrs\n\nUS Shift (Night Shift )\n\nKey Responsibility Area: ( Specifies Key Result Areas for the Incumbent )\n\no Overall responsibility for servicing clients on Analytics/Advisory and managing the analytics team.\n\no Hands on advanced knowledge of analytical techniques",
+      "link": "https://www.shine.com/jobs/data-analyst-sql-tableau/overture-rede/19592507",
+      "postedAt": "2026-09-26T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 7,
+      "matchedSkills": [
+        "sql",
         "tableau"
       ]
     },
@@ -1748,6 +1858,17 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Analyst - Remote Opportunity Drive Insights, Shape Success",
+      "company": "remotepromsp",
+      "location": "India",
+      "summary": "Join our team as a Data Analyst and make a real impact from the comfort of your own home! We're seeking a highly skilled and motivated individual to analyze complex data sets, identify trends, and drive business decisions. As a Remote Data Analyst, you'll play a critical role in shaping the success ",
+      "link": "https://www.shine.com/jobs/data-analyst-remote-opportunity-drive-insights-shape-success/remotepromsp/19625408",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "Senior Data Analyst - Customer Care Operations",
       "company": "remote quest jobs",
       "location": "Remote",
@@ -1763,6 +1884,17 @@
         "tableau",
         "python"
       ]
+    },
+    {
+      "title": "Hiring: Data Analyst",
+      "company": "Droisys",
+      "location": "Baddi, IN",
+      "summary": "About Company\n\nDroisys is an innovation technology company focused on helping companies accelerate their digital initiatives from strategy and planning through execution. We leverage deep technical expertise, Agile methodologies, and data-driven intelligence to modernize systems of engagement and si",
+      "link": "https://bebee.com/in/jobs/hiring-data-analyst-droisys-baddi--talent-638504812985650936",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
     },
     {
       "title": "Data Analyst",
@@ -3092,6 +3224,17 @@
         "power bi",
         "tableau"
       ]
+    },
+    {
+      "title": "Data Analytics Trainer",
+      "company": "Itdaksh Education",
+      "location": "Thane, IN",
+      "summary": "ITDaksh Education is looking for a skilled and passionate Data Analytics Trainer to join our training team in Thane. The candidate will be responsible for delivering practical and engaging training to students, freshers, and working professionals who want to build careers in Data Analytics.\n\nThe tra",
+      "link": "https://bebee.com/in/jobs/data-analytics-trainer-itdaksh-education-thane-district-maharashtra--t7xk-859596062",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": []
     },
     {
       "title": "Data Analytics Intern (Spring 2027)",
