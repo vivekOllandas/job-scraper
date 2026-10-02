@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-02T05:09:58.086Z",
+  "lastUpdated": "2026-10-02T12:17:08.461Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 446,
+  "count": 447,
   "jobs": [
     {
       "title": "Data Analyst - Intern",
@@ -4569,6 +4569,20 @@
       "source": "indeed",
       "matchScore": 2,
       "matchedSkills": []
+    },
+    {
+      "title": "Opportunity for Data Analytics ( SQL + Power BI) (Pune)",
+      "company": "Recognized",
+      "location": "Pune, IN",
+      "summary": "Role: Data Analyst (Two Roles )\n\n1) Data Analytics with SQL (Must)\n\n2) Data Analytics with SQL + Power BI (Must)\n\nExp Range: 2 to 7 Years\nof experience\n\nJob Location: Pune\n\nMode: Work from\nOffice (6 Days working)\n\nJOB PURPOSE\n- This position would require\ninteraction with the Product teams and drive",
+      "link": "https://www.shine.com/jobs/opportunity-for-data-analytics-sql-power-bi-pune/recognized/19686434",
+      "postedAt": "2026-10-02T03:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": [
+        "sql",
+        "power bi"
+      ]
     },
     {
       "title": "Data Privacy Analyst - Remote",
