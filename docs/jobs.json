@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-03T20:54:11.165Z",
+  "lastUpdated": "2026-10-04T05:25:00.330Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 455,
+  "count": 458,
   "jobs": [
     {
       "title": "Data Analyst - Intern",
@@ -1858,6 +1858,17 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Analyst | Offshore",
+      "company": "Photon",
+      "location": "India",
+      "summary": "Job Description – Data Analyst Position Overview\n\nWe are looking for a Data Analyst to collect, analyze, and interpret data to support business and operational decision-making. The role involves working with large datasets, developing dashboards and reports, and translating data into actionable insi",
+      "link": "https://builtin.com/job/data-analyst-offshore/11441565",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "Data Analyst - Remote Opportunity Drive Insights, Shape Success",
       "company": "remotepromsp",
       "location": "India",
@@ -2717,6 +2728,21 @@
       "source": "naukri",
       "matchScore": 5,
       "matchedSkills": []
+    },
+    {
+      "title": "Business Intelligence Analyst | IT Consulting MNC (Chennai)",
+      "company": "Hindco Recruitment Consultants",
+      "location": "Chennai, IN",
+      "summary": "- Ability to collect, clean, and analyze large datasets from multiple sources.\n- Develop and optimize SQL queries and data models in Data Bricks and Redshift.\n- Design and maintain dashboards and reports using Power BI, Tableau.\n\nRequired Candidate profile\n\n- 2+ years of experience in Business Intel",
+      "link": "https://www.shine.com/jobs/business-intelligence-analyst-it-consulting-mnc-chennai/hindco-recruitment-consultants/19687534",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 4,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "tableau"
+      ]
     },
     {
       "title": "Senior Data Analyst (Advanced Excel With Powerbi) - Gurgaon Location",
@@ -4649,6 +4675,22 @@
       "source": "naukri",
       "matchScore": 1,
       "matchedSkills": []
+    },
+    {
+      "title": "Marketing Analytics Lead",
+      "company": "HR India Solutions",
+      "location": "India",
+      "summary": "Job Title:* Marketing Analytics Specialist\n\nJob Summary:\nWe're seeking a skilled Marketing Analytics Specialist to join our team in the banking industry. The successful candidate will have expertise in data analysis, SQL, Python, and data visualization tools like Power BI or Tableau. This role will ",
+      "link": "https://www.shine.com/jobs/marketing-analytics-lead/hr-india-solutions/19686464",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "tableau",
+        "python"
+      ]
     },
     {
       "title": "**Remote Senior Data Analyst  Credit & Fraud Risk Finance  arenaflex  $33/hr",
