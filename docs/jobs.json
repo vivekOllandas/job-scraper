@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-04T21:10:07.488Z",
+  "lastUpdated": "2026-10-05T05:08:23.178Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 460,
+  "count": 461,
   "jobs": [
     {
       "title": "Data Analyst - Intern",
@@ -2893,6 +2893,20 @@
       "matchScore": 4,
       "matchedSkills": [
         "sql",
+        "power bi",
+        "tableau"
+      ]
+    },
+    {
+      "title": "Freelance Data Visualization Expert - Power BI/Tableau Remote Jobs",
+      "company": "HR Service Jobs",
+      "location": "Remote",
+      "summary": "Job Summary\n\nHR Service Jobs is seeking a highly skilled and creative Freelance Data Visualization Expert with expertise in Power BI and/or Tableau. In this fully remote freelance role, you will be responsible for transforming complex data sets into visually engaging and interactive dashboards and r",
+      "link": "https://www.theelitejob.com/job/16032/freelance-data-visualization-expert-power-bi-tableau-remote-jobs",
+      "postedAt": "2026-10-04T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 3,
+      "matchedSkills": [
         "power bi",
         "tableau"
       ]
