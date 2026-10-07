@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-07T13:04:44.604Z",
+  "lastUpdated": "2026-10-07T22:57:44.630Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 470,
+  "count": 471,
   "jobs": [
     {
       "title": "Data Analyst - Intern",
@@ -1882,6 +1882,17 @@
       "postedAt": "2026-06-24T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst | Offshore",
+      "company": "Photon",
+      "location": "Chennai, IN",
+      "summary": "Job Description - Data Analyst Position Overview\n\nWe are looking for a Data Analyst to collect, analyze, and interpret data to support business and operational decision-making. The role involves working with large datasets, developing dashboards and reports, and translating data into actionable insi",
+      "link": "https://www.jobleads.com/in/job/data-analyst-offshore--chennai-district--ed9a870de1082846234a7ad2acf38bb32",
+      "postedAt": "2026-10-03T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
       "matchedSkills": []
     },
     {
