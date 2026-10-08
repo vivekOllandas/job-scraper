@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-08T05:36:05.088Z",
+  "lastUpdated": "2026-10-08T13:12:25.085Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 472,
+  "count": 475,
   "jobs": [
     {
       "title": "Data Analyst - Intern",
@@ -420,6 +420,21 @@
         "sql",
         "power bi",
         "excel"
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Allvest Securities Pvt. Ltd.",
+      "location": "Mumbai, IN",
+      "summary": "**Job Description – Data Analyst**\n\n**Job Summary**\n\nAnalyze structured and semi\\-structured data to provide actionable business insights.\n\n**Key Responsibilities**\n\n* Analyze data from SQL Server, PostgreSQL, MySQL, MongoDB, and cloud data platforms.\n* Develop dashboards using Power BI/Tableau.\n* W",
+      "link": "https://acceleratorx.org/jobs/data-analyst-at-allvest-securities-pvt-ltd-0728c",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 8,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "tableau"
       ]
     },
     {
@@ -886,6 +901,19 @@
       "matchedSkills": [
         "sql",
         "power bi"
+      ]
+    },
+    {
+      "title": "Remote Data Analyst: SQL, BI & Automation Focus",
+      "company": "Easy Recruiter",
+      "location": "Remote",
+      "summary": "A healthcare recruitment firm is looking for a Data Analyst for a remote position in Rochester, NY. The role requires strong SQL skills and experience in statistical analysis and data analysis. You will automate reports, meet business requirements, and handle analytical data needs. Ideal candidates ",
+      "link": "https://jooble.org/jdp/-8197648838925475863",
+      "postedAt": "2026-10-04T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 6,
+      "matchedSkills": [
+        "sql"
       ]
     },
     {
@@ -1882,6 +1910,17 @@
       "postedAt": "2026-06-24T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst – Remote (India)",
+      "company": "Confidential",
+      "location": "India",
+      "summary": "We are looking for a highly analytical, detail-oriented, and business-focused Data Analyst to join our growing team. The ideal candidate will be responsible for transforming raw and complex datasets into meaningful insights that support business strategy, operational efficiency, and informed decisio",
+      "link": "https://giglancer.bizoforce.com/jobs/data-analyst-remote-india-5",
+      "postedAt": "2026-10-06T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
       "matchedSkills": []
     },
     {
