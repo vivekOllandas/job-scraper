@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-09T22:30:22.788Z",
+  "lastUpdated": "2026-10-10T05:24:27.606Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 480,
+  "count": 484,
   "jobs": [
     {
       "title": "Data Analyst - Intern",
@@ -1951,6 +1951,28 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Analyst-2+year",
+      "company": "Foxberry Technology Pvt Ltd",
+      "location": "India",
+      "summary": "Roles and Responsibilities\n\n· Acquire data from primary and secondary sources and maintain data systems\n\n· Identify, analyse, and interpret trends or patterns in complex data sets.\n\n· Coordinate with stakeholders to understand the reporting requirements.\n\n· Create/update complex reports, interactive",
+      "link": "https://bebee.com/in/jobs/data-analyst-2year-foxberry-technology-pvt-ltd-bandra-mumbai-maharashtra--t7xk-873554865",
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst - Digital Engineering",
+      "company": "TE Connectivity India Pvt Ltd",
+      "location": "Bengaluru, IN",
+      "summary": "DATA ANALYST - DIGITAL ENGINEERING\n\nAt TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world.\nJob Overview\n\nWe are seeking a technically strong Data Analyst - Database & Reporting Solutions to support b",
+      "link": "https://www.jobleads.com/in/job/data-analyst-digital-engineering--bengaluru--e853403851aabb7deb857715767ef43d5",
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "Data Analyst – Remote (India)",
       "company": "Confidential",
       "location": "India",
@@ -2872,6 +2894,21 @@
       "matchedSkills": []
     },
     {
+      "title": "Remote Data Analyst — Insights & Dashboards Lead",
+      "company": "PrimeDefense USA",
+      "location": "Remote",
+      "summary": "PrimeDefense USA is seeking a detail-oriented Data Analyst to join our Akron team. You will collect, organize, and interpret large datasets to inform business decisions, and develop reports and visualizations to present findings to stakeholders.\n\nThe role requires strong SQL/Excel/Tableau skills and",
+      "link": "https://www.jobleads.com/us/job/remote-data-analyst-insights-dashboards-lead--akron--efb367cc6c3202090a6a818afabd821dc",
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 4,
+      "matchedSkills": [
+        "sql",
+        "excel",
+        "tableau"
+      ]
+    },
+    {
       "title": "Remote Data Analytics & Compliance Risk Specialist  SQL, Power BI, Tableau",
       "company": "remotepromsp",
       "location": "India",
@@ -3076,6 +3113,20 @@
       "link": "https://www.theelitejob.com/job/16032/freelance-data-visualization-expert-power-bi-tableau-remote-jobs",
       "postedAt": "2026-10-04T00:00:00.000Z",
       "source": "indeed",
+      "matchScore": 3,
+      "matchedSkills": [
+        "power bi",
+        "tableau"
+      ]
+    },
+    {
+      "title": "Power BI and Tableau Data Analytics Developer",
+      "company": "SanDisk India Device Design Centre Pvt.Ltd",
+      "location": "Bengaluru, IN",
+      "summary": "Company Description\n\nSandisk understands how people and businesses consume data and we relentlessly innovate to deliver solutions that enable today’s needs and tomorrow’s next big ideas. With a rich history of groundbreaking innovations in Flash and advanced memory technologies, our solutions have b",
+      "link": "https://www.jobleads.com/in/job/power-bi-and-tableau-data-analytics-developer--bengaluru--e1e5e97ecb71f5149739215d0107f45a6",
+      "postedAt": "2026-10-04T00:00:00.000Z",
+      "source": "naukri",
       "matchScore": 3,
       "matchedSkills": [
         "power bi",
