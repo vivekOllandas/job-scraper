@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-12T15:03:40.681Z",
+  "lastUpdated": "2026-10-13T00:28:09.097Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 492,
+  "count": 495,
   "jobs": [
     {
       "title": "Data Analyst - Intern",
@@ -420,6 +420,21 @@
         "sql",
         "power bi",
         "excel"
+      ]
+    },
+    {
+      "title": "IT Data Analyst - Power BI/Tableau, SQL",
+      "company": "NTT America",
+      "location": "Remote",
+      "summary": "Req ID: 389982\n\nNTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.\n\nWe are currently seeking a IT Data Analyst - Power BI/Tableau, SQL to join our team ",
+      "link": "https://jobmesh.io/job/0996d276-b5ef-4d66-846e-f9c4d91b03b9",
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 8,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "tableau"
       ]
     },
     {
@@ -930,6 +945,19 @@
       "matchedSkills": [
         "sql",
         "power bi"
+      ]
+    },
+    {
+      "title": "Customer Excellence Data Analysts",
+      "company": "TESCRA",
+      "location": "Bengaluru, IN",
+      "summary": "THE SUCCESSFUL CANDIDATE WILL fulfill the below job responsibilities to drive best in class process mapping, analysis and understanding.\nData Analysis and Manipulation:\n• Proficiency in tools like Microsoft Excel (including advanced functions like pivot tables, VLOOKUP, and macros).\n• Strong skills ",
+      "link": "https://www.jobleads.com/in/job/customer-excellence-data-analysts--bengaluru--e55993f23d5b165a2760496afd6a3fbdb",
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": [
+        "excel"
       ]
     },
     {
@@ -1963,6 +1991,17 @@
       "postedAt": "2026-06-24T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "MHTechin is Hiring | Data Analyst",
+      "company": "Frequent Jobs",
+      "location": "Pune, IN",
+      "summary": "Home » MHTechin is Hiring | Data Analyst\n\nMHTechin is Hiring for Data AnalystRole. All the Candidates who completed Bachelor’s Degree are eligible.\n\nJob Description\n\n• Company Name: MHTechin\n\n• Job Role: Data Analyst\n\n• Qualification: Bachelor’s or Master’s Degree\n\n• Batch: 2025-26\n\n• Experience: 0-",
+      "link": "https://www.jobleads.com/in/job/mhtechin-is-hiring-data-analyst--pune-district--e3c1b2ea0c2523821487bc70a03c07ae1",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
       "matchedSkills": []
     },
     {
