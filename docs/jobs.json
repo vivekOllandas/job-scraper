@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-13T22:32:00.701Z",
+  "lastUpdated": "2026-10-14T04:27:51.714Z",
   "query": "data analyst power bi sql excel tableau",
-  "count": 496,
+  "count": 497,
   "jobs": [
     {
       "title": "Data Analyst - Intern",
@@ -656,6 +656,23 @@
       "matchedSkills": [
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Data Analytics Trainer (B2B/B2C)",
+      "company": "Vinsup Infotech PVT LTD",
+      "location": "India",
+      "summary": "What We’re Looking For:\n• Expertise in Excel, SQL, Python/R, Power BI, and Tableau\n• Strong understanding of data analysis, statistics & visualization\n• Experience as a Data Analyst / Data Scientist / Trainer\n• Ability to simplify complex concepts for learners at all levels\n• Certifications in Power",
+      "link": "https://www.jobleads.com/in/job/data-analytics-trainer-b2b-b2c--ajmer--e167f61d21733044d4a856016d1dbcbe4",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 7,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau",
+        "python"
       ]
     },
     {
