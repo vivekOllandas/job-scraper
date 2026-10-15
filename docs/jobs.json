@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T04:11:43.012Z",
+  "lastUpdated": "2026-10-15T11:14:07.659Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -993,6 +993,17 @@
         "sql",
         "power bi"
       ]
+    },
+    {
+      "title": "Data Analyst(UNPAID)",
+      "company": "Holiday World",
+      "location": "Remote",
+      "summary": "Data Analyst – Holiday World\nLocation: Remote (USA) — Office in Colorado Springs, CO\nType: Internship / Early-Career Role\n\nCompany: Holiday World / Holiday Channel\nAbout Holiday World\nHoliday World is a digital media and entertainment company building the world’s first ALL THINGS\nHOLIDAY platform. W",
+      "link": "https://himalayas.app/companies/holiday-world/jobs/data-analyst-unpaid",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 6,
+      "matchedSkills": []
     },
     {
       "title": "Data Analyst Intern – Paid Internship Opportunity in Chennai – College Graduates Welcome",
@@ -2041,17 +2052,6 @@
       "matchedSkills": []
     },
     {
-      "title": "Data Analyst Intern",
-      "company": "LatentView Analytics",
-      "location": "Chennai, IN",
-      "summary": "As a Data Analyst Intern at LatentView Analytics in Chennai, you will have the opportunity to gain hands-on experience in turning raw data into valuable business insights. Your primary responsibilities will include:\n\n- Collecting, cleaning, and analyzing data to extract meaningful information\n- Buil",
-      "link": "https://www.shine.com/jobs/data-analyst-intern/latentview-analytics/19150643",
-      "postedAt": "2026-06-24T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": []
-    },
-    {
       "title": "Data Analyst",
       "company": "Vishwa karma",
       "location": "Hyderabad, IN",
@@ -3002,17 +3002,6 @@
       "link": "https://www.jobleads.com/us/job/remote-data-analyst-insights-visualization-specialist--fremont--eb0bd4bf8e2ebf4cddb3707d472af21ef",
       "postedAt": "2026-06-26T00:00:00.000Z",
       "source": "indeed",
-      "matchScore": 5,
-      "matchedSkills": []
-    },
-    {
-      "title": "MIS Analyst (Data Analyst)",
-      "company": "Rekrut India Consultancy",
-      "location": "India",
-      "summary": "As a Data Analyst in our organization, you will be responsible for analyzing, interpreting, and presenting data to support decision-making processes. Your key responsibilities will include:\n\n- Mining, cleaning, and analyzing large datasets using advanced analytical techniques to identify trends and ",
-      "link": "https://www.shine.com/jobs/mis-analyst-data-analyst/rekrut-india-consultancy/19160363",
-      "postedAt": "2026-06-24T00:00:00.000Z",
-      "source": "naukri",
       "matchScore": 5,
       "matchedSkills": []
     },
@@ -5045,6 +5034,21 @@
       "source": "naukri",
       "matchScore": 2,
       "matchedSkills": []
+    },
+    {
+      "title": "Senior Power BI Developer - Remote",
+      "company": "PSRTEK",
+      "location": "Remote",
+      "summary": "An innovative technology solutions provider is seeking a Power BI Developer to support data analysis and visualization. The ideal candidate will have over 8 years of experience, expertise in tools like Power BI, Tableau, SQL, and a strong analytical background. This role involves managing complex da",
+      "link": "https://www.jobleads.com/us/job/senior-power-bi-developer-remote--new-york--ec461a005e5fdacadfa4ddb6459f1b154",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "tableau"
+      ]
     },
     {
       "title": "Business Analyst – Paid Account Management (Noida)",
