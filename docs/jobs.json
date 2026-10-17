@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T03:57:34.055Z",
+  "lastUpdated": "2026-10-17T10:28:10.050Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -961,22 +961,6 @@
       "matchScore": 7,
       "matchedSkills": [
         "power bi",
-        "tableau"
-      ]
-    },
-    {
-      "title": "Data/SQL Analyst - Power BI",
-      "company": "Worksconsultancy",
-      "location": "Pune, IN",
-      "summary": "As a Data Analyst at our company, you will play a crucial role in analyzing large datasets to identify trends, patterns, and actionable insights. Your ability to develop dashboards, reports, and MIS using tools like Tableau, Power BI, SQL, and Excel will be key in providing analytical solutions to o",
-      "link": "https://www.shine.com/jobs/data-sql-analyst-power-bi/worksconsultancy/19158901",
-      "postedAt": "2026-06-24T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 7,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "excel",
         "tableau"
       ]
     },
@@ -5024,6 +5008,21 @@
       "source": "naukri",
       "matchScore": 2,
       "matchedSkills": []
+    },
+    {
+      "title": "Senior Healthcare Analytics Lead | SAS, SQL & Tableau",
+      "company": "Optum",
+      "location": "Remote",
+      "summary": "Optum is seeking a Healthcare Analytics professional to deliver high-quality analyses and standardized reporting. You will work with SAS, SQL, Tableau and Power BI to support pricing, reimbursement, and network strategy across markets.\n\nYou will partner with contracting, finance, actuarial, operatio",
+      "link": "https://www.jobleads.com/us/job/senior-healthcare-analytics-lead-sas-sql-tableau--richardson--e4f0065201356316d91c7ed324e5cf43e",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "tableau"
+      ]
     },
     {
       "title": "Senior Power BI Developer - Remote",
