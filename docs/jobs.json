@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T21:55:15.500Z",
+  "lastUpdated": "2026-11-02T05:31:14.104Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -147,6 +147,22 @@
         "excel",
         "tableau",
         "python"
+      ]
+    },
+    {
+      "title": "Payer Escalations Data Analyst: Reporting & Insights",
+      "company": "Sentara Health",
+      "location": "Remote",
+      "summary": "Sentara Health is seeking a Business Analyst Payer Escalations to design, produce, and analyze data-driven reports to support operations and special projects. You will leverage SQL, Excel, Power BI, and Tableau to monitor performance and generate actionable insights for decision-makers.\n\nThe role re",
+      "link": "https://www.jobleads.com/us/job/payer-escalations-data-analyst-reporting-insights--sioux-falls--e019d66a1268236a87a05e38ab4ec51a4",
+      "postedAt": "2026-10-27T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 9,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
       ]
     },
     {
@@ -360,37 +376,6 @@
         "power bi",
         "excel",
         "tableau"
-      ]
-    },
-    {
-      "title": "Data Analyst | Tableau, Looker Studio & Power BI Expert",
-      "company": "vmysmartpros",
-      "location": "Remote",
-      "summary": "We are looking for a skilled Data Analyst & BI Specialist to help transform raw business data into clear, actionable insights through dashboards, reporting, and visualization tools.\n\nThe ideal candidate should have strong experience with Tableau, Looker Studio, Power BI, SQL, and Excel, along with t",
-      "link": "https://www.mysmartpros.com/tuition/job/data-analyst-tableau-looker-studio-power-bi-expert-2/",
-      "postedAt": "2026-06-28T00:00:00.000Z",
-      "source": "indeed",
-      "matchScore": 9,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "excel",
-        "tableau"
-      ]
-    },
-    {
-      "title": "Data Analyst Intern",
-      "company": "Tarangsoft (TSS)",
-      "location": "Udaipur, IN",
-      "summary": "Tarangsoft (TSS) has an open Data Analyst Intern role in Udaipur for freshers eager to learn by analysing data and building dashboards on live projects.\n\nYou'll work with SQL, Advanced Excel, Power BI and more, collaborating across the team. This is a verified internship — apply on Tarangsoft (TSS)'",
-      "link": "https://myinternships.in/internships/tarangsoft-tss-data-analyst-intern-udaipur-4273f4",
-      "postedAt": "2026-06-27T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 9,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "excel"
       ]
     },
     {
@@ -641,6 +626,19 @@
       "matchedSkills": [
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Remote Data Analyst: SQL, Dashboards & Insights",
+      "company": "Jobaaj Com",
+      "location": "Remote",
+      "summary": "Jobaaj Com is hiring a Data Analyst for a fully remote position. You will collect, clean, and analyze data from multiple sources to uncover actionable insights that drive smarter business decisions.\n\nThe role welcomes freshers and experienced analysts to work on diverse, high-impact projects in a re",
+      "link": "https://www.jobleads.com/us/job/remote-data-analyst-sql-dashboards-insights--united-states--ee8df12fb6823a125120f86795a75c844",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 7,
+      "matchedSkills": [
+        "sql"
       ]
     },
     {
@@ -1991,14 +1989,14 @@
       "matchedSkills": []
     },
     {
-      "title": "Data Analyst Intern",
-      "company": "Neeti Consulting",
-      "location": "Lucknow, IN",
-      "summary": "Join Neeti Consulting in Lucknow as a Data Analyst Intern and get a real, mentor-led start to your career in data analytics. Over this 6-month In Office internship you will contribute to actual Education/ Teaching/ Training projects, learn how a professional team plans and executes its work, and bui",
-      "link": "https://myinternships.in/internships/neeti-consulting-is-hiring-data-analyst-intern-lucknow-a9aaf0",
-      "postedAt": "2026-06-29T00:00:00.000Z",
+      "title": "Business Intelligence Data Analyst",
+      "company": "HARJAI COMPUTERS PRIVATE LIMITED",
+      "location": "India",
+      "summary": "We are seeking a skilled Business Intelligence Data Analyst to join our team in Maharashtra. The ideal candidate will have a strong background in business intelligence and data analysis, particularly within the general insurance sector. This role involves leveraging data to drive insights and suppor",
+      "link": "https://www.shine.com/jobs/business-intelligence-data-analyst/harjai-computers-private-limited/19967694",
+      "postedAt": "2026-10-30T00:00:00.000Z",
       "source": "naukri",
-      "matchScore": 6,
+      "matchScore": 5,
       "matchedSkills": []
     },
     {
@@ -2951,22 +2949,6 @@
       "matchedSkills": []
     },
     {
-      "title": "Specialist Software Engineer - Data Analytics, Python, SQL and PowerBI",
-      "company": "Societe Generale",
-      "location": "Bengaluru, IN",
-      "summary": "Responsibilities\n\nAutomation & Process Optimization\n\nDesign, develop, and deploy automation solutions to streamline endtoend reporting processes and eliminate manual effort.Build automated workflows using MicroStrategy ,Python, SQL, SAS, Power BI, and VBA to improve reporting efficiency, accuracy, a",
-      "link": "https://www.shine.com/jobs/specialist-software-engineer-data-analytics-python-sql-and-powerbi/societe-generale/19173632",
-      "postedAt": "2026-06-29T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 5,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "powerbi",
-        "python"
-      ]
-    },
-    {
       "title": "Remote Business Analyst jobs – Senior Business Systems Analyst (Full‑Time) – Idaho Falls, Idaho – $85k‑$110k – Agile, SQL, Tableau, Power BI, JIRA",
       "company": "remote quest jobs",
       "location": "Remote",
@@ -3162,21 +3144,6 @@
         "sql",
         "power bi",
         "excel"
-      ]
-    },
-    {
-      "title": "Business Intelligence Developer - Power BI, SQL, Tableau",
-      "company": "Infogain Pte Ltd",
-      "location": "Bengaluru, IN",
-      "summary": "Description We are looking for a highly skilled Business Intelligence Developer with extensive experience in Power BI, SQL, and Tableau to join our team. The ideal candidate will be responsible for designing, developing, and maintaining our business intelligence solutions to help drive data-driven d",
-      "link": "https://www.shine.com/jobs/business-intelligence-developer-power-bi-sql-tableau/infogain-pte-ltd/19176253",
-      "postedAt": "2026-06-29T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 4,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "tableau"
       ]
     },
     {
@@ -3604,16 +3571,16 @@
       ]
     },
     {
-      "title": "Associate Data Admin Analyst - Power BI Developer",
-      "company": "Capgemini",
-      "location": "India",
-      "summary": "We target a People Analytics Analyst with strong hands‑on experience sustaining and evolving Power BI dashboards in a HR/People Analytics context. This person needs to operate with autonomy, troubleshoot existing complex dashboards, ensure numerical accuracy through rigorous data‑quality checks, and",
-      "link": "https://www.jobleads.com/in/job/fbs-assoc-data-admin-analyst-power-bi-devloper--pune-district--e070fd451a2b1822e626bc0f20d19312e",
-      "postedAt": "2026-06-29T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 3,
+      "title": "Remote BI Developer: Build Insightful Dashboards",
+      "company": "Navitus",
+      "location": "Remote",
+      "summary": "Navitus Health Solutions is seeking a Business Intelligence Developer to join our team. The role focuses on generating and maintaining data and analytic solutions that turn data into knowledge, building data models in BI tools, and maintaining existing applications.\n\nYou will work with SQL Server, O",
+      "link": "https://www.jobleads.com/us/job/remote-bi-developer-build-insightful-dashboards--montpelier--e4b01741f6e35288fb5c6734c1d383805",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 2,
       "matchedSkills": [
-        "power bi"
+        "sql"
       ]
     },
     {
@@ -5010,6 +4977,30 @@
       "source": "naukri",
       "matchScore": 2,
       "matchedSkills": []
+    },
+    {
+      "title": "Remote Senior Data Analyst: Insights & Dashboards",
+      "company": "Independence Pet Holdings, Inc.",
+      "location": "Remote",
+      "summary": "Clarus, a leading pet health technology company, is seeking a Senior Data Analyst to join the Analytics team. You will serve as a strategic analytical partner to Sales, Customer Success, Product, Finance, and leadership to deliver dashboards, forecasts, and actionable insights.\n\nYou will combine CRM",
+      "link": "https://www.jobleads.com/us/job/remote-senior-data-analyst-insights-dashboards--illinois--e59544eae5fd8283fbbedbd85599340fd",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Senior BI Lead - Power BI & Sales Analytics",
+      "company": "CVS Health Corporation",
+      "location": "Remote",
+      "summary": "CVS Health Corporation is seeking a Business Intelligence Developer specializing in Power BI to support the commercial sales analytics function. You will design and deliver dashboards, reports, and data visuals that translate complex business needs into actionable insights for sales leadership.\n\nCol",
+      "link": "https://www.jobleads.com/us/job/senior-bi-lead-power-bi-sales-analytics--harrisburg--e68f4e322295937ef96f76ade4b251f2f",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": [
+        "power bi"
+      ]
     },
     {
       "title": "Senior Healthcare Analytics Lead | SAS, SQL & Tableau",
