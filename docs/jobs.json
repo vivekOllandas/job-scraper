@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T00:49:47.703Z",
+  "lastUpdated": "2026-11-03T13:57:26.658Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -1959,17 +1959,6 @@
       "matchedSkills": []
     },
     {
-      "title": "Data Analyst Intern",
-      "company": "Indus Innovations",
-      "location": "Surat, IN",
-      "summary": "Join Indus Innovations in Surat as a Data Analyst Intern and get a real, mentor-led start to your career in data analytics. Over this 3-month In Office internship you will contribute to actual Logistics / Supply Chain projects, learn how a professional team plans and executes its work, and build a p",
-      "link": "https://myinternships.in/job/indus-innovations-is-hiring-data-analyst-intern-surat-652422",
-      "postedAt": "2026-06-29T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": []
-    },
-    {
       "title": "Business Intelligence Data Analyst",
       "company": "HARJAI COMPUTERS PRIVATE LIMITED",
       "location": "India",
@@ -3587,6 +3576,19 @@
       "matchScore": 2,
       "matchedSkills": [
         "sql"
+      ]
+    },
+    {
+      "title": "Tableau Developer",
+      "company": "DATAECONOMY",
+      "location": "Secunderabad, IN",
+      "summary": "Job Title: Tableau Developer Experience Level: 5 - 07 years Location: Hyderabad / Pune\n\nQualification: BTech/MTech/MCA Mode of Work: Hybrid\n\nWe are seeking an experienced Tableau Developer with deep expertise in Banking, Financial Services, and Insurance systems. The candidate will be responsible fo",
+      "link": "https://www.foundit.in/job/tableau-developer-dataeconomy-hyderabad-secunderabad-telangana-69640840",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": [
+        "tableau"
       ]
     },
     {
