@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T06:08:10.953Z",
+  "lastUpdated": "2026-11-05T19:49:05.953Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -1947,6 +1947,17 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Analyst – AI & Automation",
+      "company": "LnP INFOTECH PVT LTD",
+      "location": "Sahibzada Ajit Singh Nagar, IN",
+      "summary": "We are seeking a Data Analyst – AI & Automation to join our team in Mohali. The role involves collecting, cleaning, and analyzing data, creating reports, and building dashboards using BI tools. The analyst will also explore AI and automation technologies to enhance data workflows.",
+      "link": "https://www.jobspri.com/jobs/data-analyst-ai-automation-lnp-infotech-pvt-ltd",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
       "title": "Business Intelligence Data Analyst",
       "company": "HARJAI COMPUTERS PRIVATE LIMITED",
       "location": "India",
@@ -3124,36 +3135,6 @@
       "source": "naukri",
       "matchScore": 4,
       "matchedSkills": []
-    },
-    {
-      "title": "Lead Data Analyst (Power BI)",
-      "company": "pretium enterprise services, india",
-      "location": "Bengaluru, IN",
-      "summary": "Key Responsibilities\nDesign, develop, and maintain interactive dashboards and reports using Power BI.\nWrite optimized SQL queries for data extraction, transformation, and analysis across multiple databases.\nPerform advanced Excel modelling, including pivot tables, Power Query, and VBA (optional).\nCo",
-      "link": "https://www.shine.com/jobs/lead-data-analyst-power-bi/pretium-enterprise-services-india/19173003",
-      "postedAt": "2026-06-30T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 4,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "excel"
-      ]
-    },
-    {
-      "title": "Power BI Reporting Analyst | Sales Analytics | Bangalore | 6-10 Years",
-      "company": "Mascot e-services",
-      "location": "Bengaluru, IN",
-      "summary": "Power BI professional with experience in dashboard development, sales reporting, data visualization, and business intelligence. Robust skills in Power BI, SQL, DAX, Power Query, and Advanced Excel. Experience in sales analytics preferred.\n\nRequired Candidate profile\n\nHiring for TOP Brand\n\nLevel 9 (6",
-      "link": "https://www.shine.com/jobs/power-bi-reporting-analyst-sales-analytics-bangalore-6-years/mascot-e-services/19172868",
-      "postedAt": "2026-06-30T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 4,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "excel"
-      ]
     },
     {
       "title": "Remote Data Insights Analyst",
@@ -4999,6 +4980,19 @@
       "source": "naukri",
       "matchScore": 1,
       "matchedSkills": []
+    },
+    {
+      "title": "Senior Salesforce BI & Power BI Analytics Lead",
+      "company": "CVS Health",
+      "location": "Remote",
+      "summary": "CVS Health is seeking a Business Intelligence Developer to design and maintain Power BI dashboards, reports, and data visualizations that support sales insights and informed decision-making.\n\nYou will partner with business analysts, IT teams, and stakeholders to translate requirements into scalable ",
+      "link": "https://www.jobleads.com/us/job/senior-salesforce-bi-power-bi-analytics-lead--north-dakota--e9bbef441a98437b5f214a56276dd3e81",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": [
+        "power bi"
+      ]
     },
     {
       "title": "Remote Senior Data Analyst: Insights & Dashboards",
