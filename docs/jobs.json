@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T06:03:05.317Z",
+  "lastUpdated": "2026-11-06T19:10:48.881Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -1909,46 +1909,6 @@
       "matchedSkills": []
     },
     {
-      "title": "Data Analyst- MIS and Tableau specialist - C09 - BANGALORE",
-      "company": "Citi Bank",
-      "location": "Bengaluru, IN",
-      "summary": "ABOUT CITICiti's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We have 200 years of experience helping our clients meet the world's toughest challenges and embrace its greatest opportunities.ANALYTICS AND",
-      "link": "https://www.shine.com/jobs/data-analyst-mis-and-tableau-specialist-c-bangalore/citi-bank/19172994",
-      "postedAt": "2026-06-30T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": [
-        "tableau"
-      ]
-    },
-    {
-      "title": "Data Analyst Intern",
-      "company": "Genpact",
-      "location": "Lucknow, IN",
-      "summary": "Genpact has an open Data Analyst Intern position in Lucknow for freshers who are genuinely excited about data analytics. This is a 3-month In Office internship in the Technology sector where you will learn by doing — taking ownership of real tasks, getting structured feedback, and developing skills ",
-      "link": "https://myinternships.in/internships/genpact-is-hiring-data-analyst-intern-lucknow-dda212",
-      "postedAt": "2026-06-30T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": []
-    },
-    {
-      "title": "DATA ANALYTICS & BUSINESS INTELLIGENCE (EXCEL + SQL + POWER BI / TABLEAU) at",
-      "company": "MAINCRAFTS COM",
-      "location": "India",
-      "summary": "DATA ANALYTICS & BUSINESS INTELLIGENCE (EXCEL + SQL + POWER BI / TABLEAU) at MAINCRAFTS COM (Ahmedabad). This is a verified internship opportunity listed on a national internship programme. Based in Ahmedabad, with a duration of 6 weeks and a stipend of unpaid internship, starting immediately. As an",
-      "link": "https://www.shine.com/jobs/data-analytics-business-intelligence-excel-sql-power-bi-tableau-at/maincrafts-com/19188981",
-      "postedAt": "2026-06-30T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "excel",
-        "tableau"
-      ]
-    },
-    {
       "title": "Data Analyst – Remote India",
       "company": "Bizoforce Inc.",
       "location": "India",
@@ -1978,6 +1938,28 @@
       "link": "https://www.jobspri.com/jobs/data-analyst-ai-automation-lnp-infotech-pvt-ltd",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "source": "naukri",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
+      "title": "BI Reporting Analyst – Payer Escalations & Dashboards",
+      "company": "Sentara Health",
+      "location": "Remote",
+      "summary": "Sentara Health is seeking a Business Analyst for Payer Escalations in the United States. The role involves designing, producing, and analyzing data-driven reports to support operations, projects, and decision-making.\n\nYou will develop dashboards and visualizations, monitor KPIs, and collaborate with",
+      "link": "https://www.jobleads.com/us/job/bi-reporting-analyst-payer-escalations-dashboards--georgia--e5c16f4a8e908709c2be234722079a454",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 5,
+      "matchedSkills": []
+    },
+    {
+      "title": "Business Analyst - Payer Escalations",
+      "company": "Sentara Health",
+      "location": "Remote",
+      "summary": "Location\n\nNorfolk, VA\n\nWork Shift\n\nFirst (Days)\n\nOverview\n\nThe Business Analyst Payer Escalations is responsible for designing, producing, and analyzing data-driven reports to support business operations and special projects. This role involves utilizing various databases, information systems, and a",
+      "link": "https://www.jobleads.com/us/job/business-analyst-payer-escalations--carson-city--e0c863a8415a7d01fcf84413c2e5c217a",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "source": "indeed",
       "matchScore": 5,
       "matchedSkills": []
     },
@@ -4970,6 +4952,22 @@
       "matchScore": 2,
       "matchedSkills": [
         "power bi"
+      ]
+    },
+    {
+      "title": "Data Analytics Developer I",
+      "company": "remote quest jobs",
+      "location": "Remote",
+      "summary": "U.S. citizenship and government background investigation; BS/BA in data science, math, statistics, IT, IS, computer science or related field; 0-5 years experience; Power BI, Tableau, or reputed company; Python; reputed company Excel and Office.\nKey Responsibilities\n• developing dashboards\n• automati",
+      "link": "https://us.remotejobs.dedyn.io/job/data-analytics-developer-i-5726e378",
+      "postedAt": "2026-11-06T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": [
+        "power bi",
+        "excel",
+        "tableau",
+        "python"
       ]
     },
     {
