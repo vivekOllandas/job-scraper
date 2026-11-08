@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T13:06:29.606Z",
+  "lastUpdated": "2026-11-08T21:54:29.409Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -141,6 +141,22 @@
       "postedAt": "2026-07-08T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 10,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
+      ]
+    },
+    {
+      "title": "Business Analyst - Payer Analytics & Reporting",
+      "company": "Sentara Health",
+      "location": "Remote",
+      "summary": "Sentara Health is seeking a Business Analyst Payer Escalations to design, produce, and analyze data-driven reports and dashboards for business operations. You will work with SQL, Excel, Power BI, Tableau, and other analytics tools to extract data, identify trends, and provide actionable insights for",
+      "link": "https://www.jobleads.com/us/job/business-analyst-payer-analytics-reporting--charlotte--edc3fabf3c5660007f38613dc92b6c578",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 9,
       "matchedSkills": [
         "sql",
         "power bi",
@@ -880,20 +896,6 @@
       "summary": "Key Responsibilities\n• Analyze complex datasets to extract actionable insights.\n• Develop and implement data-driven solutions to business problems.\n• Create compelling data visualizations and reports using Power BI or Tableau.\n• Collaborate with stakeholders to understand data needs and deliver rele",
       "link": "https://www.opentalent.in/jobs/data-analyst-and-data-scientist-webconvoy-academy",
       "postedAt": "2026-07-02T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 7,
-      "matchedSkills": [
-        "power bi",
-        "tableau"
-      ]
-    },
-    {
-      "title": "Analyst, IT/Tech, Data Analyst",
-      "company": "eClerx Investments Ltd",
-      "location": "Mumbai, IN",
-      "summary": "Roles & Responsibilities : Experience in Data Analytics & Seismic Tool ( Configuration, create layers) Good to have - Develop interactive dashboards and reports using Tableau , Power BI , or Alteryx to support business decisions and monitor KPIs. Monitor and analyze content usage and engagement data",
-      "link": "https://www.shine.com/jobs/analyst-it-tech-data-analyst/eclerx-investments-ltd/19195746",
-      "postedAt": "2026-07-01T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 7,
       "matchedSkills": [
@@ -3577,20 +3579,6 @@
       ]
     },
     {
-      "title": "Business Intelligence Developer Power Bi/tableau Chennai (India)",
-      "company": "Important Company of the Sector",
-      "location": "Chennai, IN",
-      "summary": "Experience 3 to 5yrs\n\nJob Summary:\nWe are looking for a BI Developer with experience in Power BI or Tableau to design, develop, and maintain interactive dashboards and reports. You will work closely with business teams to turn data into insights that support decision-making.\n\nKey Responsibilities:\nD",
-      "link": "https://www.shine.com/jobs/business-intelligence-developer-power-bi-tableau-chennai-india/important-company-of-the-sector/19193840",
-      "postedAt": "2026-07-01T01:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 3,
-      "matchedSkills": [
-        "power bi",
-        "tableau"
-      ]
-    },
-    {
       "title": "Junior Business Intelligence Analyst- Indian candidates / F1, STEM OPT VISA STATUS NEEDED",
       "company": "Nextech Hypergroup Solution",
       "location": "Remote",
@@ -5024,6 +5012,17 @@
       "matchedSkills": [
         "power bi"
       ]
+    },
+    {
+      "title": "Data Science & Data Analytics Trainer",
+      "company": "Bits and Bytes Automation",
+      "location": "Noida, IN",
+      "summary": "Data Science & Data Analytics Trainer\n\nCompany: Bits and Bytes Automation\nJob Location: Uttar Pradesh, India\nEmployment Type: Full-time / Contract\nExperience Required: 4 - 6 years\nSalary: 20K30K a month\n\nBits and Bytes Automation is looking for an experienced and skilled Data Science & Data Analytic",
+      "link": "https://www.shine.com/jobs/data-science-data-analytics-trainer/bits-and-bytes-automation/19991389",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
     },
     {
       "title": "Remote Senior Data Analyst: Insights & Dashboards",
