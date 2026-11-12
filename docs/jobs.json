@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T00:24:16.995Z",
+  "lastUpdated": "2026-11-12T14:57:19.337Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -391,6 +391,21 @@
         "power bi",
         "excel",
         "tableau",
+        "python"
+      ]
+    },
+    {
+      "title": "Data Analyst Python/ Power Bi/ Sql Mumbai (India)",
+      "company": "The Sleep",
+      "location": "Mumbai, IN",
+      "summary": "About The Sleep Company The Sleep Company is India's fastest-growing D2C sleep and comfort brand, built on the foundation of patented Smart GRID technology. From the moment we launched, we set out to solve one of the most overlooked aspects of human health: sleep. The Sleep Company is hiring a Data ",
+      "link": "https://in.jobrapido.com/jobpreview/860570469185617920",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 8,
+      "matchedSkills": [
+        "sql",
+        "power bi",
         "python"
       ]
     },
@@ -2932,28 +2947,6 @@
       "matchedSkills": []
     },
     {
-      "title": "Data Analyst",
-      "company": "State Bank of India",
-      "location": "Dabolim, IN",
-      "summary": "State Bank of India is hiring a Data Analyst in Dabolim, Goa. This is a full-time opportunity for motivated professionals who want to grow their career while analysing data and building dashboards and reports. You will join an experienced team, own real responsibilities from day one, and contribute ",
-      "link": "https://myinternships.in/job/state-bank-of-india-data-analyst-dabolim-goa-job-aed79f",
-      "postedAt": "2026-07-06T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 5,
-      "matchedSkills": []
-    },
-    {
-      "title": "Data Analyst",
-      "company": "Cognizant",
-      "location": "Ponda, IN",
-      "summary": "Cognizant is hiring a Data Analyst in Ponda, Goa. This is a full-time opportunity for motivated professionals who want to grow their career while analysing data and building dashboards and reports. You will join an experienced team, own real responsibilities from day one, and contribute directly to ",
-      "link": "https://myinternships.in/job/cognizant-data-analyst-ponda-goa-job-cbc34a",
-      "postedAt": "2026-07-06T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 5,
-      "matchedSkills": []
-    },
-    {
       "title": "Business Intelligence Analyst | Power BI | SQL | Tableau | FP&A | Chennai",
       "company": "Gratitude Inc",
       "location": "Chennai, IN",
@@ -4926,6 +4919,19 @@
       "matchScore": 2,
       "matchedSkills": [
         "tableau"
+      ]
+    },
+    {
+      "title": "Senior BI Analytics Lead: Power BI & Sales Insights",
+      "company": "CVS Health",
+      "location": "Remote",
+      "summary": "CVS Health is seeking a Business Intelligence Developer to specialize in Power BI and drive analytics across the commercial sales environment. You will translate business needs into scalable dashboards and reports, partnering with analysts, IT, and stakeholders to deliver actionable insights and dat",
+      "link": "https://www.jobleads.com/us/job/senior-bi-analytics-lead-power-bi-sales-insights--sacramento--efec93ace56b3443b317351f54d9c123a",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": [
+        "power bi"
       ]
     },
     {
