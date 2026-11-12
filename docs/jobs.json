@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T13:56:18.537Z",
+  "lastUpdated": "2026-11-12T00:24:16.995Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -3532,6 +3532,19 @@
       "matchedSkills": []
     },
     {
+      "title": "Power BI Developer",
+      "company": "S R International Inc",
+      "location": "Remote",
+      "summary": "Job Title:\n\nPower BI Developer\nJob Code:\n\nMNSITE-3935 /\n-3935\nClient:\n\nMinnesota IT Services (MNIT) / Office of Higher Education (OHE)\nLocation:\n\nMinnesota (Remote)\nDuration:\n\n8 months, 31 days\nContract Until:\n\nAugust 31, 2027\nWork Hours:\n\nMonday–Friday, 9:00 AM–5:00 PM (40 hours/week)\nClosing Date:",
+      "link": "https://www.learn4good.com/jobs/online_remote/info_technology/5617235732/e/",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 2,
+      "matchedSkills": [
+        "power bi"
+      ]
+    },
+    {
       "title": "Junior Business Intelligence Analyst- Indian candidates / F1, STEM OPT VISA STATUS NEEDED",
       "company": "Nextech Hypergroup Solution",
       "location": "Remote",
@@ -4916,17 +4929,6 @@
       ]
     },
     {
-      "title": "Data Visualization Intern",
-      "company": "Renesas Electronics",
-      "location": "Bengaluru, IN",
-      "summary": "Join Renesas Electronics in Bengaluru as a Data Visualization Intern and take the first meaningful step in your data-analytics career. This internship offers a structured, guided environment where you will spend your time turning data into clear, compelling visual stories, learn directly from indust",
-      "link": "https://myinternships.in/internships/renesas-electronics-data-visualization-intern-bengaluru-aeb048",
-      "postedAt": "2026-07-06T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 2,
-      "matchedSkills": []
-    },
-    {
       "title": "Remote Data Analytics Lead — Sales Insights & Strategy",
       "company": "Akraya",
       "location": "Remote",
@@ -4940,6 +4942,17 @@
         "excel",
         "tableau"
       ]
+    },
+    {
+      "title": "Data Management Analyst (Delhi)",
+      "company": "Analytics Training Hub",
+      "location": "New Delhi, IN",
+      "summary": "Data Management Analyst (Delhi)\n\nCompany: Analytics Training Hub\nJob Location: New Delhi, Delhi, India\nEmployment Type: Full-time\nExperience Required: 4 - 5 years\n\nWe're Hiring | Data Management Analyst\n\nWe are looking for an analytical and detail-oriented Data Management Analyst to organize, mainta",
+      "link": "https://www.shine.com/jobs/data-management-analyst-delhi/analytics-training-hub/20039473",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
     },
     {
       "title": "American Express Off Campus Hiring 2026 | Analyst  Data Analytics Role",
@@ -6081,17 +6094,6 @@
         "excel",
         "python"
       ]
-    },
-    {
-      "title": "Spinny - Product Analytics Lead/Manager",
-      "company": "Spinny",
-      "location": "Gurugram, IN",
-      "summary": "Job Location : Sector 48, Gurugram\n\nWork from Office : 5 days a week\n\nJob Description :\n\nYou'll work closely with business, product, design, engineering and growth teams to build a data-first culture and drive data backed decision-making. You'll lead a team of analysts to uncover insights from user ",
-      "link": "https://www.shine.com/jobs/spinny-product-analytics-lead-manager/spinny/19203865",
-      "postedAt": "2026-07-06T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 1,
-      "matchedSkills": []
     }
   ]
 }
