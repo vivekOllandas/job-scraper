@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T23:26:17.646Z",
+  "lastUpdated": "2026-11-13T06:06:14.792Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -1849,19 +1849,6 @@
       "matchedSkills": []
     },
     {
-      "title": "Data Analyst",
-      "company": "Aditya Birla Fashion (Pantaloons)",
-      "location": "Kundai, IN",
-      "summary": "Join Aditya Birla Fashion (Pantaloons) as a Data Analyst based in Kundaim, Goa. In this full-time role you will spend your time analysing data and building dashboards and reports, working alongside skilled colleagues and using industry-standard tools and processes. It is an excellent opportunity to ",
-      "link": "https://myinternships.in/job/aditya-birla-fashion-pantaloons-data-analyst-kundaim-goa-job-f4319c",
-      "postedAt": "2026-07-06T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": [
-        "excel"
-      ]
-    },
-    {
       "title": "Workplace Data Administrator (Data Analyst)",
       "company": "JLL",
       "location": "New Delhi, IN",
@@ -3535,6 +3522,19 @@
       "matchScore": 2,
       "matchedSkills": [
         "power bi"
+      ]
+    },
+    {
+      "title": "Data Analyst - SQL, ETL, Data Warehouse |  Description (Delhi)",
+      "company": "Coforge",
+      "location": "New Delhi, IN",
+      "summary": "Data Analyst - SQL, ETL, Data Warehouse | Job Description (Delhi)\n\nCompany: Coforge\nJob Location: New Delhi, Delhi, India\nEmployment Type: Full-time\nExperience Required: 4 - 8 years\n\nPosition: Data Analyst\n\nExperience: 4-8 Years\n\nLocation: Greater Noida\n\nNotice Period: Immediate\n\nJob Summary\n\nWe are",
+      "link": "https://www.shine.com/jobs/data-analyst-sql-etl-data-warehouse-job-description-delhi/coforge/20056530",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": [
+        "sql"
       ]
     },
     {
