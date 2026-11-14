@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T05:53:49.584Z",
+  "lastUpdated": "2026-11-14T13:18:59.100Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -655,6 +655,19 @@
       "matchScore": 8,
       "matchedSkills": [
         "sql",
+        "excel"
+      ]
+    },
+    {
+      "title": "Data Analyst Fresher , Data Analytics",
+      "company": "Nova Technologies",
+      "location": "India",
+      "summary": "Data Analyst Fresher , Data Analytics\n\nCompany: Nova Technologies\nJob Location: India\nEmployment Type: Full-time\nExperience Required: 0 - 1 years\nSalary: 3L4.5L a year\n\nJob description\n\nWe are looking for Data Analyst Freshers, Data Analytics fresher to join our growing team. This is an excellent op",
+      "link": "https://www.shine.com/jobs/data-analyst-fresher-data-analytics/nova-technologies/20056680",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 7,
+      "matchedSkills": [
         "excel"
       ]
     },
@@ -1828,28 +1841,15 @@
       "matchedSkills": []
     },
     {
-      "title": "Data Analyst Intern",
-      "company": "MakeMyTrip",
-      "location": "Candolim, IN",
-      "summary": "MakeMyTrip has an exciting Data Analyst internship opening in Candolim, Goa, ideal for freshers and final-year students eager to learn by doing. Over this internship you will focus on analysing data and building dashboards and reports, collaborate with the team, and develop skills that employers act",
-      "link": "https://myinternships.in/internships/makemytrip-data-analyst-candolim-goa-internship-80df49",
-      "postedAt": "2026-07-06T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
+      "title": "Remote Data Analyst - Transform Insights into Growth",
+      "company": "Intuvia Technologies",
+      "location": "Remote",
+      "summary": "Intuvia Technologies is hiring a Data Analyst for a fully remote position. The ideal candidate will analyze complex datasets, create reports, and deliver actionable insights for business growth. Responsibilities include cleaning and organizing data, interpreting trends, and collaborating with teams.",
+      "link": "https://www.jobleads.com/us/job/remote-data-analyst-transform-insights-into-growth--united-states--e29eb11b6736f920335ed524b9fe20521",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 5,
       "matchedSkills": []
-    },
-    {
-      "title": "Data Analyst",
-      "company": "Delhivery",
-      "location": "Panaji, IN",
-      "summary": "Join Delhivery as a Data Analyst based in Panaji, Goa. In this full-time role you will spend your time analysing data and building dashboards and reports, working alongside skilled colleagues and using industry-standard tools and processes. It is an excellent opportunity to build a rewarding, long-t",
-      "link": "https://myinternships.in/jobs/delhivery-data-analyst-panaji-goa-job-2fd3a5",
-      "postedAt": "2026-07-06T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": [
-        "excel"
-      ]
     },
     {
       "title": "Workplace Data Administrator (Data Analyst)",
