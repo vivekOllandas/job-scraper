@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T05:54:45.477Z",
+  "lastUpdated": "2026-11-15T13:46:48.269Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -1808,17 +1808,6 @@
       "matchedSkills": []
     },
     {
-      "title": "Data Analyst Intern",
-      "company": "Yatra Online",
-      "location": "Vodlemol Cacora, IN",
-      "summary": "Kickstart your career at Yatra Online in Curchorem, Goa as a Data Analyst intern. This structured, guided internship lets you spend your time analysing data and building dashboards and reports, learning directly from industry practitioners and seeing how work is done inside a real organisation in Go",
-      "link": "https://myinternships.in/internships/yatra-online-data-analyst-curchorem-goa-internship-93e2b0",
-      "postedAt": "2026-07-06T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": []
-    },
-    {
       "title": "HR Data Analyst",
       "company": "PERSOL",
       "location": "India",
@@ -1828,6 +1817,22 @@
       "source": "naukri",
       "matchScore": 5,
       "matchedSkills": []
+    },
+    {
+      "title": "Remote Data Analytics Consultant | SQL, Tableau & Power BI",
+      "company": "Excella, Inc",
+      "location": "Remote",
+      "summary": "Excella is seeking an expert in Data Analysis and technical consulting to join our team, delivering valuable customer experiences through agile methods and data-driven solutions. You will elicit business requirements, operationalize questions with data, build complex SQL queries, design data models ",
+      "link": "https://www.jobleads.com/us/job/remote-data-analytics-consultant-sql-tableau-power-bi--arlington--e57e9d272709a59881bd2fd43de58b4b2",
+      "postedAt": "2026-11-10T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 5,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "excel",
+        "tableau"
+      ]
     },
     {
       "title": "Remote Data Analyst - Transform Insights into Growth",
