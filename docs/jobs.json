@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T00:51:09.600Z",
+  "lastUpdated": "2026-11-18T15:28:02.226Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -607,20 +607,6 @@
       "matchedSkills": [
         "sql",
         "power bi",
-        "excel"
-      ]
-    },
-    {
-      "title": "Data Analyst Intern (South Delhi)",
-      "company": "FINMINOS PRIVATE",
-      "location": "New Delhi, IN",
-      "summary": "We are looking for a motivated and detail-oriented Data Analysis Intern to join our IT team. The ideal candidate should have a basic understanding of data analysis, Excel, SQL, and reporting. This internship offers an excellent prospect to gain hands-on experience in data collection, analysis, visua",
-      "link": "https://www.shine.com/jobs/data-analyst-intern-south-delhi/finminos-private/19203528",
-      "postedAt": "2026-07-06T22:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 8,
-      "matchedSkills": [
-        "sql",
         "excel"
       ]
     },
@@ -2912,6 +2898,21 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Analyst (Python, SQL & Power BI) | Zenbyte Technologies | PAN India",
+      "company": "Zenbyte Technologies",
+      "location": "Bengaluru, IN",
+      "summary": "Position Summary:\n\nDriving advanced data analytics, business intelligence reporting, data visualization, and actionable insights across PAN India operations, Zenbyte Technologies is actively seeking an experienced Data Analyst with 3.5+ years of hands‑on experience for a permanent full‑time engageme",
+      "link": "https://www.jobleads.com/in/job/data-analyst-python-sql-power-bi-zenbyte-technologies-pan-india--bengaluru--chennai--e89606bb67e2726d33c3d027ba5918566",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 4,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "python"
+      ]
+    },
+    {
       "title": "Business Intelligence Analyst | Power BI | SQL | Tableau | FP&A | Chennai",
       "company": "Gratitude Inc",
       "location": "Chennai, IN",
@@ -3080,6 +3081,20 @@
         "sql",
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "Analyst Sr Data Analyst Business Analysis Pune",
+      "company": "Honeybee Tech Solutions",
+      "location": "Pune, IN",
+      "summary": "Analyst Sr Data Analyst Business Analysis Pune\n\nCompany: Honeybee Tech Solutions\nJob Location: Pune, Maharashtra, India\nEmployment Type: Full-time\nExperience Required: 3+ years\n\nJob highlights\n\n3+ years in Data Analysis with expertise in Advanced Excel, SQL, and BI tools; Bachelor's in Mathematics o",
+      "link": "https://www.shine.com/jobs/analyst-sr-data-analyst-business-analysis-pune/honeybee-tech-solutions/20088692",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 3,
+      "matchedSkills": [
+        "sql",
+        "excel"
       ]
     },
     {
@@ -4898,19 +4913,6 @@
       "matchScore": 2,
       "matchedSkills": [
         "excel"
-      ]
-    },
-    {
-      "title": "BI/Tableau Developer (Software Engineer III)",
-      "company": "vmysmartpros",
-      "location": "Remote",
-      "summary": "The Tri-Com Consulting Group\n\nis a Full-Service IT Employment Consulting Firm who is seeking qualified candidates for the following opening: BI/Tableau Developer (Software Engineer III)\n\nScope of Services\n\nThe scope of services required for the Business Intelligence developer includes:\n• Design, cre",
-      "link": "https://www.mysmartpros.com/tuition/job/bi-tableau-developer-software-engineer-iii/",
-      "postedAt": "2026-07-07T00:00:00.000Z",
-      "source": "indeed",
-      "matchScore": 2,
-      "matchedSkills": [
-        "tableau"
       ]
     },
     {
