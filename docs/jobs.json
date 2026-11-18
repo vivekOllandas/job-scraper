@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T15:48:08.532Z",
+  "lastUpdated": "2026-11-18T00:51:09.600Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -358,40 +358,6 @@
         "power bi",
         "excel",
         "tableau"
-      ]
-    },
-    {
-      "title": "Data Analyst - NKP Pharma Pvt Ltd Changodar",
-      "company": "OpenTalent",
-      "location": "India",
-      "summary": "Data Analyst at NKP Pharma Pvt Ltd Changodar.\n\nKey technologies: Python, SQL, Tableau, Power BI, Excel.\n\nKey Responsibilities\n• Design and implement technical solutions to meet business requirements\n• Collaborate with cross-functional teams throughout the software development lifecycle\n• Contribute ",
-      "link": "https://www.opentalent.in/jobs/data-analyst-nkp-pharma-pvt-ltd-changodar",
-      "postedAt": "2026-07-06T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 9,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "excel",
-        "tableau",
-        "python"
-      ]
-    },
-    {
-      "title": "Data Analyst - BizNest",
-      "company": "OpenTalent",
-      "location": "India",
-      "summary": "Data Analyst at BizNest.\n\nKey technologies: Python, SQL, Tableau, Power BI, Excel.\n\nKey Responsibilities\n• Design and implement technical solutions to meet business requirements\n• Collaborate with cross-functional teams throughout the software development lifecycle\n• Contribute to code quality throu",
-      "link": "https://www.opentalent.in/jobs/data-analyst-biznest",
-      "postedAt": "2026-07-06T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 9,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "excel",
-        "tableau",
-        "python"
       ]
     },
     {
@@ -976,6 +942,17 @@
       "link": "https://www.shine.com/jobs/trainee-data-analyst/the-scholar/20078133",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "source": "naukri",
+      "matchScore": 6,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst (Part-Time)",
+      "company": "DLN Consult",
+      "location": "Remote",
+      "summary": "Job Title: Data Analyst — Part-Time\nCompany: DLN Consulting Group\nLocation: Remote | Ohio-based preferred\nJob Type: Part-Time\nDescription\n\nDLN Consulting Group is seeking a detail-oriented Part-Time Data Analyst to support client engagements and internal reporting. You will collect, analyze, and pre",
+      "link": "https://www.jobleads.com/us/job/data-analyst-part-time--atlanta--ec279d6b1664884457094e0f47f78fe09",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "source": "indeed",
       "matchScore": 6,
       "matchedSkills": []
     },
@@ -3101,6 +3078,20 @@
       "matchScore": 4,
       "matchedSkills": [
         "sql",
+        "power bi",
+        "tableau"
+      ]
+    },
+    {
+      "title": "Remote Senior Data Analyst: Retail Insights & Governance",
+      "company": "Turnberry Solutions, Inc.",
+      "location": "Remote",
+      "summary": "Turnberry Solutions, Inc. is seeking a Data Analyst Level II to join its Data Strategy and Intelligence practice in Minneapolis. The role involves end-to-end analysis, data pipeline design, ETL management, and building executive dashboards using Tableau and Power BI.\n\nThe ideal candidate will have 3",
+      "link": "https://www.jobleads.com/us/job/remote-senior-data-analyst-retail-insights-governance--minneapolis--efe9555016f982d57a9dd302c1ec3b85a",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 3,
+      "matchedSkills": [
         "power bi",
         "tableau"
       ]
