@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T00:08:49.837Z",
+  "lastUpdated": "2026-11-19T15:33:37.292Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -146,6 +146,22 @@
         "power bi",
         "excel",
         "tableau"
+      ]
+    },
+    {
+      "title": "Business Analyst (Immediate joiner experience with Python, SQL, PowerBI, Tableau)",
+      "company": "Stellantis",
+      "location": "Bengaluru, IN",
+      "summary": "Job Title: Business Analytics Analyst\n\nYour Mission\n\nThe Artificial Intelligence & Data Analytics (AIDA) team at Stellantis is building a best-in-class analytics program to support the Software Group's ambitious goals. As a Business Analytics Analyst, your mission is to deliver data-driven insights ",
+      "link": "https://in.talent.com/view?id=608074417573472595",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 9,
+      "matchedSkills": [
+        "sql",
+        "powerbi",
+        "tableau",
+        "python"
       ]
     },
     {
@@ -1757,17 +1773,6 @@
       "matchedSkills": []
     },
     {
-      "title": "Data Analyst – Sales Operations",
-      "company": "Jobtailor",
-      "location": "India",
-      "summary": "Responsibilities\n• Automate manual data entry and build data-driven processes for sales tracking\n• Manage and maintain Zoho CRM — workflows, hygiene, custom reports, and views\n• Build and maintain a live sales performance dashboard\n• Track revenue in vs out, deal velocity, and win/loss rates\n• Ident",
-      "link": "https://www.jobleads.com/in/job/data-analyst-sales-operations--gurugram-district--e9de735e359d12b83789d04ce910723db",
-      "postedAt": "2026-07-09T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": []
-    },
-    {
       "title": "DATA ANALYST",
       "company": "AaraTechnologies Inc",
       "location": "Remote",
@@ -2881,18 +2886,17 @@
       "matchedSkills": []
     },
     {
-      "title": "Senior Data Analyst(SAS and Credit Risk) (Telangana)",
-      "company": "EY",
-      "location": "Hyderabad, IN",
-      "summary": "JOB DESCRIPTION\n\nTotal Years of experience: 5-10\n\nTools and Technology:\nSAS Base\nSAS Advanced\nSAS Viya\nSAS Enterprise Guide (EG)\nSAS Macro Programming\nSQL (Oracle, Teradata, SQL Server)\nAdvanced Excel\nPower BI / Tableau\nData Warehousing Concepts\nData Validation & Reporting\n\nMinimum Years of experien",
-      "link": "https://www.shine.com/jobs/senior-data-analystsas-and-credit-risk-telangana/ey/19211155",
-      "postedAt": "2026-07-09T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 5,
+      "title": "Remote Business Analyst jobs – Senior Business reputed company Analyst (reputed company) – Idaho Falls, Idaho – $85k‑$110k – Agile, SQL, Tableau, Power BI, JIRA",
+      "company": "remote quest jobs",
+      "location": "Remote",
+      "summary": "TITLE: Remote Business Analyst jobs – Senior Business reputed company Analyst (reputed company) – Idaho Falls, Idaho – $85k‑$110k – Agile, SQL, Tableau, Power BI, JIRA --- #### About the team We’re a 45‑person product reputed company headquartered in Austin, Texas, but we’ve been hiring across the r",
+      "link": "https://us.remotejobs.dedyn.io/job/remote-business-analyst-jobs-senior-business-systems-analyst-full-time-idaho-falls-idaho-85k-110k-agile-sql-tableau-power-bi-jira",
+      "postedAt": "2026-11-18T23:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 4,
       "matchedSkills": [
         "sql",
         "power bi",
-        "excel",
         "tableau"
       ]
     },
@@ -3516,6 +3520,19 @@
       "source": "naukri",
       "matchScore": 3,
       "matchedSkills": []
+    },
+    {
+      "title": "Data Analytics Trainer - Power BI, Telugu, Faculty",
+      "company": "IT Business Management Solutions India Private Limited",
+      "location": "India",
+      "summary": "About the Role\n\nThis role is a great fit for someone who enjoys teaching and has solid expertise in data analytics. As a Data Analytics Trainer, you will play a crucial role in equipping students and professionals with essential skills in data analysis and visualization using Power BI.\n\nWhat You'll ",
+      "link": "https://www.shine.com/jobs/data-analytics-trainer-power-bi-telugu-faculty/it-business-management-solutions-india-private-limited/20069481",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 2,
+      "matchedSkills": [
+        "power bi"
+      ]
     },
     {
       "title": "Power BI Developer",
@@ -6090,21 +6107,6 @@
       "source": "indeed",
       "matchScore": 1,
       "matchedSkills": []
-    },
-    {
-      "title": "Data Science Analyst",
-      "company": "Aakash Educational Services (AESL)",
-      "location": "New Delhi, IN",
-      "summary": "Requirement:\n\n• Bachelors degree in Data Science, Statistics, Computer Science, Mathematics, or related field.\n• 4-5 years of experience in data analysis or business intelligence, preferably in a call center or service operations environment.\n• Strong knowledge of MS Excel, SQL, and Python (or R) fo",
-      "link": "https://bebee.com/in/jobs/data-science-analyst-aakash-educational-services-aesl-delhi-ncr-delhi--adsolave-114476385",
-      "postedAt": "2026-07-08T23:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 1,
-      "matchedSkills": [
-        "sql",
-        "excel",
-        "python"
-      ]
     }
   ]
 }
