@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T23:53:13.915Z",
+  "lastUpdated": "2026-11-21T06:41:09.900Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -128,6 +128,22 @@
       "matchedSkills": [
         "sql",
         "powerbi",
+        "excel",
+        "tableau"
+      ]
+    },
+    {
+      "title": "Digital Data Analyst",
+      "company": "Randomtrees",
+      "location": "Chennai, IN",
+      "summary": "• Experience: 4+ years of dedicated experience in Marketing Analytics, Data Analytics, or Business Intelligence.\n• Analytics Tools: Expert-level proficiency in SQL, Excel (VBA, Advanced Formulas), Power BI, and Tableau.\n• Web/Digital Analytics: Hands-on expertise with GA4, Adobe Analytics, GTM, and ",
+      "link": "https://www.jobleads.com/in/job/digital-data-analyst--chennai--e7fa0fee6cca8a8a6a1979d50ac5268a8",
+      "postedAt": "2026-11-18T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 9,
+      "matchedSkills": [
+        "sql",
+        "power bi",
         "excel",
         "tableau"
       ]
@@ -576,6 +592,20 @@
         "sql",
         "power bi",
         "excel"
+      ]
+    },
+    {
+      "title": "Remote SQL Developer & Data Analyst - Healthcare",
+      "company": "VetsEZ",
+      "location": "Remote",
+      "summary": "VetsEZ is seeking a SQL Developer / Data Analyst for a 100% remote role supporting a large federal healthcare modernization project for the Department of Veterans Affairs. You will leverage SQL Server, Power BI, and BI tools to analyze clinical data, build dashboards, and ensure data quality during ",
+      "link": "https://www.jobleads.com/us/job/remote-sql-developer-data-analyst-healthcare--miami--ee18f577e49770d084417b30e58e576be",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 7,
+      "matchedSkills": [
+        "sql",
+        "power bi"
       ]
     },
     {
@@ -1717,28 +1747,6 @@
         "excel",
         "tableau"
       ]
-    },
-    {
-      "title": "Data Analyst Intern / Training (Chandigarh)",
-      "company": "KP ITexperts",
-      "location": "Chandigarh, IN",
-      "summary": "Data Analytics Internship/Training\n\nCompany:\n\nKP ITexperts\n\nTitle: Data Analytics Internship/Training\n\nLocation: Mohali, Chandigarh\n\nJob Type: Internship / Training\n\nAbout the Internship/Training\n\nWe are offering an intensive Data Analytics Internship/Training designed for freshers, students, gradua",
-      "link": "https://www.shine.com/jobs/data-analyst-intern-training-chandigarh/kp-itexperts/19294874",
-      "postedAt": "2026-07-25T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": []
-    },
-    {
-      "title": "Data Analyst Intern",
-      "company": "Elements Energy",
-      "location": "Patna, IN",
-      "summary": "• Data Analytics & Business Intelligence\n\nData Analytics\n\nData Analyst Intern – Patna\n\nWork on a Government-supported Demand Response Program, analyzing utility and consumer datasets, building dashboards, generating business insights, and supporting smart grid and energy analytics initiatives.\n\nExpl",
-      "link": "https://www.jobleads.com/in/job/data-analyst-intern-patna--patna--ec9d04746ce72cc1678e47ab4536aa097",
-      "postedAt": "2026-07-25T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": []
     },
     {
       "title": "DATA ANALYST",
@@ -4941,6 +4949,17 @@
       "matchedSkills": []
     },
     {
+      "title": "Data Analyst – AI & Advanced Analytics",
+      "company": "Precision Technologies",
+      "location": "Remote",
+      "summary": "Role: Data Analyst – AI & Advanced Analytics\n\nExperience: 6+ Years\n\nEmployment Type: W2 – Full-Time\n\nLocation: Remote\n\nPosition Overview\n\nWe are seeking an experienced Data Analyst with a strong background in data analysis, business intelligence, and reporting solutions. The ideal candidate will hav",
+      "link": "https://www.jobleads.com/us/job/data-analyst-ai-advanced-analytics--texas--e9f08a92f59c87b3979772555989e52b6",
+      "postedAt": "2026-11-18T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
       "title": "Data Analytics Analyst - Remote, Mission-Critical Insights",
       "company": "Space Systems Command",
       "location": "Remote",
@@ -6093,17 +6112,6 @@
       "summary": "Description\nThe Leidos Digital Modernization Sector is seeking a Data Center Network Engineer in support of the Air Force National Capital (AFNCR) IT Services program.\n\nAt Leidos, we deliver innovative solutions through the efforts of our diverse and talented people who are dedicated to our customer",
       "link": "https://careers.leidos.com/jobs/18047752-data-center-network-engineer",
       "postedAt": "2026-07-29T00:00:00.000Z",
-      "source": "indeed",
-      "matchScore": 1,
-      "matchedSkills": []
-    },
-    {
-      "title": "Data Analytics Analyst",
-      "company": "AARP",
-      "location": "Washington, US",
-      "summary": "Overview\n\nAARP is the nation's largest nonprofit, nonpartisan organization dedicated to empowering people 50 and older to choose how they live as they age. With a nationwide presence, AARP strengthens communities and advocates for what matters most to the more than 100 million Americans 50-plus and ",
-      "link": "https://careers.aarp.org/about-us/jobs/7682?lang=en-us",
-      "postedAt": "2026-07-23T00:00:00.000Z",
       "source": "indeed",
       "matchScore": 1,
       "matchedSkills": []
