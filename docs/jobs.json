@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T06:41:09.900Z",
+  "lastUpdated": "2026-11-21T18:58:45.184Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -1722,33 +1722,6 @@
       ]
     },
     {
-      "title": "Data Analyst Intern  Paid Internship Opportunity in Chennai  College",
-      "company": "SysTechCare Support",
-      "location": "Chennai, IN",
-      "summary": "Job SummarySysTechCare Support is offering a dynamic Data Analyst Internship for recent college graduates and final-year students who are passionate about data, analytics, and actionable business insights. This paid internship provides a hands-on learning experience in a professional environment whe",
-      "link": "https://www.shine.com/jobs/data-analyst-intern-paid-internship-opportunity-in-chennai-college/systechcare-support/19307140",
-      "postedAt": "2026-07-25T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": []
-    },
-    {
-      "title": "Data Analytics Internship in Ahmedabad",
-      "company": "Confluencr - Global Influencer Marketing Agency",
-      "location": "Ahmedabad, IN",
-      "summary": "Responsibilities\n\nSelected intern's day-to-day responsibilities include:\n\nCollect, clean, and analyze data from multiple sources to support business decisions\n\nBuild dashboards and reports using tools like Excel, SQL, and Power BI/Tableau\n\nIdentify trends, patterns, and insights to help improve proc",
-      "link": "https://www.shine.com/jobs/data-analytics-internship-in-ahmedabad/confluencr-global-influencer-marketing-agency/19292012",
-      "postedAt": "2026-07-25T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 6,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "excel",
-        "tableau"
-      ]
-    },
-    {
       "title": "DATA ANALYST",
       "company": "AaraTechnologies Inc",
       "location": "Remote",
@@ -2917,6 +2890,21 @@
       ]
     },
     {
+      "title": "Buisness Analyst",
+      "company": "UN IT ERP ACADEMY",
+      "location": "India",
+      "summary": "Buisness Analyst\n\nCompany: UN IT ERP ACADEMY\nJob Location: Remote (Work from home), India\nEmployment Type: Not specified\nSalary: 1.2L1.8L a year\n\nURGENT REQUIREMENT FOR BUISNESS ANALYST :\n\nA. Skills and Data Visualization\n\n1. Microsoft Excel (Advance )&Google sheets\n2. Power BI and Tableau\n\nGoogle A",
+      "link": "https://www.shine.com/jobs/buisness-analyst/un-it-erp-academy/20092721",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 4,
+      "matchedSkills": [
+        "power bi",
+        "excel",
+        "tableau"
+      ]
+    },
+    {
       "title": "Data Analyst (Python, SQL & Power BI) | Zenbyte Technologies | PAN India",
       "company": "Zenbyte Technologies",
       "location": "Bengaluru, IN",
@@ -3100,6 +3088,20 @@
         "sql",
         "power bi",
         "tableau"
+      ]
+    },
+    {
+      "title": "reputed company Power BI Developer Only USC Remote",
+      "company": "remote quest jobs",
+      "location": "Remote",
+      "summary": "We need an Hands on Developer with the reputed company skills.reputed company site setup and update :The listUpload the data from multiple sources excel sheet et coin monthly basisCreate columns as needed add calculations as neededPower BI dashboardConnect list BI report (Budget Status Owner Timelin",
+      "link": "https://us.remotejobs.dedyn.io/job/reputed-company-power-bi-developer-only-usc-remote",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 3,
+      "matchedSkills": [
+        "power bi",
+        "excel"
       ]
     },
     {
@@ -3517,39 +3519,6 @@
         "sql",
         "tableau"
       ]
-    },
-    {
-      "title": "MIS Executive and Analyst (Surat)",
-      "company": "Gurukrupa Exports",
-      "location": "Surat, IN",
-      "summary": "Job Title: MIS Analyst\n\nCompany\n\nLocation: Surat\n\nJob Summary\n\nWe're looking for a MIS Analyst to support our jewellery business with data-driven insights.\n\nYou'll analyze sales, inventory, customer trends, and more to help us make smart decisions.\n\nKey Responsibilities:Create MIS reports on sales, ",
-      "link": "https://www.shine.com/jobs/mis-executive-and-analyst-surat/gurukrupa-exports/19321238",
-      "postedAt": "2026-07-28T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 3,
-      "matchedSkills": []
-    },
-    {
-      "title": "MIS Executive and Analyst",
-      "company": "Gurukrupa Exports",
-      "location": "Surat, IN",
-      "summary": "Job Title: MIS Analyst\nCompany\nLocation: Surat\nJob Summary\nWe're looking for a MIS Analyst to support our jewellery business with data-driven insights.\nYou'll analyze sales, inventory, customer trends, and more to help us make smart decisions.\n\nKey Responsibilities:Create MIS reports on sales, stock",
-      "link": "https://www.shine.com/jobs/mis-executive-and-analyst/gurukrupa-exports/19317229",
-      "postedAt": "2026-07-27T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 3,
-      "matchedSkills": []
-    },
-    {
-      "title": "Data Analytics",
-      "company": "one.com",
-      "location": "India",
-      "summary": "Overview\n\nWe are looking for a Data Analyst to support our Nordic markets (Finland and Norway) by enabling data-driven decision-making, performance optimization, and business visibility. The role will primarily focus on the Nordic region while maintaining flexibility to support global initiatives ba",
-      "link": "https://www.jobleads.com/in/job/data-analytics--gurugram-district--e3a9e4d1885781c7f70d3de2edcdec39c",
-      "postedAt": "2026-07-27T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 3,
-      "matchedSkills": []
     },
     {
       "title": "Data Analytics Trainer - Power BI, Telugu, Faculty",
@@ -4956,6 +4925,41 @@
       "link": "https://www.jobleads.com/us/job/data-analyst-ai-advanced-analytics--texas--e9f08a92f59c87b3979772555989e52b6",
       "postedAt": "2026-11-18T00:00:00.000Z",
       "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Senior BI Leader – Sales Analytics & Power BI",
+      "company": "CVS Health",
+      "location": "Remote",
+      "summary": "CVS Health is seeking a Business Intelligence Developer to advance analytics across the commercial sales environment. You will design, build, and maintain Power BI dashboards and data models to empower sales leadership with actionable insights.\n\nYou will partner with analysts and IT teams to transla",
+      "link": "https://www.jobleads.com/us/job/senior-bi-leader-sales-analytics-power-bi--tallahassee--e0da07a69579bce1eadd57d59633a9962",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 1,
+      "matchedSkills": [
+        "power bi"
+      ]
+    },
+    {
+      "title": "Sr Data Analyst",
+      "company": "Value Research",
+      "location": "Noida, IN",
+      "summary": "Sr Data Analyst\n\nCompany: Value Research\nJob Location: Noida, Uttar Pradesh, India\nEmployment Type: Full-time\nExperience Required: 4 - 7 years\n\nJob highlights\n\nOur reputation for data accuracy,reliability and insight-driven analysis has made us the preferred knowledge partner for many industry initi",
+      "link": "https://www.shine.com/jobs/sr-data-analyst/value-research/20095611",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 1,
+      "matchedSkills": []
+    },
+    {
+      "title": "Data Analyst Lead Navi Mumbai",
+      "company": "Wärtsilä",
+      "location": "Navi Mumbai, IN",
+      "summary": "Data Analyst Lead Navi Mumbai\n\nCompany: Wrtsil\nJob Location: Navi Mumbai, Maharashtra, India\nEmployment Type: Full-time\nExperience Required: 8+ years\n\nJob highlights\n\nBachelor s or Master s degree in Data Science,Statistics,Computer Science,or related field . Ability to create dashboards and visuali",
+      "link": "https://www.shine.com/jobs/data-analyst-lead-navi-mumbai/wartsila/20092360",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "source": "naukri",
       "matchScore": 1,
       "matchedSkills": []
     },
