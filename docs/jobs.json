@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T18:58:45.184Z",
+  "lastUpdated": "2026-11-22T06:09:52.719Z",
   "query": "data analyst power bi sql excel tableau",
   "count": 500,
   "jobs": [
@@ -341,6 +341,36 @@
         "power bi",
         "excel",
         "tableau",
+        "python"
+      ]
+    },
+    {
+      "title": "Data Analyst - Power BI, Python, SQL",
+      "company": "Evoke HR Solutions Pvt. Ltd.",
+      "location": "India",
+      "summary": "About the Role\n\nThis Data Analyst position is essential for leveraging data to support business decision-making within the organization. The successful candidate will utilize advanced analytical skills and a variety of tools to extract meaningful insights from complex datasets.\n\nWhat You'll Do\n\n- Co",
+      "link": "https://www.shine.com/jobs/data-analyst-power-bi-python-sql/evoke-hr-solutions-pvt-ltd/20114881",
+      "postedAt": "2026-11-21T07:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 8,
+      "matchedSkills": [
+        "sql",
+        "power bi",
+        "python"
+      ]
+    },
+    {
+      "title": "Data Analyst - Power BI, Python, SQL",
+      "company": "Evoke HR Solutions Pvt. Ltd.",
+      "location": "India",
+      "summary": "About the Role\nIn your first few months, you'll transform complex data into meaningful insights that directly influence our business strategies.\n\nWhat You'll Do\n- Examine extensive datasets to uncover trends and actionable insights that drive business growth.\n- Create and sustain dashboards in Power",
+      "link": "https://www.shine.com/jobs/data-analyst-power-bi-python-sql/evoke-hr-solutions-pvt-ltd/20115183",
+      "postedAt": "2026-11-21T07:00:00.000Z",
+      "source": "naukri",
+      "matchScore": 8,
+      "matchedSkills": [
+        "sql",
+        "power bi",
         "python"
       ]
     },
@@ -884,17 +914,15 @@
       ]
     },
     {
-      "title": "Data Analyst (Trainee Remote) (Jaipur)",
-      "company": "Enerzio",
-      "location": "Jaipur, IN",
-      "summary": "Job Title: Data Analyst Trainee (Remote)\n\nLocation: Remote\n\nJob Type: Full time / Internship (Trainee)\n\nAbout the Role:\n\nWe are seeking a highly motivated and detail-oriented Data Analyst Trainee to join our dynamic team. This is an excellent opportunity for individuals looking to start or advance t",
-      "link": "https://www.shine.com/jobs/data-analyst-trainee-remote-jaipur/enerzio/19332223",
-      "postedAt": "2026-07-28T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 7,
-      "matchedSkills": [
-        "excel"
-      ]
+      "title": "DLN Consulting Group: Data Analyst-Part Time",
+      "company": "Hire Developers",
+      "location": "Remote",
+      "summary": "DLN Consulting Group is seeking a Part-Time Data Analyst to collect, organize, and interpret data for client engagements and internal operations. The role supports a flexible schedule within a remote-friendly professional services environment.\n\nCandidates should have a Bachelor's degree in a relevan",
+      "link": "https://www.jobleads.com/us/job/dln-consulting-group-data-analyst-part-time--ohio--eaa291bb465632eed382717854270525a",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 6,
+      "matchedSkills": []
     },
     {
       "title": "Remote SQL Data Analyst — Healthcare EHR Modernization",
@@ -1720,6 +1748,17 @@
       "matchedSkills": [
         "tableau"
       ]
+    },
+    {
+      "title": "Remote Data Analyst",
+      "company": "Deep Green Construction",
+      "location": "Remote",
+      "summary": "Company: Deep Green Construction\nLocation: Remote (U.S. based preferred)\nEmployment Type: Full-Time\n\nAbout Deep Green Construction\n\nDeep Green Construction is a leader in sustainable and high-quality building solutions. We specialize in residential and commercial projects that balance innovation, ef",
+      "link": "https://www.talent.com/view?id=646879333359097445",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "source": "indeed",
+      "matchScore": 5,
+      "matchedSkills": []
     },
     {
       "title": "DATA ANALYST",
@@ -2830,17 +2869,6 @@
       "summary": "We are looking for a skilled and analytical Data Analyst Finance, Procurement & Sales to join our team and support data-driven decision-making across Finance, Procurement, Sales, and Business Operations.\n\nKey Responsibilities:\n\nAnalyse financial, procurement, and sales data to generate actionable in",
       "link": "https://www.shine.com/jobs/data-analyst-finance-procurement-industry-medical-device-manufacturing/clarity-medical-pvt-ltd/19338459",
       "postedAt": "2026-07-30T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 5,
-      "matchedSkills": []
-    },
-    {
-      "title": "HR - Data Analyst with Varahe Analytics Private Limited (Noida, PQE 4+ Years)",
-      "company": "Skill Arbitrage Opportunities",
-      "location": "Gurugram, IN",
-      "summary": "About the Organisation Varahe Analytics is a leading integrated political consulting firm in India, specializing in data-driven election management, strategic advisory, and campaign execution through insights and ground intelligence. About the Job: Varahe Analytics Private Limited is hiring a Data A",
-      "link": "https://www.shine.com/jobs/hr-data-analyst-with-varahe-analytics-private-limited-noida-pqe-4-years/skill-arbitrage-opportunities/19327227",
-      "postedAt": "2026-07-28T00:00:00.000Z",
       "source": "naukri",
       "matchScore": 5,
       "matchedSkills": []
@@ -6089,33 +6117,6 @@
       "summary": "Deloitte is seeking a Data Engineer II to support the design, development, and delivery of data solutions that enable analytics, reporting, and business decision-making. This role will focus on building scalable data pipelines, improving data quality, and supporting modern data platform capabilities",
       "link": "https://www.indeed.com/viewjob?jk=0e5c22da5a84813b",
       "postedAt": "2026-07-31T00:00:00.000Z",
-      "source": "indeed",
-      "matchScore": 1,
-      "matchedSkills": []
-    },
-    {
-      "title": "Deputy Manager - Mis (finance & Accounting) - (python, Sql, Tableau, Power Bi)",
-      "company": "WNS Global Services",
-      "location": "Pune, IN",
-      "summary": "Company Description WNS Holdings Limited NYSE WNS is a leading Business Process Management BPM company We combine our deep industry knowledge with technology and analytics expertise to co-create innovative digital-led transformational solutions with clients across 10 industries We enable businesses ",
-      "link": "https://bebee.com/in/jobs/deputy-manager-mis-finance-accounting-python-sql-tableau-power-bi-wns-global-services-pune-maharasht--jobted-6d1ce7750fbf0a3809c9b99913a940f7",
-      "postedAt": "2026-07-29T00:00:00.000Z",
-      "source": "naukri",
-      "matchScore": 1,
-      "matchedSkills": [
-        "sql",
-        "power bi",
-        "tableau",
-        "python"
-      ]
-    },
-    {
-      "title": "Data Center Network Engineer",
-      "company": "Leidos",
-      "location": "Camp Springs, US",
-      "summary": "Description\nThe Leidos Digital Modernization Sector is seeking a Data Center Network Engineer in support of the Air Force National Capital (AFNCR) IT Services program.\n\nAt Leidos, we deliver innovative solutions through the efforts of our diverse and talented people who are dedicated to our customer",
-      "link": "https://careers.leidos.com/jobs/18047752-data-center-network-engineer",
-      "postedAt": "2026-07-29T00:00:00.000Z",
       "source": "indeed",
       "matchScore": 1,
       "matchedSkills": []
